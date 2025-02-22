@@ -1,0 +1,40 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   144 MHz   Oktobris 2024
+   YL2FZ QSO LOG    WWL: KO37QI
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1703  YL3EK       55   53   KO27FF   176   176  KO27
+ 1706  YL3ANT      53   54   KO36PM    93    93  KO36
+ 1708  YL2II       55   56   KO26OO   156   156  KO26
+ 1711  YL2GD       599  599  KO37ML    25    25  KO37
+ 1715  YL3ANJ      55   54   KO36QU    56    56
+ 1719  YL2KO       599  599  KO37RI     5     5
+ 1723  YL2AO       54   57   KO16DK   326   326  KO16
+ 1724  OH0AZX      54   55   KP00IF   500   500  KP00  >Ieskaitîts QSO
+ 1735  SM5CUI      54   55   JO89WW   620   620  JO89  >Ieskaitîts QSO
+ 1739  YL2AJ       54   54   KO16OX   255   255
+ 1742  ES8PW       55   56   KO18VM   249   249  KO18  >Ieskaitîts QSO
+ 1747  ES4RM       53   52   KO49AL   240   240  KO49  >Ieskaitîts QSO
+ 1748  OG3Z        54   55   KP11MK   516   516  KP11  >Ieskaitîts QSO
+ 1750  OH3NE       53   54   KP11UL   504   504        >Ieskaitîts QSO
+ 1811  LY2BBF      599  599  KO24PR   320   320  KO24
+ 1816  SK0EN       599  599  JO99JX   576   576  JO99  >Ieskaitîts QSO
+ 1821  SK0CT       57   55   JO99BM   590   590        >Ieskaitîts QSO
+ 1824  OH0A        57   57   KP00AF   530   530        >Ieskaitîts QSO
+ 1830  UA1ASA      59   59   KO48GH   127   127  KO48  >Ieskaitîts QSO
+ 1830  YL3GEA      59   59   KO37QM    19    19
+ 1834  SK1BL       56   55   JO97HK   525   525  JO97  >Ieskaitîts QSO
+ 1836  YL2QV       55   54   KO26WM   130   130
+ 1842  R1AO        55   54   KP40TG   350   350  KP40  >Ieskaitîts QSO
+ 1847  OH1F        54   55   KP01TK   559   559  KP01  >Ieskaitîts QSO
+ 1859  ES3MAR      55   57   KO28KX   233   233  KO28  >Ieskaitîts QSO
+ 1905  ES6RMR      56   58   KO27XX   110   110        >Ieskaitîts QSO
+ 1919  R1DM        55   57   KO49XQ   300   300        >Ieskaitîts QSO
+ 1921  R1CAM       53   54   KO49TV   312   312        >Ieskaitîts QSO
+ 1929  LY2WR       14   11   KO24FO   356   356        >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 8758 + 8500 = 17258
+======================================================================
+23.10.2024                             VHFTest v3.2.190  LY2CG © 2016 

@@ -1,0 +1,44 @@
+  
+   YL VHF ACTIVITY CONTEST (YLAC)
+   432 MHz   JUNE 2024
+   LY2R QSO LOG    WWLoc: KO15VS
+======================================================================
+ UTC   Callsign    RSTs RSTr WWLoc    QRB   Pnts WWLs  Comment
+======================================================================
+ 1701  OH4LA       559  559  KP20LG   506   506  KP20  > No LOG but QSO credited
+ 1706  ES2PRM      59   59   KO29GG   392   392  KO29  > No LOG but QSO credited
+ 1706  OH2FQV      57   57   KP20MF   502   502        > No LOG but QSO credited
+ 1707  LY2HS       59   59   KO25UO   122   122  KO25
+ 1708  LY4AA       59   59   KO14WW    93    93  KO14  > No LOG but QSO credited
+ 1709  LY5AA       59   59   KO14WW    93    93        > No LOG but QSO credited
+ 1710  LY3JE       59   59   KO26TC   121   121  KO26
+ 1715  SK1BL       599  569  JO97HK   367   367  JO97  > No LOG but QSO credited
+ 1719  SM0KAK      559  559  JO89XK   536   536  JO89  > No LOG but QSO credited
+ 1720  YL2AO       599  599  KO16DK   119   119  KO16
+ 1725  SM6VTZ      559  559  JO58UJ   785   785  JO58  > No LOG but QSO credited
+ 1730  LY2CH       599  599  KO15OV    39    39  KO15  > No LOG but QSO credited
+ 1737  SM6BFE      559  559  JO68DQ   764   764  JO68  > No LOG but QSO credited
+ 1744  LY5AT       599  599  KO24JQ   137   137  KO24  > No LOG but QSO credited
+ 1746  LY2BDA      599  599  KO24MQ   145   145        > No LOG but QSO credited
+ 1755  SP2FRY      599  559  JO83WR   443   443  JO83  > No LOG but QSO credited
+ 1804  LY2VO       59   59   KO15PX    39    39
+ 1818  SK6EI       559  559  JO68VK   672   672        > No LOG but QSO credited
+ 1823  LY1BWB      599  599  KO24PR   150   150        > No LOG but QSO credited
+ 1828  SM5EPO      559  599  JP80MC   625   625  JP80  > No LOG but QSO credited
+ 1836  ES8AY       55   59   KO28GJ   296   296  KO28  > No LOG but QSO credited
+ 1857  SM0BSO      559  559  JO99BG   516   516  JO99  > No LOG but QSO credited
+ 1918  YL2FZ       559  559  KO37QI   282   282  KO37
+ 1928  ES1OX       559  559  KO29HI   402   402        > No LOG but QSO credited
+ 1934  OH0A        59   55   KP00AF   543   543  KP00  > No LOG but QSO credited
+ 1939  ES2DF       559  559  KO29GG   392   392        > No LOG but QSO credited
+ 1947  SP2WPY      559  559  JO94FL   369   369  JO94  > No LOG but QSO credited
+ 1950  YL2AJ       599  599  KO16OX   140   140
+ 1956  SK0EN       599  599  JO99JX   554   554        > No LOG but QSO credited
+ 2021  SK0CT       559  559  JO99BM   536   536        > No LOG but QSO credited
+ 2024  LY2BBF      559  599  KO24PR   150   150
+ 2038  OH0AZX      57   55   KP00IF   528   528        > No LOG but QSO credited
+ 2052  SM0FZH      559  559  JO99HI   504   504        > No LOG but QSO credited
+                              ----------------------------------------
+                                   Score: 11862 + 9500 = 21362
+======================================================================
+21.06.2024                             VHFTest v3.2.190  LY2CG © 2016 

@@ -1,0 +1,40 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   144 MHz   Jûlijs 2024
+   YL3ES QSO LOG    WWL: KO27FF
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1703  YL1ZF       59   59   KO27AA    35    35  KO27
+ 1707  YL2AJ       58   57   KO16OX    81    81  KO16
+ 1708  YL2AO       59   59   KO16DK   159   159
+ 1710  YL3EK       59   59   KO27FF     1     1
+ 1713  YL2QV       59   55   KO26WM   117   117  KO26
+ 1719  YL2GD       59   57   KO37ML   158   158  KO37
+ 1731  YL2FZ       55   52   KO37QI   176   176
+ 1742  ES5PWN      53   53   KO38BP   186   186  KO38  >Ieskaitîts QSO
+ 1745  OH2LIY      54   53   KP20MG   340   340  KP20  >Ieskaitîts QSO
+ 1746  OH1RI       55   55   KP10HQ   399   399  KP10  >Ieskaitîts QSO
+ 1749  OH6KTL      53   53   KP02OJ   603   603  KP02  >Ieskaitîts QSO
+ 1759  SM0WW       54   56   JO99KO   419   419  JO99  >Ieskaitîts QSO
+ 1801  LY1CR       56   56   KO15CL   239   239  KO15  >Ieskaitîts QSO
+ 1805  SM5EPO      54   56   JP80MC   535   535  JP80  >Ieskaitîts QSO
+ 1830  OH3BDS      55   55   KP10PR   395   395        >Ieskaitîts QSO
+ 1831  OH6KTL      52   53   KP02OJ     0     0        > Atkârtots sakars 17:49
+ 1835  OH3DP       54   53   KP10TT   402   402        >Ieskaitîts QSO
+ 1839  LY2HS       58   59   KO25UO   197   197  KO25
+ 1844  YL3ANJ      55   56   KO36QU   182   182  KO36
+ 1845  OH4LA       54   52   KP20LG   340   340        >Ieskaitîts QSO
+ 1848  ES4RM       54   53   KO49AL   326   326  KO49  >Ieskaitîts QSO
+ 1852  OI3V        53   54   KP21FV   519   519  KP21  >Ieskaitîts QSO
+ 1856  OH3UAI      53   54   KP20MN   373   373        >Ieskaitîts QSO
+ 1859  R1DM        54   55   KO49XQ   421   421        >Ieskaitîts QSO
+ 1916  SK0QO       54   56   JO99CC   422   422        >Ieskaitîts QSO
+ 1939  OH4MR       53   53   KP21RB   431   431        >Ieskaitîts QSO
+ 2008  SM4DXO      55   53   JP71SB   663   663  JP71  >Ieskaitîts QSO
+ 2016  OH4MR       52   52   KP21RB     0     0        > Atkârtots sakars 19:39
+ 2018  ES1IND      04   09   KO29       0     0        ? KO29
+                              ----------------------------------------
+                                    Score: 8119 + 8000 = 16119
+======================================================================
+03.08.2024                             VHFTest v3.2.190  LY2CG © 2016 

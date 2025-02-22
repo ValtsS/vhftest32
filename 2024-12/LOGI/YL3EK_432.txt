@@ -1,0 +1,60 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitates Sacensibas (YLAC)
+   432 MHz   Decembris 2024
+   YL3EK QSO LOG    WWL: KO27FF
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1806  SM7PYJ      56   55   JO76TE   552   552  JO76  >Ieskaitits QSO
+ 1807  SM1FMT      56   54   JO96BW   384   384  JO96  >Ieskaitits QSO
+ 1809  OZ1SKY      58   55   JO56DG   869   869  JO56  >Ieskaitits QSO
+ 1812  SK1BL       55   56   JO97HK   351   351  JO97  >Ieskaitits QSO
+ 1815  OZ1KWJ      55   55   JO45TX   917   917  JO45  >Ieskaitits QSO
+ 1817  SM7MBH      55   53   JO75EM   649   649  JO75  >Ieskaitits QSO
+ 1824  SM1HOW      54   53   JO97GL   356   356        >Ieskaitits QSO
+ 1827  YL2FZ       56   54   KO37QI   176   176  KO37
+ 1834  SM7HGY      54   53   JO86DR   498   498  JO86  >Ieskaitits QSO
+ 1835  DJ4TC       53   55   JO63PN   814   814  JO63  >Ieskaitits QSO
+ 1839  OZ1IIL      54   53   JO47HC   953   953  JO47  >Ieskaitits QSO
+ 1841  YL3ANJ      53   54   KO36QU   182   182  KO36
+ 1843  GI6ATZ      53   53   IO74AJ  1910  1910  IO74  >Ieskaitits QSO
+ 1850  OH4LA       53   53   IO74AJ     0     0        > Kluda WWL, bija KP20LG
+ 1852  G4KUX       54   54   IO94BP  1655  1655  IO94  >Ieskaitits QSO
+ 1853  YL2QG       53   54   KO06QR   195   195  KO06
+ 1859  DJ4TC       53   56   JO63PN     0     0        > Atkartots sakars 18:35
+ 1910  LY1CR       55   54   KO15CL   239   239  KO15  >Ieskaitits QSO
+ 1914  SM4ONW      52   54   JP70QN   640   640  JP70  >Ieskaitits QSO
+ 1917  SM5CUI      54   55   JO89WW   486   486  JO89  >Ieskaitits QSO
+ 1919  SA0CAN      55   55   JO99CH   433   433  JO99  >Ieskaitits QSO
+ 1921  SM6BFE      57   55   JO68DQ   735   735  JO68  >Ieskaitits QSO
+ 1922  SM6LJP      53   54   JO68WI   639   639        >Ieskaitits QSO
+ 1924  OZ3Z        53   54   JO45UN   925   925        >Ieskaitits QSO
+ 1938  LB2WD       54   54   JO48HM   945   945  JO48  >Ieskaitits QSO
+ 1940  YL2AJ       59   57   KO16OX    81    81  KO16
+ 1945  SM5EPC      56   56   JP90CE   489   489  JP90  >Ieskaitits QSO
+ 1946  YL3ES       59   59   KO27FF     1     1  KO27
+ 1953  OZ1DLD      54   57   JO63TM     0     0        > Kluda WWL, bija JO45RL
+ 1954  DG0NE       55   57   JO63TM   798   798        >Ieskaitits QSO
+ 1955  SM7VUK      55   55   JO66LI   707   707  JO66  >Ieskaitits QSO
+ 1956  OZ2OE       55   53   JO45VV   909   909        >Ieskaitits QSO
+ 2001  OZ9FW       55   55   JO65CO   774   774  JO65  >Ieskaitits QSO
+ 2006  OZ1KWJ      56   55   JO45TX     0     0        > Atkartots sakars 18:15
+ 2019  GI6ATZ      53   53   IO74AJ     0     0        > Atkartots sakars 18:43
+ 2028  OZ9GE       52   54   JO66CB   760   760        >Ieskaitits QSO
+ 2031  PA2V        54   53   JO22IM  1362  1362  JO22  >Ieskaitits QSO
+ 2037  SM7MBH      55   54   JO75EM     0     0        > Atkartots sakars 18:17
+ 2044  OZ8PG       55   52   JO66EC   748   748        >Ieskaitits QSO
+ 2049  YL3NF       58   57   KO17QA    70    70  KO17  >Ieskaitits QSO
+ 2051  OZ1FKZ      56   55   JO56AA   891   891        >Ieskaitits QSO
+ 2058  ES3RF       55   55   KO29IF   223   223  KO29  >Ieskaitits QSO
+ 2059  SM0LQB      55   56   JO89WF   445   445        >Ieskaitits QSO
+ 2107  ES1TP       54   55   KO29IK   246   246        >Ieskaitits QSO
+ 2110  YL2GD       57   56   KO37ML   158   158
+ 2119  OZ4VW       54   53   JO45UT   917   917        >Ieskaitits QSO
+ 2121  SM6FBQ      53   53   JO67BQ   739   739  JO67  >Ieskaitits QSO
+ 2133  SM7KOJ      54   55   JO66ND   702   702        >Ieskaitits QSO
+ 2149  DL2RZ       55   55   JO54BJ   948   948  JO54  >Ieskaitits QSO
+                              ----------------------------------------
+                                   Score: 27471 + 15000 = 42471
+======================================================================
+16.12.2024                             VHFTest v3.2.190  LY2CG © 2016 

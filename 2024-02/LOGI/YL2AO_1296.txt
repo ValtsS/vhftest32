@@ -1,0 +1,29 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   1296 MHz   Februaris 2024
+   YL2AO QSO LOG    WWL: KO16DK
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1837  LY3JE       59   59   KO26TC   210   210  KO26  >Ieskaitîts QSO
+ 1843  SM0BHN      559  559  JO89WI   417   417  JO89  >Ieskaitîts QSO
+ 1852  YL2AJ       599  599  KO16OX     0     0        > Nav otra dalîbnieka LOG-â
+ 1859  SM7ECM      559  559  JO65PU   561   561  JO65  >Ieskaitîts QSO
+ 1902  YL2GD       559  559  KO37ML   311   311  KO37
+ 1911  LY2R        599  599  KO15VS   119   119  KO15
+ 1921  SK0EN       559  559  JO99JX   444   444  JO99  >Ieskaitîts QSO
+ 1927  SM0BSO      559  559  JO99BG   400   400        >Ieskaitîts QSO
+ 1944  SM7LCB      559  559  JO86GH   355   355  JO86  >Ieskaitîts QSO
+ 1948  SK0CT       559  559  JO99BM   422   422        >Ieskaitîts QSO
+ 1949  SM0RJV      559  559  JO89VJ   423   423        >Ieskaitîts QSO
+ 1954  YL2AJ       599  599  KO16OX    83    83  KO16
+ 2008  SP2FRY      559  559  JO83WR   412   412  JO83  >Ieskaitîts QSO
+ 2014  SP2DDV      559  559  JO83VE   463   463        >Ieskaitîts QSO
+ 2029  SM0DJW      54   54   JO88WW   383   383  JO88  >Ieskaitîts QSO
+ 2036  SA0CAN      54   55   JO99CH   401   401        >Ieskaitîts QSO
+ 2047  ES2DF       599  599  KO29GG   342   342  KO29  >Ieskaitîts QSO
+ 2141  SQ5N        559  559  KO02LH   467   467  KO02  >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 6213 + 6000 = 12213
+======================================================================
+02.03.2024                             VHFTest v3.2.190  LY2CG © 2016 

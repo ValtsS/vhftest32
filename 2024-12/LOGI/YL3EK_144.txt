@@ -1,0 +1,37 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitates Sacensibas (YLAC)
+   144 MHz   Decembris 2024
+   YL3EK QSO LOG    WWL: KO27FF
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1803  YL3ES       59   59   KO27FF     1     1  KO27
+ 1805  YL2QV       54   56   KO26WM   117   117  KO26
+ 1817  YL3ANJ      53   55   KO36QU     0     0        > Kluda RS/RST, bija 56
+ 1818  OH1LEU      55   55   KO36QU     0     0        > Nav dalibnieks vai CALL kluda
+ 1820  YL3ANJ      54   56   KO36QU   182   182  KO36
+ 1830  YL2AJ       59   59   KO16OX    81    81  KO16
+ 1846  YL2II       53   56   KO26OO    84    84
+ 1904  YL2FZ       56   57   KO37QI   176   176  KO37
+ 1905  ES2JL       55   54   KO29LL   252   252  KO29  >Ieskaitits QSO
+ 1934  OH3DP       55   56   KP10TT   402   402  KP10  >Ieskaitits QSO
+ 1939  OH1RI       54   53   KP10HQ   399   399        >Ieskaitits QSO
+ 1943  OH0AZX      53   53   KP00IF   398   398  KP00  >Ieskaitits QSO
+ 1954  ES3MAR      53   54   KO28KX   197   197  KO28  >Ieskaitits QSO
+ 1958  OG3Z        55   55   KP11MK   475   475  KP11  >Ieskaitits QSO
+ 2003  OH4LA       56   56   KP20LG   340   340  KP20  >Ieskaitits QSO
+ 2005  SM5CUI      56   54   JO89WW   486   486  JO89  >Ieskaitits QSO
+ 2007  SM4DXO      53   53   JP71SB   663   663  JP71  >Ieskaitits QSO
+ 2019  SK0QO       54   53   JO99CC   422   422  JO99  >Ieskaitits QSO
+ 2021  SK0QO       55   57   JO99CC     0     0        > Atkartots sakars 20:19
+ 2025  SK1BL       54   53   JO97HK   351   351  JO97  >Ieskaitits QSO
+ 2037  SM4LMV      54   53   JO79OC   581   581  JO79  >Ieskaitits QSO
+ 2054  SM4HFI      54   53   JP70TO   631   631  JP70  >Ieskaitits QSO
+ 2120  SK6EI       54   53   JO68VK   645   645  JO68  >Ieskaitits QSO
+ 2121  SK6EI       53   53   JO68VK     0     0        > Atkartots sakars 21:20
+ 2125  SK0CT       55   54   JO99BM   449   449        >Ieskaitits QSO
+ 2131  SM3XGV      54   53   JP81OF   606   606  JP81  >Ieskaitits QSO
+                              ----------------------------------------
+                                    Score: 7938 + 9500 = 17438
+======================================================================
+16.12.2024                             VHFTest v3.2.190  LY2CG © 2016 

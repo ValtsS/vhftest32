@@ -1,0 +1,43 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Jûlijs 2024
+   YL2CI QSO LOG    WWL: KO06TR
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1708  YL2AO       55   59   KO16DK    53    53  KO16
+ 1711  YL3ND       57   59   KO17JM   113   113  KO17
+ 1712  YL2QG       59   57   KO06QR    16    16  KO06
+ 1724  SM7HGY      57   56   JO86DR   326   326  JO86  >Ieskaitîts QSO
+ 1727  YL3BF       58   599  KO06       0     0        ? KO06
+ 1735  YL2QV       53   58   KO26WM   261   261  KO26
+ 1739  YL2FZ       55   53   KO37QI   355   355  KO37
+ 1746  YL2IV       57   57   KO06OL    38    38        >Ieskaitîts QSO
+ 1751  YL2GD       56   55   KO37ML   338   338
+ 1755  YL2II       52   53   KO26OO   220   220
+ 1758  YL3AOI      54   54   KO26MO   210   210
+ 1808  SM5EPO      57   55   JP80MC   461   461  JP80  >Ieskaitîts QSO
+ 1809  SM4DXO      54   54   JP70VO   547   547  JP70  >Ieskaitîts QSO
+ 1814  SM4ONW      54   53   JP70QN   559   559        >Ieskaitîts QSO
+ 1835  ES2JL       54   53   KO29LL   364   364  KO29  >Ieskaitîts QSO
+ 1841  SM0BSO      57   53   JO99BG   350   350  JO99  >Ieskaitîts QSO
+ 1845  SM5CUI      56   54   JO89WW   419   419  JO89  >Ieskaitîts QSO
+ 1858  SM7FJE      56   57   JO65VU   493   493  JO65  >Ieskaitîts QSO
+ 1904  SA5ACR      52   54   JO88FR   379   379  JO88  >Ieskaitîts QSO
+ 1911  OH0AZX      58   57   KP00IF   393   393  KP00  >Ieskaitîts QSO
+ 1914  OH1LEG      56   54   KP10FC   379   379  KP10  >Ieskaitîts QSO
+ 1916  OH3FM       53   53   KP21GM   559   559  KP21  >Ieskaitîts QSO
+ 1917  OH3NE       55   54   KP11UL   542   542  KP11  >Ieskaitîts QSO
+ 1919  ES8JX       54   53   KO28LM   282   282  KO28  >Ieskaitîts QSO
+ 1937  SM7KPB      56   56   JO76EP   443   443  JO76  >Ieskaitîts QSO
+ 1939  SM7MBH      55   53   JO75EM   469   469  JO75  >Ieskaitîts QSO
+ 1952  OH3MHA      56   54   KP20XW   531   531  KP20  >Ieskaitîts QSO
+ 1954  OH1RI       55   56   KP10HQ   444   444        >Ieskaitîts QSO
+ 1957  OH4GGW      54   53   KP31MO   624   624  KP31  >Ieskaitîts QSO
+ 2004  YL3OO       53   53   KO27DD   169   169  KO27
+ 2016  OH2BU       53   58   KP20FB   406   406        >Ieskaitîts QSO
+ 2052  OZ8MW       55   599  JO46       0     0        ? JO46
+                              ----------------------------------------
+                                   Score: 10743 + 11500 = 22243
+======================================================================
+03.08.2024                             VHFTest v3.2.190  LY2CG © 2016 

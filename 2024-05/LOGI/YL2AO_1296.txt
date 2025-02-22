@@ -1,0 +1,34 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   1296 MHz   Maijs 2024
+   YL2AO QSO LOG    WWL: KO16DK
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1708  YL3EK       58   59   KO27FF   159   159  KO27
+ 1713  LY2R        599  599  KO15VS     0     0        > Kïûda RS/RST, bija 59
+ 1718  YL2GD       599  599  KO37ML   311   311  KO37
+ 1728  LY3JE       59   59   KO26TC   210   210  KO26
+ 1734  SK0CT       559  559  JO99BM   422   422  JO99  >Ieskaitîts QSO
+ 1740  SM7LCB      579  579  JO86GH   355   355  JO86  >Ieskaitîts QSO
+ 1744  LY2VO       599  599  KO15PX     0     0        > Nav otra dalîbnieka LOG-â
+ 1801  SM7ECM      559  559  JO65PU   561   561  JO65  >Ieskaitîts QSO
+ 1813  SM0DJW      54   53   JO88WW   383   383  JO88  >Ieskaitîts QSO
+ 1822  SM6VTZ      559  559  JO58UJ   670   670  JO58  >Ieskaitîts QSO
+ 1834  SQ5N        559  559  KO02LH   467   467  KO02  >Ieskaitîts QSO
+ 1836  ES0FX       599  599  KO08XL   228   228  KO08  >Ieskaitîts QSO
+ 1850  SK0EN       559  559  JO99JX   444   444        >Ieskaitîts QSO
+ 1853  LY2CH       599  599  KO15OV    83    83  KO15  >Ieskaitîts QSO
+ 1901  SP2FRY      559  559  JO83WR   412   412  JO83  >Ieskaitîts QSO
+ 1906  LY2WR       599  599  KO24FO   246   246  KO24  >Ieskaitîts QSO
+ 1948  ES2DF       599  599  KO29GG   342   342  KO29  >Ieskaitîts QSO
+ 1956  SM0BSO      599  599  JO99BG   400   400        >Ieskaitîts QSO
+ 1957  SM0RJV      559  559  JO89VJ   423   423  JO89  >Ieskaitîts QSO
+ 2025  YL3ANJ      53   55   KO36QU   315   315  KO36
+ 2032  SP2WPY      599  599  JO94FL   326   326  JO94  >Ieskaitîts QSO
+ 2033  YL2AJ       599  599  KO16OX    83    83  KO16
+ 2058  SM5EPO      53   54   JP80MC   511   511  JP80  >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 7351 + 9500 = 16851
+======================================================================
+22.05.2024                             VHFTest v3.2.190  LY2CG © 2016 

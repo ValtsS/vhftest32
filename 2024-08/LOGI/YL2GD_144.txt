@@ -1,0 +1,38 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   144 MHz   Augusts 2024
+   YL2GD QSO LOG    WWL: KO37ML
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1816  ES7RU       599  599  KO28SI   132   132  KO28  >Ieskaitîts QSO
+ 1821  YL3GEA      59   59   KO37QM    21    21  KO37
+ 1825  ES3ADN      59   59   KO28RS   172   172        >Ieskaitîts QSO
+ 1826  ES5KC       59   59   KO38II   100   100  KO38  >Ieskaitîts QSO
+ 1828  OH3TR       57   57   KP11VK   477   477  KP11  >Ieskaitîts QSO
+ 1831  YL3GX       599  599  KO37RD    45    45
+ 1833  YL2FZ       599  599  KO37QI    25    25
+ 1836  ES6DO       59   58   KO27WX    89    89  KO27  >Ieskaitîts QSO
+ 1837  YL3EK       59   59   KO27FF   158   158
+ 1842  YL2IV       55   56   KO06OL     0     0        > Kïûda RS/RST, bija 57
+ 1847  ES4RM       58   58   KO49AL   230   230  KO49  >Ieskaitîts QSO
+ 1848  OH6UW       55   55   KP22WI   546   546  KP22  >Ieskaitîts QSO
+ 1850  OH1F        55   54   KP01TK   536   536  KP01  >Ieskaitîts QSO
+ 1855  SM4HCM      57   56   JP70RL   742   742  JP70  >Ieskaitîts QSO
+ 1901  SM4ONW      54   54   JP70QN   750   750        >Ieskaitîts QSO
+ 1902  YL3ANT      54   55   KO36PM   108   108  KO36
+ 1906  OH5C        53   53   KP30GT   372   372  KP30  >Ieskaitîts QSO
+ 1910  OH4LA       57   55   KP20LG   333   333  KP20  >Ieskaitîts QSO
+ 1913  OH0AZX      55   53   KP00IF   476   476  KP00  >Ieskaitîts QSO
+ 1915  OH3BDS      54   59   KP10PR   420   420  KP10  >Ieskaitîts QSO
+ 1918  SK0EN       59   59   JO99JX   551   551  JO99  >Ieskaitîts QSO
+ 1919  ES1924TE    599  599  KO29GG   247   247  KO29  >Ieskaitîts QSO
+ 1926  YL2QV       54   55   KO26WM   128   128  KO26
+ 1927  LY2HS       59   59   KO25UO   224   224  KO25
+ 1930  YL3ES       55   56   KO27FF   158   158
+ 1933  OH6VV       579  579  KP22WG   537   537        >Ieskaitîts QSO
+ 1936  SM4DXO      56   55   JP71SB   764   764  JP71  >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 8341 + 9500 = 17841
+======================================================================
+25.08.2024                             VHFTest v3.2.190  LY2CG © 2016 

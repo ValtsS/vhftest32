@@ -1,0 +1,30 @@
+  
+   YL VHF ACTIVITY CONTEST (YLAC)
+   1296 MHz   JUNE 2024
+   LY2R QSO LOG    WWLoc: KO15VS
+======================================================================
+ UTC   Callsign    RSTs RSTr WWLoc    QRB   Pnts WWLs  Comment
+======================================================================
+ 1702  LY3JE       59   59   KO26TC   121   121  KO26
+ 1712  ES2JL       559  529  KO29LL   419   419  KO29  > No LOG but QSO credited
+ 1712  ES8AY       55   55   KO28GJ   296   296  KO28  > No LOG but QSO credited
+ 1720  SM0FZH      579  559  JO99HI   504   504  JO99  > No LOG but QSO credited
+ 1733  SK0CT       559  559  JO99BM   536   536        > No LOG but QSO credited
+ 1743  SQ5N        559  559  KO02LH   427   427  KO02  > No LOG but QSO credited
+ 1806  OH3TR       559  559  KP11VK   631   631  KP11  > No LOG but QSO credited
+ 1806  YL2GD       599  559  KO37ML   275   275  KO37
+ 1816  YL2AO       599  599  KO16DK   119   119  KO16
+ 1822  OH2AXH      559  559  KP20OK   526   526  KP20  > No LOG but QSO credited
+ 1830  SM0RJV      559  599  JO89VJ   539   539  JO89  > No LOG but QSO credited
+ 1835  SM0BSO      599  599  JO99BG   516   516        > No LOG but QSO credited
+ 1842  SP5BIN      559  559  KO02KF   438   438        > No LOG but QSO credited
+ 1851  LY2WR       599  599  KO24FO   137   137  KO24  > No LOG but QSO credited
+ 1851  YL2AJ       599  599  KO16OX   140   140
+ 1859  SM6VTZ      559  559  JO58UJ   785   785  JO58  > No LOG but QSO credited
+ 1928  SK0EN       559  559  JO99JX   554   554        > No LOG but QSO credited
+ 1931  SM5EPO      559  559  JP80       0     0        > Non participant or error in callsign
+ 1957  SP7EXY      559  559  KO00QU   570   570  KO00  > No LOG but QSO credited
+                              ----------------------------------------
+                                    Score: 7533 + 6500 = 14033
+======================================================================
+21.06.2024                             VHFTest v3.2.190  LY2CG © 2016 

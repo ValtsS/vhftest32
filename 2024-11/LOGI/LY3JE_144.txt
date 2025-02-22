@@ -1,0 +1,22 @@
+  
+   YL VHF ACTIVITY CONTEST (YLAC)
+   144 MHz   NOVEMBER 2024
+   LY3JE QSO LOG    WWLoc: KO26TC
+======================================================================
+ UTC   Callsign    RSTs RSTr WWLoc    QRB   Pnts WWLs  Comment
+======================================================================
+ 1802  LY2CH       59   59   KO15OV   153   153  KO15  > No LOG but QSO credited
+ 1805  LY3PEJ      59   59   KO15CL   225   225        > No LOG but QSO credited
+ 1806  LY2R        59   59   KO15VS   121   121
+ 1808  LY4AA       59   59   KO14WW   171   171  KO14  > No LOG but QSO credited
+ 1809  LY2BDA      59   59   KO24MQ   162   162  KO24  > No LOG but QSO credited
+ 1811  LY2XV       59   59   KO25TX    14    14  KO25  > No LOG but QSO credited
+ 1812  LY3FI       59   59   KO24PR   155   155        > No LOG but QSO credited
+ 1815  YL3GEA      59   59   KO37QM   191   191  KO37
+ 1819  LY2VO       59   59   KO15PX   146   146
+ 1827  YL2AJ       59   59   KO16OX   178   178  KO16
+ 1900  YL2GD       59   59   KO37ML   176   176
+                              ----------------------------------------
+                                    Score: 1692 + 3000 = 4692
+======================================================================
+24.11.2024                             VHFTest v3.2.190  LY2CG © 2016 

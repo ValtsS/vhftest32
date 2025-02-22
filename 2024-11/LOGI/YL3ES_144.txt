@@ -1,0 +1,33 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   144 MHz   Novembris 2024
+   YL3ES QSO LOG    WWL: KO27FF
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1808  YL2QV       57   58   KO26WM   117   117  KO26
+ 1810  YL3ANJ      54   54   KO36QU   182   182  KO36
+ 1812  YL2AJ       56   56   KO16OX    81    81  KO16
+ 1816  UA1CKA      54   55   KO49HJ   343   343  KO49  >Ieskaitîts QSO
+ 1817  YL2GD       53   54   KO37ML   158   158  KO37
+ 1820  YL2FZ       57   58   KO37QI   176   176
+ 1825  YL3EK       59   59   KO27FF     1     1  KO27
+ 1832  YL2II       53   55   KO26OO    84    84
+ 1834  EU6AAX      53   56   KO35UD   307   307  KO35  >Ieskaitîts QSO
+ 1851  ES2MC       53   54   KO29GG   228   228  KO29  >Ieskaitîts QSO
+ 1909  OH4LA       54   55   KP20LG   340   340  KP20  >Ieskaitîts QSO
+ 1913  OH0AZX      54   56   KP00IF   398   398  KP00  >Ieskaitîts QSO
+ 1949  SM5EPC      52   52   JP90CE   489   489  JP90  >Ieskaitîts QSO
+ 2040  ES3MAR      54   53   KO28KX   197   197  KO28  >Ieskaitîts QSO
+ 2042  OH3DP       54   56   KP10TT   402   402  KP10  >Ieskaitîts QSO
+ 2046  OH1RI       53   57   KP10HQ   399   399        >Ieskaitîts QSO
+ 2110  SE0X        53   54   JO99FE   414   414  JO99  >Ieskaitîts QSO
+ 2117  SM1HOW      53   56   JO97GL   356   356  JO97  >Ieskaitîts QSO
+ 2123  LY1CR       55   53   KO15CL   239   239  KO15  >Ieskaitîts QSO
+ 2140  SM5CUI      53   52   JO89WW   486   486  JO89  >Ieskaitîts QSO
+ 2144  SM0FZH      54   53   JO99HI   415   415        >Ieskaitîts QSO
+ 2146  SM3LBN      56   54   JP80IO   582   582  JP80  >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 6394 + 9000 = 15394
+======================================================================
+24.11.2024                             VHFTest v3.2.190  LY2CG © 2016 

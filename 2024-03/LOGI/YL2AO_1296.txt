@@ -1,0 +1,32 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   1296 MHz   Marts 2024
+   YL2AO QSO LOG    WWL: KO16DK
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1825  LY2VO       599  599  KO15PX    81    81  KO15
+ 1843  LY3JE       59   59   KO26TC   210   210  KO26  >Ieskaitîts QSO
+ 1859  SM6VTZ      559  559  JO58UJ   670   670  JO58  >Ieskaitîts QSO
+ 1903  SM7ECM      559  559  JO65PU   561   561  JO65  >Ieskaitîts QSO
+ 1908  SK0EN       559  559  JO99JX   444   444  JO99  >Ieskaitîts QSO
+ 1918  ES0FX       579  579  KO08XL   228   228  KO08  >Ieskaitîts QSO
+ 1933  SM7LCB      559  559  JO86GH   355   355  JO86  >Ieskaitîts QSO
+ 1940  SQ5N        559  559  KO02LH   467   467  KO02  >Ieskaitîts QSO
+ 1952  YL2GD       599  599  KO37ML   311   311  KO37
+ 1958  ES2AFF      59   59   KO29EE   330   330  KO29  >Ieskaitîts QSO
+ 2005  SM0RJV      559  559  JO89VJ   423   423  JO89  >Ieskaitîts QSO
+ 2021  SM0DJW      55   54   JO88WW   383   383  JO88  >Ieskaitîts QSO
+ 2029  SM0BSO      55   55   JO99BG   400   400        >Ieskaitîts QSO
+ 2034  SA0CAN      54   53   JO99CH   401   401        >Ieskaitîts QSO
+ 2037  LY2R        599  599  KO15VS   119   119
+ 2052  SP2DDV      559  559  JO83VE   463   463  JO83  >Ieskaitîts QSO
+ 2056  SP2FRY      559  559  JO83WR   412   412        >Ieskaitîts QSO
+ 2105  SK0CT       559  559  JO99BM   422   422        >Ieskaitîts QSO
+ 2130  SM0BHN      559  559             0     0        > Kïûda WWL, bija JO89WI
+ 2146  SP2WPY      599  599  JO94FL   326   326  JO94  >Ieskaitîts QSO
+ 2151  YL2AJ       599  599  KO16OX    83    83  KO16
+                              ----------------------------------------
+                                    Score: 7089 + 7500 = 14589
+======================================================================
+25.03.2024                             VHFTest v3.2.190  LY2CG © 2016 

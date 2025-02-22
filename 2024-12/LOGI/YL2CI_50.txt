@@ -1,0 +1,37 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitates Sacensibas (YLAC)
+   50 MHz   Decembris 2024
+   YL2CI QSO LOG    WWL: KO06TR
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1816  YL2QV       53   55   KO26WM   261   261  KO26
+ 1819  YL2QG       57   59   KO06QR    16    16  KO06
+ 1820  YL3ND       56   57   KO17JM   113   113  KO17
+ 1824  YL3OI       55   56   KO26MO   210   210
+ 1831  ES2NJ       56   54   KO29NK   365   365  KO29  >Ieskaitits QSO
+ 1833  YL2AO       55   55   KO16DK    53    53  KO16
+ 1839  SM6LJP      53   52   JO68WI   497   497  JO68  >Ieskaitits QSO
+ 1844  GM4VVX      55   54   IO78TA  1556  1556  IO78  >Ieskaitits QSO
+ 1859  ES2Z        53   53   KO29JM   362   362        >Ieskaitits QSO
+ 1904  OH0AZX      58   56   KP00IF   393   393  KP00  >Ieskaitits QSO
+ 1919  OE4WHG      55   58   JN87DC  1131  1131  JN87  >Ieskaitits QSO
+ 1930  GM4CXM      56   55   IO75TW  1596  1596  IO75  >Ieskaitits QSO
+ 1932  SM7FJE      54   55   JO65VU   493   493  JO65  >Ieskaitits QSO
+ 1936  SM7HGY      54   54   JO86DR   326   326  JO86  >Ieskaitits QSO
+ 1947  OH7RJ       54   58   KP10FC   379   379  KP10  >Ieskaitits QSO
+ 1948  OH1LEG      55   58   KP10FC   379   379        >Ieskaitits QSO
+ 1954  SM4ONW      53   53   JP70QN   559   559  JP70  >Ieskaitits QSO
+ 1957  SA5ACR      55   54   JO88FR   379   379  JO88  >Ieskaitits QSO
+ 2004  SM0BSO      56   55   JO99BG   350   350  JO99  >Ieskaitits QSO
+ 2010  SM2A        54   55   KP04NP   881   881  KP04  >Ieskaitits QSO
+ 2012  LA2D        54   56   JO59BR   751   751  JO59  >Ieskaitits QSO
+ 2016  PE1IWT      53   54   JO32KF  1074  1074  JO32  >Ieskaitits QSO
+ 2023  GM4FVM      53   56   IO85WU  1462  1462  IO85  >Ieskaitits QSO
+ 2101  SK6EI       55   56   JO68VK   504   504        >Ieskaitits QSO
+ 2116  SM4TYA      55   A7   JP71       0     0        > Nav dalibnieks vai CALL kluda
+ 2142  SM4HCM      54   55   JP70RL   549   549        >Ieskaitits QSO
+                              ----------------------------------------
+                                   Score: 14639 + 10000 = 24639
+======================================================================
+16.12.2024                             VHFTest v3.2.190  LY2CG © 2016 

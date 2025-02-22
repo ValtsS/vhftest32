@@ -1,0 +1,35 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   144 MHz   Augusts 2024
+   YL3ES QSO LOG    WWL: KO27FF
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1705  YL2IV       52   56   KO06OL   215   215  KO06
+ 1707  YL3EK       59   56   KO27FF     1     1  KO27
+ 1710  YL2AJ       59   59   KO16OX    81    81  KO16
+ 1713  SM0WW       54   55   JO99KO   419   419  JO99  >Ieskaitîts QSO
+ 1719  YL2AO       56   57   KO37QI     0     0        > Nav otra dalîbnieka LOG-â
+ 1720  YL2FZ       53   57   KO37QI   176   176  KO37
+ 1745  R1AO        53   54   KO49XQ     0     0        > Kïûda WWL, bija KP40TG
+ 1746  R1DM        52   599  KO49XQ   421   421  KO49  >Ieskaitîts QSO
+ 1747  R1CAM       53   54   KO49TV   422   422        >Ieskaitîts QSO
+ 1752  OH0AZX      52   53   KP00IF   398   398  KP00  >Ieskaitîts QSO
+ 1803  OH3DP       53   55   KP10TT   402   402  KP10  >Ieskaitîts QSO
+ 1814  LY1CR       56   55   KO15CL   239   239  KO15  >Ieskaitîts QSO
+ 1835  YL3ANJ      53   53   KO36QU   182   182  KO36
+ 1851  YL2QV       53   55   KO26WM   117   117  KO26
+ 1858  ES2JL       53   53   KO29LL   252   252  KO29  >Ieskaitîts QSO
+ 1901  LY2HS       55   57   KO25UO   197   197  KO25
+ 1915  OH4LA       55   56   KP20LG   340   340  KP20  >Ieskaitîts QSO
+ 1930  YL2GD       56   55   KO37ML   158   158
+ 1936  SK1BL       56   54   JO97HK   351   351  JO97  >Ieskaitîts QSO
+ 1945  SM0DJW      53   53   JO88WW   431   431  JO88  >Ieskaitîts QSO
+ 1952  YL2II       53   55   KO26OO    84    84
+ 2004  OH1F        53   54   KP01TK   495   495  KP01  >Ieskaitîts QSO
+ 2011  ES8PW       52   55   KO18VM   149   149  KO18  >Ieskaitîts QSO
+ 2038  SK4EA       53   54   JO79OO   600   600  JO79  >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 6130 + 9500 = 15630
+======================================================================
+25.08.2024                             VHFTest v3.2.190  LY2CG © 2016 

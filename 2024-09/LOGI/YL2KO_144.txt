@@ -1,0 +1,17 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   144 MHz   Septembris 2024
+   YL2KO QSO LOG    WWL: KO37RI
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1729  YL2GD       59   59   KO37ML    29    29  KO37
+ 1738  YL2II       599  599  KO26OO   160   160  KO26
+ 1744  LY2HS       599  599  KO25UO   223   223  KO25  >Ieskaitîts QSO
+ 1747  YL2FZ       599  599  KO37QI     5     5
+ 1907  LY2VO       599  599  KO15PX   297   297  KO15
+ 1921  SK0EN       59   59   JO99JX   580   580  JO99  >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 1294 + 2500 = 3794
+======================================================================
+26.09.2024                             VHFTest v3.2.190  LY2CG © 2016 

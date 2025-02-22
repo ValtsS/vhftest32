@@ -1,0 +1,46 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Maijs 2024
+   YL2CI QSO LOG    WWL: KO06TR
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1704  YL3OO       54   53   KO27DD   169   169  KO27
+ 1707  YL3ND       54   58   KO17JM   113   113  KO17
+ 1708  YL2AJ       57   57   KO16OX   101   101  KO16
+ 1710  SM7FJE      55   53   JO65VU   493   493  JO65  >Ieskaitîts QSO
+ 1712  YL2QV       57   54   KO26WM   261   261  KO26
+ 1714  YL2QG       59   59   KO06QR    16    16  KO06
+ 1719  YL2GD       58   56   KO37ML   338   338  KO37
+ 1722  YL2II       58   59   KO26OO   220   220
+ 1728  OH1LEG      54   53   KP10FC   379   379  KP10  >Ieskaitîts QSO
+ 1733  LY2HS       54   54   KO25UO   283   283  KO25
+ 1744  YL2AO       55   56   KO16DK    53    53
+ 1748  YL3NB       54   54   KO16VP   133   133
+ 1756  OG5O        54   55   KP20MJ   454   454  KP20  >Ieskaitîts QSO
+ 1822  SK0CT       54   54   JO99BM   373   373  JO99  >Ieskaitîts QSO
+ 1824  SA0CAN      53   53   JO99CH   351   351        >Ieskaitîts QSO
+ 1837  SM0DJW      56   53   JO88WW   331   331  JO88  >Ieskaitîts QSO
+ 1841  SM4ONW      55   53   JP70QN   559   559  JP70  >Ieskaitîts QSO
+ 1859  YL3ES       57   55   KO27FF   181   181
+ 1903  SM3GDT      57   57   JP71WW   665   665  JP71  >Ieskaitîts QSO
+ 1917  ES0Z        55   54   KO18KT   244   244  KO18  >Ieskaitîts QSO
+ 1919  SA5ACR      56   54   JO88FR   379   379        >Ieskaitîts QSO
+ 1921  SM4HCM      55   53   JP70RL   549   549        >Ieskaitîts QSO
+ 1922  SM7KPB      54   54   JO76EP   443   443  JO76  >Ieskaitîts QSO
+ 1926  SM6LPG      55   53   JO68VI   501   501  JO68  >Ieskaitîts QSO
+ 1931  OH0AZX      53   54   KP00IF   393   393  KP00  >Ieskaitîts QSO
+ 1941  SM5CUI      56   53   JO89WW   419   419  JO89  >Ieskaitîts QSO
+ 1945  SM0IKR      55   55   JO89XK     0     0        > Kïûda WWL, bija JO99CC
+ 1947  SM0KAK      56   55   JO89XK   371   371        >Ieskaitîts QSO
+ 1948  SM0BSO      57   54   JO99BG   350   350        >Ieskaitîts QSO
+ 2000  SM2A        59   55   KP04NP   881   881  KP04  >Ieskaitîts QSO
+ 2011  YL3CW       57   599  KO36       0     0        > Kïûda WWL, bija KO36CM
+ 2018  SM1FMT      54   54   JO97GT   222   222  JO97  >Ieskaitîts QSO
+ 2023  SM6YNO      55   56   JO67GG   553   553  JO67  >Ieskaitîts QSO
+ 2026  OZ7KJ       54   54   JO46ML   770   770  JO46  >Ieskaitîts QSO
+ 2033  SM7MBH      55   52   JO75EM   469   469  JO75  >Ieskaitîts QSO
+                              ----------------------------------------
+                                   Score: 12017 + 12000 = 24017
+======================================================================
+22.05.2024                             VHFTest v3.2.190  LY2CG © 2016 

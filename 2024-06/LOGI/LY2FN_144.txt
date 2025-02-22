@@ -1,0 +1,18 @@
+  
+   YL VHF ACTIVITY CONTEST (YLAC)
+   144 MHz   JUNE 2024
+   LY2FN QSO LOG    WWLoc: KO14XV
+======================================================================
+ UTC   Callsign    RSTs RSTr WWLoc    QRB   Pnts WWLs  Comment
+======================================================================
+ 1810  YL2AJ       599  599  KO16OX   237   237  KO16
+ 1813  LY2BBF      599  599  KO24PR    88    88  KO24
+ 1816  LY2SA       599  599  KO14UG    72    72  KO14  > No LOG but QSO credited
+ 1820  LY2WR       599  599  KO24FO    46    46        > No LOG but QSO credited
+ 1823  LY4AA       599  599  KO14WW     8     8        > No LOG but QSO credited
+ 1824  LY2BAW      599  599  KO25KA    61    61  KO25  > No LOG but QSO credited
+ 1844  SK1BL       559  559  JO97HK   435   435  JO97  > No LOG but QSO credited
+                              ----------------------------------------
+                                     Score: 947 + 2500 = 3447
+======================================================================
+21.06.2024                             VHFTest v3.2.190  LY2CG © 2016 

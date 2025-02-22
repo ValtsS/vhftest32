@@ -1,0 +1,60 @@
+  
+   YL VHF ACTIVITY CONTEST (YLAC)
+   144 MHz   SEPTEMBER 2024
+   LY2VO QSO LOG    WWLoc: KO15PX
+======================================================================
+ UTC   Callsign    RSTs RSTr WWLoc    QRB   Pnts WWLs  Comment
+======================================================================
+ 1701  LY2CH       59   59   KO15OV    11    11  KO15  > No LOG but QSO credited
+ 1703  LY4H        59   59   KO15PV    10    10        > No LOG but QSO credited
+ 1710  SM6BFE      559  559  JO68DQ   725   725  JO68  > No LOG but QSO credited
+ 1711  LY2LE       599  599  KO06NA   135   135  KO06  > No LOG but QSO credited
+ 1713  LY2BBZ      59   59   KO16XC    44    44  KO16  > No LOG but QSO credited
+ 1714  LY3US       59   59   KO15MU    21    21        > No LOG but QSO credited
+ 1715  LY5RR       59   59   KO15PV    10    10        > No LOG but QSO credited
+ 1717  LY2BBF      599  599  KO24PR   188   188  KO24
+ 1721  LY3E        59   59   KO25ES    72    72  KO25  > No LOG but QSO credited
+ 1723  LY3FI       59   59   KO24PR   188   188        > No LOG but QSO credited
+ 1732  LY3PEJ      59   59   KO15CL    88    88        > No LOG but QSO credited
+ 1732  SQ4INW      59   59   JO93VS   333   333  JO93  > No LOG but QSO credited
+ 1747  SK6EI       59   57   JO68VK   634   634        > No LOG but QSO credited
+ 1751  SM1HOW      59   55   JO97GL   335   335  JO97  > No LOG but QSO credited
+ 1752  SM7HGY      59   57   JO86DR   440   440  JO86  > No LOG but QSO credited
+ 1758  SK1BL       599  559  JO97HK   328   328        > No LOG but QSO credited
+ 1758  YL2AO       59   59   KO16DK    81    81
+ 1805  SM4GGC      599  559  JO69RK   699   699  JO69  > No LOG but QSO credited
+ 1808  SK0CT       59   57   JO99BM   499   499  JO99  > No LOG but QSO credited
+ 1810  SQ2RAD      59   59   JO94GM   342   342  JO94  > No LOG but QSO credited
+ 1814  SM7ECM      579  559  JO65PU   623   623  JO65  > No LOG but QSO credited
+ 1816  ES8TJM      59   59   KO18UM   284   284  KO18  > No LOG but QSO credited
+ 1816  YL2AJ       59   59   KO16OX   112   112
+ 1821  ES2PRM      59   59   KO29GG   374   374  KO29  > No LOG but QSO credited
+ 1824  SK0EN       59   59   JO99JX   518   518        > No LOG but QSO credited
+ 1832  OH0A        55   55   KP00AF   510   510  KP00  > No LOG but QSO credited
+ 1839  LY2NA       599  599  KO15JC   103   103        > No LOG but QSO credited
+ 1839  LY4AA       599  599  KO14WW   122   122  KO14  > No LOG but QSO credited
+ 1843  SM6VTZ      559  559  JO58UJ   747   747  JO58  > No LOG but QSO credited
+ 1847  ES7RU       59   59   KO28SI   297   297  KO28  > No LOG but QSO credited
+ 1859  ES2MC       599  599  KO29GG   374   374        > No LOG but QSO credited
+ 1902  SM7ECM      599  559  JO65PU     0     0        > duplicate, in LOG at 18:14
+ 1905  SM7DTE      599  579  JO75CN   570   570  JO75  > No LOG but QSO credited
+ 1906  YL2FZ       599  599  KO37QI   293   293  KO37
+ 1908  YL2KO       599  599  KO37QI     0     0        > Wrong WWL, was KO37RI
+ 1925  OZ2AR       559  559  JO65BT   696   696        > No LOG but QSO credited
+ 1927  ES1ATE      55   55   KO29JK   395   395        > No LOG but QSO credited
+ 1929  ES0MHI      55   55   KO18LW   330   330        > No LOG but QSO credited
+ 1934  OZ6TY       559  559  JO55XE   717   717  JO55  > No LOG but QSO credited
+ 1946  SM5EPO      559  559  JP80MC   588   588  JP80  > No LOG but QSO credited
+ 1950  SK7CY       57   53   JO65RJ   620   620        > No LOG but QSO credited
+ 1958  SP2CNW      599  579  JO93AI   447   447        > No LOG but QSO credited
+ 2006  OH4LA       599  599  KP20LG   488   488  KP20  > No LOG but QSO credited
+ 2007  OH4VV       559  559  KP22WG   715   715  KP22  > No LOG but QSO credited
+ 2011  SP2FRY      599  569  JO83WR   428   428  JO83  > No LOG but QSO credited
+ 2021  SM0KAK      599  559  JO89XK   498   498  JO89  > No LOG but QSO credited
+ 2030  LY2HS       59   59   KO25UO   157   157        > No LOG but QSO credited
+ 2040  LY2R        599  599  KO15VS    39    39
+ 2045  SK4AO/P     599  579  JP70XQ   676   676  JP70  > No LOG but QSO credited
+                              ----------------------------------------
+                                   Score: 16904 + 14000 = 30904
+======================================================================
+26.09.2024                             VHFTest v3.2.190  LY2CG © 2016 

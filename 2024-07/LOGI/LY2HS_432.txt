@@ -1,0 +1,32 @@
+  
+   YL VHF ACTIVITY CONTEST (YLAC)
+   432 MHz   JULY 2024
+   LY2HS QSO LOG    WWLoc: KO25UO
+======================================================================
+ UTC   Callsign    RSTs RSTr WWLoc    QRB   Pnts WWLs  Comment
+======================================================================
+ 1706  LY2VO       599  599  KO15PX   157   157  KO15
+ 1713  LY4LK       59   59   KO25KK    56    56  KO25  > No LOG but QSO credited
+ 1717  YL2GD       599  599  KO37ML   224   224  KO37
+ 1723  LY2CH       59   59   KO15OV   160   160        > No LOG but QSO credited
+ 1737  LY4AA       599  599  KO14WW   138   138  KO14  > No LOG but QSO credited
+ 1747  ES8PW       55   53   KO18VM   345   345  KO18  > No LOG but QSO credited
+ 1748  YL1ZF       55   55   KO27AA   189   189  KO27
+ 1749  YL2II       56   55   KO26OO   116   116  KO26
+ 1753  YL3EK       55   52   KO27FF   197   197
+ 1757  YL2FZ       599  599  KO37QI   220   220
+ 1801  LY2BBF      599  599  KO24PR   101   101  KO24
+ 1804  LY2WR       599  599  KO24FO   137   137        > No LOG but QSO credited
+ 1807  ES7RU       599  599  KO28SI   306   306  KO28  > No LOG but QSO credited
+ 1819  YL3ANJ      599  599  KO36QU   174   174  KO36
+ 1834  LY1CR       54   53   KO15CL   221   221        > No LOG but QSO credited
+ 1837  YL3ES       56   54   KO27FF   197   197
+ 1841  OH0AZX      54   53   KP00IF   593   593  KP00  > No LOG but QSO credited
+ 1848  YL2AO       56   54   KO16DK   232   232  KO16
+ 1855  SK1BL       56   54   JO97HK   480   480  JO97  > No LOG but QSO credited
+ 1858  OH1ND       55   54   KP00XL   586   586        > No LOG but QSO credited
+ 1926  SM0DJW      56   54   JO88WW   599   599  JO88  > No LOG but QSO credited
+                              ----------------------------------------
+                                    Score: 5428 + 7000 = 12428
+======================================================================
+03.08.2024                             VHFTest v3.2.190  LY2CG © 2016 

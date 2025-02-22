@@ -1,0 +1,40 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Maijs 2024
+   YL2QV QSO LOG    WWL: KO26WM
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1701  YL2AO       54   55   KO16DK   221   221  KO16
+ 1704  YL3ND       56   56   KO17JM   218   218  KO17
+ 1706  YL2AJ       55   54   KO16OX   171   171
+ 1708  YL2GD       54   54   KO37ML   128   128  KO37
+ 1709  YL3OO       53   54   KO27DD   119   119  KO27
+ 1712  YL2CI       54   57   KO06TR   261   261  KO06
+ 1716  LY2HS       54   58   KO25UO   103   103  KO25
+ 1718  YL2FZ       54   54   KO37QI   130   130
+ 1721  YL3OO       55   54   KO27DD     0     0        > Atkârtots sakars 17:09
+ 1724  SM0DJW      54   55   JO88WW   546   546  JO88  >Ieskaitîts QSO
+ 1725  YL2QG       53   53   KO06QR   277   277
+ 1727  OH0AZX      54   55   KP00IF   511   511  KP00  >Ieskaitîts QSO
+ 1752  YL3NB       54   55   KO16VP   129   129
+ 1756  ES5RY       12   17   KO38JI   212   212  KO38  >Ieskaitîts QSO
+ 1759  OH2AWL      53   53   KP20IF   418   418  KP20  >Ieskaitîts QSO
+ 1818  ES3MAR      54   54   KO28KX   280   280  KO28  >Ieskaitîts QSO
+ 1827  YL3NB       56   56   KO16VP     0     0        > Atkârtots sakars 17:52
+ 1842  OG5O        55   54   KP20MJ   434   434        >Ieskaitîts QSO
+ 1857  ES0Z        55   53   KO18KT   312   312  KO18  >Ieskaitîts QSO
+ 1908  ES5QA       11   01   KO38CS   251   251        >Ieskaitîts QSO
+ 1912  YL3ES       54   56   KO27FF   117   117
+ 1926  LZ1ZP       08   17   KN22ID  1601  1601  KN22  >Ieskaitîts QSO
+ 1937  SV8DCY      02   18   KM39EB  1942  1942  KM39  >Ieskaitîts QSO
+ 1939  LZ1ZL       10   14   KN22JD  1601  1601        >Ieskaitîts QSO
+ 1944  SV1ONK      05   11   KM27AW  2071  2071  KM27  >Ieskaitîts QSO
+ 1945  SN5V        02   09   KO02PD   570   570  KO02  >Ieskaitîts QSO
+ 2032  OZ7KJ       54   54   JO46ML  1031  1031  JO46  >Ieskaitîts QSO
+ 2039  YL3CW       01   02   KO36CM    21    21  KO36  >Ieskaitîts QSO
+ 2041  YL3ES       53   55   KO27FF     0     0        > Atkârtots sakars 19:12
+                              ----------------------------------------
+                                   Score: 13675 + 9000 = 22675
+======================================================================
+22.05.2024                             VHFTest v3.2.190  LY2CG © 2016 

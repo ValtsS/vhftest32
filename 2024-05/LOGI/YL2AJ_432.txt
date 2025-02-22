@@ -1,0 +1,40 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   432 MHz   Maijs 2024
+   YL2AJ QSO LOG    WWL: KO16OX
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1704  YL3EK       59   56   KO27FF    81    81  KO27
+ 1724  LY3JE       55   59   KO26TC     0     0        > Kïûda RS/RST, bija 55
+ 1730  LY4AA       559  559  KO14WW   231   231  KO14  >Ieskaitîts QSO
+ 1732  LY2HS       599  599  KO25UO   218   218  KO25
+ 1744  YL2GD       599  599  KO37ML   238   238  KO37
+ 1746  YL2FZ       599  599  KO37QI   255   255
+ 1758  YL3ANT      599  599  KO36PM   255   255  KO36
+ 1806  LY2WR       599  599  KO24FO   276   276  KO24  >Ieskaitîts QSO
+ 1829  SM4GGC      559  559  JO69RK   633   633  JO69  >Ieskaitîts QSO
+ 1835  OH2FQV      55   55   KP20MF   377   377  KP20  >Ieskaitîts QSO
+ 1838  ES2PRM      59   59   KO29GG   267   267  KO29  >Ieskaitîts QSO
+ 1842  LY2BDA      559  559  KO24MQ   280   280        >Ieskaitîts QSO
+ 1850  LY5AT       559  559  KO24TM   313   313        >Ieskaitîts QSO
+ 1855  OH4LA       559  559  KP20LG   380   380        >Ieskaitîts QSO
+ 1900  SK0CT       579  579  JO99BM   411   411  JO99  >Ieskaitîts QSO
+ 1912  LY2VO       599  599  KO15PX   112   112  KO15
+ 1922  LY1CR       599  599  KO15CL   178   178        >Ieskaitîts QSO
+ 1927  SK1BL       57   53   JO97HK   281   281  JO97  >Ieskaitîts QSO
+ 1928  YL3ES       55   56   KO27FF    81    81
+ 1933  SM0BSO      56   55   JO99BG   393   393        >Ieskaitîts QSO
+ 1934  SK0EN       599  579  JO99JX   421   421        >Ieskaitîts QSO
+ 1938  YL2AO       599  599  KO16DK    83    83  KO16
+ 1949  SM7DTE      599  579  JO75CN   578   578  JO75  >Ieskaitîts QSO
+ 1958  SM7ECM      559  559  JO65PU   623   623  JO65  >Ieskaitîts QSO
+ 2003  SM0DJW      54   54   JO88WW   383   383  JO88  >Ieskaitîts QSO
+ 2007  SA0CAN      53   53   JO99CH   392   392        >Ieskaitîts QSO
+ 2012  OH0AZX      52   53   KP00IF   390   390  KP00  >Ieskaitîts QSO
+ 2027  SP2FRY      559  559  JO83WR   494   494  JO83  >Ieskaitîts QSO
+ 2035  SP2DDV      559  559  JO83VE   545   545        >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 9169 + 9000 = 18169
+======================================================================
+22.05.2024                             VHFTest v3.2.190  LY2CG © 2016 

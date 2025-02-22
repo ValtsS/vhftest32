@@ -1,0 +1,24 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   432 MHz   Maijs 2024
+   YL3EK QSO LOG    WWL: KO27FF
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1703  YL2AJ       56   59   KO16OX    81    81  KO16
+ 1717  YL2AO       56   56   KO16DK   159   159
+ 1738  OH3BDS      55   53   KP10PR   395   395  KP10  >Ieskaitîts QSO
+ 1740  ES8PW       57   55   KO18VM   149   149  KO18  >Ieskaitîts QSO
+ 1745  YL3ES       56   59   KO27FF     1     1  KO27
+ 1810  SM0DJW      57   55   JO88WW   431   431  JO88  >Ieskaitîts QSO
+ 1821  LY2HS       56   54   KO25UO   197   197  KO25
+ 1826  YL3ANT      54   53   KO36PM   190   190  KO36
+ 1852  YL2GD       55   53   KO37ML   158   158  KO37
+ 1913  SK1BL       55   56   JO97HK   351   351  JO97  >Ieskaitîts QSO
+ 2000  LY1CR       55   55   KO15CL   239   239  KO15  >Ieskaitîts QSO
+ 2020  OH4LA       54   55   KP20LG   340   340  KP20  >Ieskaitîts QSO
+ 2024  OH3DP       55   53   KP10TT   402   402        >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 3093 + 5500 = 8593
+======================================================================
+22.05.2024                             VHFTest v3.2.190  LY2CG © 2016 

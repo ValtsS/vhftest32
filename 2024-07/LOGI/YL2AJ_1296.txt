@@ -1,0 +1,36 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   1296 MHz   Jûlijs 2024
+   YL2AJ QSO LOG    WWL: KO16OX
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1710  YL2GD       599  599  KO37ML   238   238  KO37
+ 1713  SM7ECM      559  559  JO65PU   623   623  JO65  >Ieskaitîts QSO
+ 1730  SP7EXY      559  559  KO00QU   692   692  KO00  >Ieskaitîts QSO
+ 1733  YL2FZ       599  599  KO37QI   255   255
+ 1743  SM0BHN      559  559  JO89WI   410   410  JO89  >Ieskaitîts QSO
+ 1759  OH3LWP      559  559  KP21AM   508   508  KP21  >Ieskaitîts QSO
+ 1802  SM0BSO      559  559  JO99BG   393   393  JO99  >Ieskaitîts QSO
+ 1830  LY2WR       599  599  KO24FO   276   276  KO24  >Ieskaitîts QSO
+ 1843  ES0FX       599  599  KO08XL   183   183  KO08  >Ieskaitîts QSO
+ 1844  ES2AFF      59   59   KO29EE   255   255  KO29  >Ieskaitîts QSO
+ 1848  YL3ANJ      54   57   KO36QU   254   254  KO36
+ 1849  YL3EK       54   54   KO27FF    81    81  KO27
+ 1855  SM0RJV      559  559  JO89VJ   416   416        >Ieskaitîts QSO
+ 1910  ES2DF       599  599  KO29GG   267   267        >Ieskaitîts QSO
+ 1912  ES8AY       59   59   KO28GJ   177   177  KO28  >Ieskaitîts QSO
+ 1919  SM0FZH      559  599  JO99HI   377   377        >Ieskaitîts QSO
+ 1923  SM7LCB      579  599  JO86GH   415   415  JO86  >Ieskaitîts QSO
+ 1926  SP2FRY      559  559  JO83WR   494   494  JO83  >Ieskaitîts QSO
+ 1935  SM5EPO      559  559  JP80MC   499   499  JP80  >Ieskaitîts QSO
+ 1942  SM6VTZ      559  559  JO58UJ   701   701  JO58  >Ieskaitîts QSO
+ 1949  R1DM        559  559  KO49XQ   496   496  KO49  >Ieskaitîts QSO
+ 1951  YL2AO       599  599  KO16DK    83    83  KO16
+ 1953  SK0EN       579  579  JO99JX   421   421        >Ieskaitîts QSO
+ 2010  SM0EZZ      559  559  JO89XG   400   400        >Ieskaitîts QSO
+ 2044  OH3DP       599  599  KP10TT   427   427  KP10  >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 9341 + 9500 = 18841
+======================================================================
+03.08.2024                             VHFTest v3.2.190  LY2CG © 2016 

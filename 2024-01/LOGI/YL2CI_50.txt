@@ -1,0 +1,38 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Janvaris 2024
+   YL2CI QSO LOG    WWL: KO06TR
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1842  YL2QG       59   59   KO06QR    16    16  KO06  >Ieskaitîts QSO
+ 1847  OH3NE       54   52   KP11UL   542   542  KP11  >Ieskaitîts QSO
+ 1851  YL2AO       57   57   KO16DK    53    53  KO16
+ 1853  YL3ND       58   57   KO17JM   113   113  KO17
+ 1856  YL2QV       56   56   KO26WM   261   261  KO26
+ 1900  SM0DJW      55   55   JO88WW   331   331  JO88  >Ieskaitîts QSO
+ 1906  SM4HCM      55   53   JP70RL   549   549  JP70  >Ieskaitîts QSO
+ 1910  SM4ONW      53   52   JP70QN   559   559        >Ieskaitîts QSO
+ 1912  OH0AZX      54   55   KP00IF   393   393  KP00  >Ieskaitîts QSO
+ 1918  SM0PYH      57   53   JO99DK   360   360  JO99  >Ieskaitîts QSO
+ 1920  SM5CUI      55   53   JO89WW   419   419  JO89  >Ieskaitîts QSO
+ 1926  SM0BSO      57   55   JO99BG   350   350        >Ieskaitîts QSO
+ 1932  SA5ACR      55   53   JO88FR   379   379        >Ieskaitîts QSO
+ 1941  SM6LJP      55   53   JO68WI   497   497  JO68  >Ieskaitîts QSO
+ 1952  SM5DWF      53   53   JO88HE   341   341        >Ieskaitîts QSO
+ 2000  SA4FBO      54   54   JO69KE   584   584  JO69  >Ieskaitîts QSO
+ 2002  SA0CCA      55   55   JO89XG   356   356        >Ieskaitîts QSO
+ 2008  SM4DXO      56   56   JP70VO   547   547        >Ieskaitîts QSO
+ 2010  SK0CT       54   56   JO99BM   373   373        >Ieskaitîts QSO
+ 2012  SA0CAN      54   55   JO99CH   351   351        >Ieskaitîts QSO
+ 2024  OH1MM       54   53   KP01TM   533   533  KP01  >Ieskaitîts QSO
+ 2028  OH3HPV      53   55   KP21IR   583   583  KP21  >Ieskaitîts QSO
+ 2044  SM4GGC      57   55   JO69RK   567   567        >Ieskaitîts QSO
+ 2051  SM7HGY      56   56   JO86DR   326   326  JO86  >Ieskaitîts QSO
+ 2109  M0CTP       55   55   IO93QV  1437  1437  IO93  >Ieskaitîts QSO
+ 2133  SM3LBN      55   53   JP80IO   516   516  JP80  >Ieskaitîts QSO
+ 2145  SM0IKR      55   53   JO99CC   333   333        >Ieskaitîts QSO
+                              ----------------------------------------
+                                   Score: 11669 + 8500 = 20169
+======================================================================
+20.01.2024                             VHFTest v3.2.190  LY2CG © 2016 

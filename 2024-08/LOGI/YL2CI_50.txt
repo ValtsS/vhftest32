@@ -1,0 +1,40 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Augusts 2024
+   YL2CI QSO LOG    WWL: KO06TR
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1715  YL2QG       58   56   KO06QR    16    16  KO06
+ 1718  YL3AOI      57   58   KO26MO   210   210  KO26
+ 1719  YL2AO       58   59   KO16DK    53    53  KO16
+ 1721  YL2QV       52   54   KO26WM   261   261
+ 1732  OH1RI       54   55   KP10HQ   444   444  KP10  >Ieskaitîts QSO
+ 1736  ES2MA       54   52   KO29GH   335   335  KO29  >Ieskaitîts QSO
+ 1752  OH1LEG      54   54   KP10FC   379   379        >Ieskaitîts QSO
+ 1757  YL2IV       59   59   KO06OL    38    38
+ 1809  GM4CXM      53   55   IO75TW  1596  1596  IO75  >Ieskaitîts QSO
+ 1820  SM7HGY      55   54   JO86DR   326   326  JO86  >Ieskaitîts QSO
+ 1822  SM7FJE      58   56   JO65VU   493   493  JO65  >Ieskaitîts QSO
+ 1843  OH0AZX      54   53   KP00IF   393   393  KP00  >Ieskaitîts QSO
+ 1846  SM0BSO      55   54   JO99BG   350   350  JO99  >Ieskaitîts QSO
+ 1855  SA0CAN      56   53   JO99CH   351   351        >Ieskaitîts QSO
+ 1856  SA5ACR      56   54   JO88FR   379   379  JO88  >Ieskaitîts QSO
+ 1900  ES0Z        59   59   KO18KT   244   244  KO18  >Ieskaitîts QSO
+ 1904  ES3/SM0KAK  55   53   KO19SF   301   301  KO19  >Ieskaitîts QSO
+ 1907  YL2FZ       53   54   KO37QI   355   355  KO37
+ 1934  SM5PAO      55   53   JO89TS   412   412  JO89  >Ieskaitîts QSO
+ 1942  SM4DXO      54   53   JP70VO   547   547  JP70  >Ieskaitîts QSO
+ 1943  SM5CUI      56   54   JO89WW   419   419        >Ieskaitîts QSO
+ 1959  SM6UQL      56   53   JO57WU   599   599  JO57  >Ieskaitîts QSO
+ 2010  ES3MAR      53   54   KO28KX   316   316  KO28  >Ieskaitîts QSO
+ 2026  SA4UNA      53   52   JO69NP   594   594  JO69  >Ieskaitîts QSO
+ 2031  SM4OXX      56   54   JO79MA   465   465  JO79  >Ieskaitîts QSO
+ 2033  SM6BFE      53   55   JO68DQ   596   596  JO68  >Ieskaitîts QSO
+ 2037  SM4OXX      53   54   JO79MA     0     0        > Atkârtots sakars 20:31
+ 2048  SM6MVE      53   53   JO67KW   542   542  JO67  >Ieskaitîts QSO
+ 2054  SM7KOJ      55   54   JO66ND   527   527  JO66  >Ieskaitîts QSO
+                              ----------------------------------------
+                                   Score: 11541 + 11500 = 23041
+======================================================================
+25.08.2024                             VHFTest v3.2.190  LY2CG © 2016 

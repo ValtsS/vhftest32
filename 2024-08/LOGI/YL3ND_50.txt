@@ -1,0 +1,36 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Augusts 2024
+   YL3ND QSO LOG    WWL: KO17JM
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1705  YL2QG       53   54   KO06QR     0     0        > Kïûda RS/RST, bija 599
+ 1708  YL2QV       55   55   KO26WM   218   218  KO26
+ 1709  YL3AOI      57   56   KO26MO   170   170
+ 1714  OG5O        55   53   KP20MJ   345   345  KP20  >Ieskaitîts QSO
+ 1725  OH0AZX      54   56   KP00IF   325   325  KP00  >Ieskaitîts QSO
+ 1732  OH1LEG      54   54   KP10FC   288   288  KP10  >Ieskaitîts QSO
+ 1743  SM7FJE      55   53   JO65VU   580   580  JO65  >Ieskaitîts QSO
+ 1744  YL2GD       56   56   KO37ML   254   254  KO37
+ 1748  OH1RI       55   55   KP10HQ   353   353        >Ieskaitîts QSO
+ 1751  OH1MP       54   52   KP01VM   449   449  KP01  >Ieskaitîts QSO
+ 1759  YL2IV       55   55   KO06OL   151   151  KO06
+ 1803  ES0Z        54   55   KO18KT   144   144  KO18  >Ieskaitîts QSO
+ 1810  SK0CT       57   52   JO99BM   351   351  JO99  >Ieskaitîts QSO
+ 1829  DL3AT       55   55   JO50NW  1052  1052  JO50  >Ieskaitîts QSO
+ 1835  OH2AWL      55   52   KP20IF   321   321        >Ieskaitîts QSO
+ 1844  ES3MAR      55   53   KO28KX   203   203  KO28  >Ieskaitîts QSO
+ 1852  OH4GGW      53   54   KP31MO   514   514  KP31  >Ieskaitîts QSO
+ 1854  YL2AO       56   56   KO16DK   125   125  KO16
+ 1908  SM4ONW      53   53   JP70QN   543   543  JP70  >Ieskaitîts QSO
+ 1910  OH3HPV      54   54   KP21IR   481   481  KP21  >Ieskaitîts QSO
+ 1914  SM0BSO      56   55   JO99BG   335   335        >Ieskaitîts QSO
+ 1916  SM5CUI      55   54   JO89WW   391   391  JO89  >Ieskaitîts QSO
+ 1919  YL2IV       55   53   KO06OL     0     0        > Atkârtots sakars 17:59
+ 2008  ES3RF       07   13   KO29IF   221   221  KO29  >Ieskaitîts QSO
+ 2051  ES5QA       06   06   KO38CS   244   244  KO38  >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 8058 + 9500 = 17558
+======================================================================
+25.08.2024                             VHFTest v3.2.190  LY2CG © 2016 

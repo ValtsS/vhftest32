@@ -1,0 +1,38 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Novembris 2024
+   YL2AO QSO LOG    WWL: KO16DK
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1922  YL2QG       55   52   KO06QR    65    65  KO06
+ 1923  YL3ES       58   56   KO27FF   159   159  KO27
+ 1928  OH0AZX      599  599  KP00IF   432   432  KP00  >Ieskaitîts QSO
+ 1928  YL3OI       53   55   KO26MO   170   170  KO26
+ 1930  OH1LEG      53   55   KP10FC   408   408  KP10  >Ieskaitîts QSO
+ 1932  YL3ND       54   56   KO17JM   125   125  KO17
+ 1934  YL2CI       59   58   KO06TR    53    53
+ 1936  SM0BSO      55   53   JO99BG   400   400  JO99  >Ieskaitîts QSO
+ 1942  SM5EPO      55   55   JP80MC   511   511  JP80  >Ieskaitîts QSO
+ 1944  SA5ACR      53   54   JO88FR   431   431  JO88  >Ieskaitîts QSO
+ 1951  OE4WHG      54   54   JN87DC  1116  1116  JN87  >Ieskaitîts QSO
+ 1954  YL2QV       54   54   KO26WM   221   221
+ 1958  ES5NC       55   54   KO38JK   350   350  KO38  >Ieskaitîts QSO
+ 2002  YL3ANJ      55   56   KO36QU   315   315  KO36
+ 2016  SM7PYJ      54   53   JO76TE   412   412  JO76  >Ieskaitîts QSO
+ 2034  GM4CXM      26   26   IO75TW  1641  1641  IO75  >Ieskaitîts QSO
+ 2048  SM6LJP      53   53   JO68WI   548   548  JO68  >Ieskaitîts QSO
+ 2053  OG3B        559  559  KP10AQ   473   473        >Ieskaitîts QSO
+ 2103  G3YDY       26   26   JO01FQ  1512  1512  JO01  >Ieskaitîts QSO
+ 2113  G4ASR       26   26   IO81MX  1705  1705  IO81  >Ieskaitîts QSO
+ 2119  OZ7KJ       26   26   JO46ML   813   813  JO46  >Ieskaitîts QSO
+ 2128  IQ5MS       26   26   JN54AA  1628  1628  JN54  >Ieskaitîts QSO
+ 2141  G4BRK       26   26   IO91HP  1625  1625  IO91  >Ieskaitîts QSO
+ 2148  SM0KAK      52   53   JO89XK   421   421  JO89  >Ieskaitîts QSO
+ 2150  ES5NC       53   57   KO38JK     0     0        > Atkârtots sakars 19:58
+ 2151  ES2MC       56   57   KO29GG   342   342  KO29  >Ieskaitîts QSO
+ 2156  GM4JTJ      26   26   IO86RP  1515  1515  IO86  >Ieskaitîts QSO
+                              ----------------------------------------
+                                   Score: 17391 + 11500 = 28891
+======================================================================
+24.11.2024                             VHFTest v3.2.190  LY2CG © 2016 

@@ -1,0 +1,21 @@
+  
+   YL VHF ACTIVITY CONTEST (YLAC)
+   432 MHz   MAY 2024
+   LY2BBF QSO LOG    WWLoc: KO24PR
+======================================================================
+ UTC   Callsign    RSTs RSTr WWLoc    QRB   Pnts WWLs  Comment
+======================================================================
+ 1745  LY1ZI       59   59   KO24OQ     8     8  KO24  > No LOG but QSO credited
+ 1745  LY2KT       59   59   KO24OO    15    15        > No LOG but QSO credited
+ 1746  LY3FI       59   59   KO24PR     1     1        > No LOG but QSO credited
+ 1746  LY4MO       59   59   KO24QQ     8     8        > No LOG but QSO credited
+ 1809  LY2BDA      599  599  KO24MQ    17    17        > No LOG but QSO credited
+ 1814  LY2VO       599  599  KO15PX   188   188  KO15
+ 1816  LY2WR       599  599  KO24FO    56    56        > No LOG but QSO credited
+ 1817  LY4AA       599  599  KO14WW    94    94  KO14  > No LOG but QSO credited
+ 1846  YL2AO       599  599  KO16DK   268   268  KO16
+ 1920  LY2HS       599  599  KO25UO   101   101  KO25
+                              ----------------------------------------
+                                     Score: 756 + 2500 = 3256
+======================================================================
+22.05.2024                             VHFTest v3.2.190  LY2CG © 2016 

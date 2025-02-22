@@ -1,0 +1,37 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   144 MHz   Jûlijs 2024
+   YL3EK QSO LOG    WWL: KO27FF
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1701  YL1ZF       57   59   KO27AA    35    35  KO27
+ 1702  YL3ANJ      56   57   KO36QU   182   182  KO36
+ 1707  YL2AO       59   57   KO16DK   159   159  KO16
+ 1709  YL2AJ       58   55   KO16OX    81    81
+ 1710  YL3ES       59   59   KO27FF     1     1
+ 1714  YL2QV       58   55   KO26WM   117   117  KO26
+ 1717  YL2GD       59   56   KO37ML   158   158  KO37
+ 1729  OG3Z        53   54   KP11MK   475   475  KP11  >Ieskaitîts QSO
+ 1734  YL1ZF       59   55   KO27AA     0     0        > Atkârtots sakars 17:01
+ 1737  YL2FZ       54   53   KO37QI   176   176
+ 1740  OH1RI       55   54   KP10HQ   399   399  KP10  >Ieskaitîts QSO
+ 1756  OH1ND       56   54   KP00XL   389   389  KP00  >Ieskaitîts QSO
+ 1802  SM0WW       54   53   JO99KO   419   419  JO99  >Ieskaitîts QSO
+ 1814  OH0AZX      53   54   KP00IF   398   398        >Ieskaitîts QSO
+ 1825  SM5CUI      57   54   JO89WW   486   486  JO89  >Ieskaitîts QSO
+ 1830  SM4DXO      54   55   JP71SB   663   663  JP71  >Ieskaitîts QSO
+ 1832  SM5EPO      54   54   JP80MC   535   535  JP80  >Ieskaitîts QSO
+ 1838  LY2HS       56   55   KO25UO   197   197  KO25
+ 1854  OH1F        54   54   KP01TK   495   495  KP01  >Ieskaitîts QSO
+ 1859  ES8PW       56   54   KO18VM   149   149  KO18  >Ieskaitîts QSO
+ 1919  YL3NF       59   59   KO17QA    70    70  KO17  >Ieskaitîts QSO
+ 1945  OH3BDS      56   56   KP10PR   395   395        >Ieskaitîts QSO
+ 1948  ES2JL       55   55   KO29LL   252   252  KO29  >Ieskaitîts QSO
+ 1958  OH4LA       57   54   KP20LG   340   340  KP20  >Ieskaitîts QSO
+ 2008  ES3MAR      57   56   KO28KX   197   197  KO28  >Ieskaitîts QSO
+ 2049  SK4EA       54   53   JO79OO   600   600  JO79  >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 7368 + 10000 = 17368
+======================================================================
+03.08.2024                             VHFTest v3.2.190  LY2CG © 2016 

@@ -1,0 +1,34 @@
+  
+   YL VHF ACTIVITY CONTEST (YLAC)
+   1296 MHz   SEPTEMBER 2024
+   LY2R QSO LOG    WWLoc: KO15VS
+======================================================================
+ UTC   Callsign    RSTs RSTr WWLoc    QRB   Pnts WWLs  Comment
+======================================================================
+ 1701  ES2MC       559  559  KO29GG   392   392  KO29  > No LOG but QSO credited
+ 1704  LY3JE       59   59   KO26TC   121   121  KO26
+ 1718  LY2VO       59   59   KO15PX    39    39  KO15
+ 1725  ES2DF       559  559  KO29GG   392   392        > No LOG but QSO credited
+ 1732  SM0FZH      559  529  JO99HI   504   504  JO99  > No LOG but QSO credited
+ 1739  ES2AFF      59   59   KO29EE   382   382        > No LOG but QSO credited
+ 1746  SM0RJV      559  559  JO89VJ   539   539  JO89  > No LOG but QSO credited
+ 1757  SM6VTZ      559  559  JO58UJ   785   785  JO58  > No LOG but QSO credited
+ 1805  YL2FZ       559  559  KO37QI   282   282  KO37
+ 1807  YL2GD       599  599  KO37ML   275   275
+ 1830  ES0FX       559  559  KO08XL   321   321  KO08  > No LOG but QSO credited
+ 1837  SP5BIN      559  559  KO02KF   438   438  KO02  > No LOG but QSO credited
+ 1847  SK0CT       599  559  JO99BM   536   536        > No LOG but QSO credited
+ 1855  SQ5N        559  559  KO02LH   427   427        > No LOG but QSO credited
+ 1903  SM5EPO      559  559  JP80MC   625   625  JP80  > No LOG but QSO credited
+ 1909  YL2AO       599  599  KO16DK   119   119  KO16
+ 1926  LY2BDA      539  559  KO24MQ   145   145  KO24  > No LOG but QSO credited
+ 1945  SK0EN       599  599  JO99JX   554   554        > No LOG but QSO credited
+ 1948  YL2AJ       599  599  KO16OX   140   140
+ 1956  SP2FRY      559  559  JO83WR   443   443  JO83  > No LOG but QSO credited
+ 2002  SP2WPY      599  599  JO94FL   369   369  JO94  > No LOG but QSO credited
+ 2017  SP2HMR      559  559  JO94DE   393   393        > No LOG but QSO credited
+ 2028  SP2EXY      579  599  KO00QV   566   566  KO00  > No LOG but QSO credited
+                              ----------------------------------------
+                                    Score: 8787 + 7500 = 16287
+======================================================================
+26.09.2024                             VHFTest v3.2.190  LY2CG © 2016 

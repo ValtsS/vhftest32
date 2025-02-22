@@ -1,0 +1,170 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Jûnijs 2024
+   YL2CI QSO LOG    WWL: KO06TR
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1729  HB9HLM      59   59   JN36KW  1482  1482  JN36  >Ieskaitîts QSO
+ 1731  9A9R        59   59   JN85OQ  1266  1266  JN85  >Ieskaitîts QSO
+ 1733  IV3KKV      59   59   JN66IE  1323  1323  JN66  >Ieskaitîts QSO
+ 1735  DG2GYX      59   59   JO47EQ   804   804  JO47  >Ieskaitîts QSO
+ 1735  IW2CAM      59   59   JN45RP  1492  1492  JN45  >Ieskaitîts QSO
+ 1736  IK1QLI      59   59   JN45GS  1516  1516        >Ieskaitîts QSO
+ 1736  IZ6JPK      59   59   JN63QI  1598  1598  JN63  >Ieskaitîts QSO
+ 1737  DC3SW       59   59   JO48KW     0     0        > Kïûda WWL, bija JN48KW
+ 1737  IZ5EME      59   59   JN52NS  1722  1722  JN52  >Ieskaitîts QSO
+ 1738  DF6IY       59   59   JN48EU  1246  1246  JN48  >Ieskaitîts QSO
+ 1739  I1LJV       59   59   1608       0     0        > Kïûda WWL, bija JN44GT
+ 1739  IQ1ZM       59   59   JN44GT  1608  1608  JN44  >Ieskaitîts QSO
+ 1740  F5JRX       59   59   JN26AC  1689  1689  JN26  >Ieskaitîts QSO
+ 1740  IK2AQZ      59   59   JN45MS  1496  1496        >Ieskaitîts QSO
+ 1741  IZ1GCW      59   59   JN34RW  1640  1640  JN34  >Ieskaitîts QSO
+ 1742  IK8FOT      59   59   JN70FQ  1858  1858  JN70  >Ieskaitîts QSO
+ 1742  IN3XSV      59   59   JN55PU  1404  1404  JN55  >Ieskaitîts QSO
+ 1743  IQ3TN       59   59   JN55PU  1404  1404        >Ieskaitîts QSO
+ 1743  IZ0CVF      59   59   JN61BX  1775  1775  JN61  >Ieskaitîts QSO
+ 1744  IU0OPT      59   59   JN52VN  1724  1724        >Ieskaitîts QSO
+ 1745  IK54AFJ     59   59   JN53IQ  1641  1641  JN53  >Ieskaitîts QSO
+ 1745  IQ0CV       59   59   JN61BX  1775  1775        >Ieskaitîts QSO
+ 1745  IU1PZJ      59   59   JN35TC  1617  1617  JN35  >Ieskaitîts QSO
+ 1746  9A3SHF      59   59   JN65TI  1381  1381  JN65  >Ieskaitîts QSO
+ 1746  IK2RHE      59   59   JN45QA  1555  1555        >Ieskaitîts QSO
+ 1747  DO2ZZ       59   59   JO48XF   717   717  JO48  >Ieskaitîts QSO
+ 1747  IQ0VT       59   59   JN52VN  1724  1724        >Ieskaitîts QSO
+ 1748  F1TDO       59   59   JN25LX  1656  1656  JN25  >Ieskaitîts QSO
+ 1748  F4EHA       59   59   JN26EQ  1623  1623        >Ieskaitîts QSO
+ 1749  9A3XZ       59   59   JN64WV  1422  1422  JN64  >Ieskaitîts QSO
+ 1750  IZ7FVI      59   59   JN71SL  1751  1751  JN71  >Ieskaitîts QSO
+ 1751  DK5LC       59   59   JO31QO  1086  1086  JO31  >Ieskaitîts QSO
+ 1751  DK7QX       59   59   JO42KH   957   957  JO42  >Ieskaitîts QSO
+ 1752  IW3BBI      59   59   JN56QM  1335  1335  JN56  >Ieskaitîts QSO
+ 1753  IU1QZL      59   59   JN45BQ  1541  1541        >Ieskaitîts QSO
+ 1754  IQ1VM       59   59   JN45BQ  1541  1541        >Ieskaitîts QSO
+ 1755  IK5RAS      59   59   JN54SJ  1542  1542  JN54  >Ieskaitîts QSO
+ 1755  IQ5MS       59   59   JN54BC  1619  1619        >Ieskaitîts QSO
+ 1756  9A2AA       59   59   JN83TF  1528  1528  JN83  >Ieskaitîts QSO
+ 1757  IK4WTU      59   59   JN64CQ  1492  1492        >Ieskaitîts QSO
+ 1757  YL2AO       59   59   KO16DK    53    53  KO16
+ 1758  IU0IKZ      59   59   JN62BK  1727  1727  JN62  >Ieskaitîts QSO
+ 1758  IZ8DSX      59   59   JN71HA  1818  1818        >Ieskaitîts QSO
+ 1759  IK0GDH      59   59   JN63CD  1651  1651        >Ieskaitîts QSO
+ 1800  IN3PBO      59   59   JN66AS  1287  1287        >Ieskaitîts QSO
+ 1801  9A1I        59   59   JN85FS  1270  1270        >Ieskaitîts QSO
+ 1801  9A2MW       59   59   JN75VW  1266  1266  JN75  >Ieskaitîts QSO
+ 1803  S52LI       59   59   JN65XV  1316  1316        >Ieskaitîts QSO
+ 1805  IU3KUD      59   59   JN55SR  1408  1408        >Ieskaitîts QSO
+ 1806  IU3NDF      59   59   JN65AT  1382  1382        >Ieskaitîts QSO
+ 1807  DB7PN       59   59   JO30TN  1147  1147  JO30  >Ieskaitîts QSO
+ 1807  DK6FX       59   59   JO30WE  1162  1162        >Ieskaitîts QSO
+ 1808  IK0VWO      59   59   JN62LH  1718  1718        >Ieskaitîts QSO
+ 1808  S52ZD       59   59   JN76PA  1269  1269  JN76  >Ieskaitîts QSO
+ 1809  ON4WIY      59   59   JO21KA  1264  1264  JO21  >Ieskaitîts QSO
+ 1809  PE1RUS      59   59   JO33AG  1063  1063  JO33  >Ieskaitîts QSO
+ 1810  PA0CKV      59   59   JO21QV  1180  1180        >Ieskaitîts QSO
+ 1811  9A2EY       59   59   JN85AT  1274  1274        >Ieskaitîts QSO
+ 1811  IQ0RI       59   59   JN62LH  1718  1718        >Ieskaitîts QSO
+ 1812  DJ2OJ       59   59   JO41WT   937   937  JO41  >Ieskaitîts QSO
+ 1812  PA0LSC      59   59   JO22EA  1230  1230  JO22  >Ieskaitîts QSO
+ 1813  ON4CCC      59   59   JO10SX  1342  1342  JO10  >Ieskaitîts QSO
+ 1814  IZ3ZMM      59   59   JN55UJ  1435  1435        >Ieskaitîts QSO
+ 1821  IK7LMX      59   59   JN80XP  1808  1808  JN80  >Ieskaitîts QSO
+ 1822  F1RAF       59   59   JN18KD  1581  1581  JN18  >Ieskaitîts QSO
+ 1822  Z35U        59   59   KO1SV      0     0        > Kïûda WWL, bija KN01SV
+ 1823  IK7JNM      599  59   JN80XO  1813  1813        >Ieskaitîts QSO
+ 1823  IQ7PU       59   59   JN80XP  1808  1808        >Ieskaitîts QSO
+ 1824  HB9G        59   59   JN36BE  1583  1583        >Ieskaitîts QSO
+ 1825  F4BMY       59   59   JN36GJ  1545  1545        >Ieskaitîts QSO
+ 1826  DL1SS       59   59   JO31QG  1109  1109        >Ieskaitîts QSO
+ 1827  S50F        59   59   JN86CT  1164  1164  JN86  >Ieskaitîts QSO
+ 1828  DG7AC       59   59   JO42UI   908   908        >Ieskaitîts QSO
+ 1828  HA50HK      59   59   JN86TQ  1150  1150        >Ieskaitîts QSO
+ 1829  DH0SBW      59   59   JN48OW  1200  1200        >Ieskaitîts QSO
+ 1829  DL6SAQ      59   59   JN58CK  1199  1199  JN58  >Ieskaitîts QSO
+ 1830  DL6UO       59   59   JN49SE  1163  1163  JN49  >Ieskaitîts QSO
+ 1830  DL8YAU      59   59   JO41HS  1007  1007        >Ieskaitîts QSO
+ 1831  DC1AP       59   59   JO42UI   908   908        >Ieskaitîts QSO
+ 1831  DL9UO       59   59   JO62SO   693   693  JO62  >Ieskaitîts QSO
+ 1834  DD7EE       59   59   JO41JX   983   983        >Ieskaitîts QSO
+ 1834  E77EA       59   59   KO84OU   994   994  KO84  >Ieskaitîts QSO
+ 1835  DK3WW       59   59   JO62MG   743   743        >Ieskaitîts QSO
+ 1835  DO1ZB       59   59   JN48FW  1235  1235        >Ieskaitîts QSO
+ 1836  IK7UXU      59   59   JN81HE  1766  1766  JN81  >Ieskaitîts QSO
+ 1838  IK7RWE      59   59   JN80XP  1808  1808        >Ieskaitîts QSO
+ 1839  IW7DKS      59   59   JN90CI  1838  1838  JN90  >Ieskaitîts QSO
+ 1840  IK7IMO      59   59   JN90CH  1843  1843        >Ieskaitîts QSO
+ 1841  LZ2CW       59   59   KN23GK  1493  1493  KN23  >Ieskaitîts QSO
+ 1842  IU7MEZ      59   59   JN80WO  1814  1814        >Ieskaitîts QSO
+ 1843  DL9GK       59   59   JN59EE  1125  1125  JN59  >Ieskaitîts QSO
+ 1843  HA5OAF      59   59   JN97QM  1036  1036  JN97  >Ieskaitîts QSO
+ 1844  DL2HWA      59   59   JO51WE   886   886  JO51  >Ieskaitîts QSO
+ 1844  YL2QG       59   59   KO06QR    16    16  KO06
+ 1846  E72U        59   59   JO94JU     0     0        > Kïûda WWL, bija JN94JU
+ 1848  DD9WL       59   59   JN49EW  1157  1157        >Ieskaitîts QSO
+ 1848  DO9JBL      59   59   JN57ML  1255  1255  JN57  >Ieskaitîts QSO
+ 1849  DL9PW       59   59   JN57TX  1185  1185        >Ieskaitîts QSO
+ 1851  DL/M0ABT    59   59   JO50TW   918   918  JO50  >Ieskaitîts QSO
+ 1851  DL0RUS      59   59   JN58TD  1169  1169        >Ieskaitîts QSO
+ 1852  DK7DU       59   59   JO50NQ   962   962        >Ieskaitîts QSO
+ 1852  IZ1HIY      59   59   JN44OL  1615  1615        >Ieskaitîts QSO
+ 1853  F4HGV       59   59   JN38FX  1329  1329  JN38  >Ieskaitîts QSO
+ 1853  IN3AHO      59   59   JN56NB  1389  1389        >Ieskaitîts QSO
+ 1855  DD3DJ       59   59   JO31OL  1104  1104        >Ieskaitîts QSO
+ 1855  DH1DAC      59   59   JO31OK  1107  1107        >Ieskaitîts QSO
+ 1855  DL/KD5KC    59   59   JO50CG  1040  1040        >Ieskaitîts QSO
+ 1856  DC6GF       59   59   JN58AI  1214  1214        >Ieskaitîts QSO
+ 1856  DM6AT       59   59   JO52GI   864   864  JO52  >Ieskaitîts QSO
+ 1857  DL2FBY      59   59   JO51AE   975   975        >Ieskaitîts QSO
+ 1858  OK1UOZ      59   59   JO70VA   840   840  JO70  >Ieskaitîts QSO
+ 1859  DL9NDW      59   59   JO50XG   960   960        >Ieskaitîts QSO
+ 1900  F6IRS       59   59   JN38VN  1298  1298        >Ieskaitîts QSO
+ 1900  IN3IVC      59   59   JN56PL  1342  1342        >Ieskaitîts QSO
+ 1901  DC9BG       59   59   JO42EF   990   990        >Ieskaitîts QSO
+ 1901  IU5ICR      59   59   JN53HO  1652  1652        >Ieskaitîts QSO
+ 1903  IN3GRV      59   59   JN56NQ  1328  1328        >Ieskaitîts QSO
+ 1903  IW2NNZ      59   59   JN45SN  1497  1497        >Ieskaitîts QSO
+ 1904  DG2SBL      59   59   JN48VX  1170  1170        >Ieskaitîts QSO
+ 1905  DK6MM       59   59   JO50NI   990   990        >Ieskaitîts QSO
+ 1905  G4AFF       59   59   JO02LO  1400  1400  JO02  >Ieskaitîts QSO
+ 1905  OK1VEI      59   59   JN79DX   894   894  JN79  >Ieskaitîts QSO
+ 1906  GM4JTJ      59   59   IO86RP  1469  1469  IO86  >Ieskaitîts QSO
+ 1907  DK7UDO      59   59   JO50XD   971   971        >Ieskaitîts QSO
+ 1909  IN3MNS      59   59   JN55KV  1414  1414        >Ieskaitîts QSO
+ 1910  IN3ZTI      59   59   JN55OL  1444  1444        >Ieskaitîts QSO
+ 1911  9A2NB       59   59   JN65TF  1394  1394        >Ieskaitîts QSO
+ 1911  PA0RWD      59   59   JO32BB  1127  1127  JO32  >Ieskaitîts QSO
+ 1912  GM3TAL      59   59   IO86GA  1538  1538        >Ieskaitîts QSO
+ 1913  OK1SC       59   59   JO70OB   854   854        >Ieskaitîts QSO
+ 1914  GM4CXM      59   59   IO75TW  1596  1596  IO75  >Ieskaitîts QSO
+ 1915  MM0GOR      59   59   IO85AU  1573  1573  IO85  >Ieskaitîts QSO
+ 1918  IU3LYJ      59   59   JN65CU  1373  1373        >Ieskaitîts QSO
+ 1920  IK1WVR      59   59   JN44VC  1631  1631        >Ieskaitîts QSO
+ 1923  T77LA       59   59   JN63FW  1561  1561        >Ieskaitîts QSO
+ 1932  SM7HGY      53   56   JO86DR   326   326  JO86  >Ieskaitîts QSO
+ 1933  PA2RO       56   599  JO22OI  1162  1162        >Ieskaitîts QSO
+ 1935  LA2D        55   57   JO59BS   752   752  JO59  >Ieskaitîts QSO
+ 1939  OE4WHG      53   57   JN87DC  1131  1131  JN87  >Ieskaitîts QSO
+ 1941  OK2EA       56   599  JN89XL   843   843  JN89  >Ieskaitîts QSO
+ 1944  DC2DC       53   599  JN68EE  1136  1136  JN68  >Ieskaitîts QSO
+ 1951  LA9CAA      52   54   JO59FG   716   716        >Ieskaitîts QSO
+ 1953  IW4ENV      57   599  JN44GT  1608  1608        >Ieskaitîts QSO
+ 1959  SV1EKI      54   599  KM18RA  2085  2085  KM18  >Ieskaitîts QSO
+ 2004  UW1WU       57   599  KN29AT   786   786  KN29  >Ieskaitîts QSO
+ 2011  DL0RUS      58   599  JN58TD     0     0        > Atkârtots sakars 18:51
+ 2016  SM5FGQ      53   599  JO99BH   354   354  JO99  >Ieskaitîts QSO
+ 2020  IZ2CPO      55   599  JN45TO  1489  1489        >Ieskaitîts QSO
+ 2024  SM0IKR      53   55   JO99CC   333   333        >Ieskaitîts QSO
+ 2028  GM4UBJ      55   599  IO75XT  1579  1579        >Ieskaitîts QSO
+ 2032  G3RKF       53   54   IO83VH  1558  1558  IO83  >Ieskaitîts QSO
+ 2035  DH8GV       57   599  JO33RL   969   969        >Ieskaitîts QSO
+ 2039  DF1JC       57   57   JO31OG  1118  1118        >Ieskaitîts QSO
+ 2040  PA2J        54   54   JO21JO  1231  1231        >Ieskaitîts QSO
+ 2043  G4KLX       54   58   IO90LV  1614  1614  IO90  >Ieskaitîts QSO
+ 2046  DL5EBS      54   57   JO31NH  1120  1120        >Ieskaitîts QSO
+ 2048  G3XDV       55   599  IO92UC     0     0        > Nav dalîbnieks vai CALL kïûda
+ 2050  DK2BJ       57   56   JO30BS  1212  1212        >Ieskaitîts QSO
+ 2052  EI2IP       56   599  IO52QJ  1992  1992  IO52  >Ieskaitîts QSO
+                              ----------------------------------------
+                                  Score: 199389 + 36000 = 235389
+======================================================================
+21.06.2024                             VHFTest v3.2.190  LY2CG © 2016 

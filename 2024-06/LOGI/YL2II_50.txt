@@ -1,0 +1,38 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Jûnijs 2024
+   YL2II QSO LOG    WWL: KO26OO
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1859  SM4VBO      54   55   JP70NU   749   749  JP70  >Ieskaitîts QSO
+ 1910  OZ7KJ       54   58   JO46ML   989   989  JO46  >Ieskaitîts QSO
+ 1913  LA9CAA      55   57   JO59FG   918   918  JO59  >Ieskaitîts QSO
+ 1920  PA0M        55   58   JO21QK  1411  1411  JO21  >Ieskaitîts QSO
+ 1924  DL7ARV      54   58   JO62PJ   899   899  JO62  >Ieskaitîts QSO
+ 1927  PH2M        01   01   JO22       0     0        > Kïûda WWL, bija JO22HC
+ 1931  DJ9NY       54   59   JO41XX  1113  1113  JO41  >Ieskaitîts QSO
+ 1932  DL1NEO      55   59   JN59KV  1207  1207  JN59  >Ieskaitîts QSO
+ 1942  DK6MM       09   07   JO50       0     0        > Kïûda WWL, bija JO50NI
+ 1953  SA6RTD      599  599  JO58OX   869   869  JO58  >Ieskaitîts QSO
+ 1955  GI4SNA      599  599  IO64XM  1962  1962  IO64  >Ieskaitîts QSO
+ 1957  G3YDY       59   59   IO01FQ     0     0        > Kïûda WWL, bija JO01FQ
+ 1959  G4OBK       5900959014IO94OF  1652  1652  IO94  >Ieskaitîts QSO
+ 2000  G0UUU/P     590105011 IO94SE  1634  1634        >Ieskaitîts QSO
+ 2004  EI4IB       5901155   IO63II     0     0        > Kïûda WWL, bija IO63GO
+ 2006  G3ZWR       59   59004IO94FX  1672  1672        >Ieskaitîts QSO
+ 2007  IK2AQZ      5001259   JN45MS  1642  1642  JN45  >Ieskaitîts QSO
+ 2008  F4AZF       59012591  JN39GG  1486  1486  JN39  >Ieskaitîts QSO
+ 2010  HB9FNH      59   59   JN37PI  1593  1593  JN37  >Ieskaitîts QSO
+ 2012  DO9BC       59   59   JN48QP  1382  1382  JN48  >Ieskaitîts QSO
+ 2014  G4FZN/P     5901259024IO94AK  1716  1716        >Ieskaitîts QSO
+ 2015  MM0GOR      59   59   IO85AU  1792  1792  IO85  >Ieskaitîts QSO
+ 2035  G3LDI       5990159902IO02ON9    09    03       > Kïûda WWL, bija JO02ON
+ 2041  HA6NY       599  599  JN98WC  1012  1012  JN98  >Ieskaitîts QSO
+ 2046  DM4IM       599  599  JN49HN  1351  1351  JN49  >Ieskaitîts QSO
+ 2050  G7RAU       599  599  IN79JX  2131  2131  IN79  >Ieskaitîts QSO
+ 2053  G4BRK       5990159903IO91HP2 18054 1805  IO91  >Ieskaitîts QSO
+                              ----------------------------------------
+                                   Score: 30985 + 9500 = 40485
+======================================================================
+21.06.2024                             VHFTest v3.2.190  LY2CG © 2016 

@@ -1,0 +1,32 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Februaris 2024
+   YL2AO QSO LOG    WWL: KO16DK
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1808  YL2CI       59   59   KO06TR    53    53  KO06
+ 1812  YL3ND       53   55   KO17JM   125   125  KO17
+ 1816  YL2QG       56   56   KO06QR    65    65
+ 1836  GM4VVX      26   26   IO78TA  1605  1605  IO78  >Ieskaitîts QSO
+ 1846  SM7FJE      56   55   JO65VU   531   531  JO65  >Ieskaitîts QSO
+ 1910  SM4GGC      26   26   JO69RK   619   619  JO69  >Ieskaitîts QSO
+ 1920  OG3B        559  559  KP10AQ   473   473  KP10  >Ieskaitîts QSO
+ 1928  GM4CXM      26   26   IO75TW  1641  1641  IO75  >Ieskaitîts QSO
+ 1932  SM0KAK      54   53   JO89XK   421   421  JO89  >Ieskaitîts QSO
+ 1944  OZ8ZS       26   26   JO55RT   675   675  JO55  >Ieskaitîts QSO
+ 1957  OZ7KJ       26   26   JO46ML   813   813  JO46  >Ieskaitîts QSO
+ 2009  ES2JL       53   54   KO29LL   373   373  KO29  >Ieskaitîts QSO
+ 2011  YL2QV       56   56   KO26WM   221   221  KO26
+ 2029  G3YDY       26   26   JO01FQ  1512  1512  JO01  >Ieskaitîts QSO
+ 2039  G4ASR       26   26   IO81MX  1705  1705  IO81  >Ieskaitîts QSO
+ 2048  GM4JTJ      26   26   IO86RP  1515  1515  IO86  >Ieskaitîts QSO
+ 2052  OV3T        26   26   JO46CM   864   864        >Ieskaitîts QSO
+ 2113  OZ7CQ       26   26   JO55FK   745   745        >Ieskaitîts QSO
+ 2118  OH4LA       53   54   KP20LG   454   454  KP20  >Ieskaitîts QSO
+ 2123  OH2FNR      54   54   KP20IL   471   471        >Ieskaitîts QSO
+ 2146  IQ5MS       26   26   JN54BC  1617  1617  JN54  >Ieskaitîts QSO
+                              ----------------------------------------
+                                   Score: 16498 + 8500 = 24998
+======================================================================
+02.03.2024                             VHFTest v3.2.190  LY2CG © 2016 

@@ -1,0 +1,44 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Novembris 2024
+   YL2CI QSO LOG    WWL: KO06TR
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1804  YL2QG       57   56   KO06QR    16    16  KO06
+ 1808  YL2QV       57   59   KO26WM   261   261  KO26
+ 1810  YL3OI       55   52   KO26MO   210   210
+ 1812  YL3ES       55   53   KO27FF   181   181  KO27
+ 1815  OG5O        58   57   KP20MJ   454   454  KP20  >Ieskaitîts QSO
+ 1817  OH1LEG      56   57   KP10FC   379   379  KP10  >Ieskaitîts QSO
+ 1818  ES2Z        56   52   KO29JM   362   362  KO29  >Ieskaitîts QSO
+ 1840  SM7HGY      53   56   JO86DR   326   326  JO86  >Ieskaitîts QSO
+ 1846  DL4WK       55   53   JO63SQ   614   614  JO63  >Ieskaitîts QSO
+ 1851  SM7MBH      56   53   JO75EM   469   469  JO75  >Ieskaitîts QSO
+ 1853  SM7KOJ      55   54   JO66ND   527   527  JO66  >Ieskaitîts QSO
+ 1905  SM7PYJ      53   53   JO76TE   374   374  JO76  >Ieskaitîts QSO
+ 1906  YL3ND       55   56   KO17JM   113   113  KO17
+ 1914  OZ2AR       53   53   JO65BT   595   595  JO65  >Ieskaitîts QSO
+ 1924  OE4WHG      54   57   JN87DC  1131  1131  JN87  >Ieskaitîts QSO
+ 1927  OH0AZX      53   53   KP00IF   393   393  KP00  >Ieskaitîts QSO
+ 1934  YL2AO       58   59   KO16DK    53    53  KO16
+ 1943  SM0BSO      57   54   JO99BG   350   350  JO99  >Ieskaitîts QSO
+ 1948  SM4VBO      54   53   JP70NU   592   592  JP70  >Ieskaitîts QSO
+ 2017  SA5ACR      54   54   JO88FR   379   379  JO88  >Ieskaitîts QSO
+ 2026  SM6MVE      53   53   JO67KW   542   542  JO67  >Ieskaitîts QSO
+ 2027  ES5NC       54   54   KO38JK   362   362  KO38  >Ieskaitîts QSO
+ 2033  SK6EI       59   58   JO68VK   504   504  JO68  >Ieskaitîts QSO
+ 2037  SM6LJP      55   54   JO68WI   497   497        >Ieskaitîts QSO
+ 2044  SM6BFE      53   55   JO68DQ   596   596        >Ieskaitîts QSO
+ 2045  YL2QG       59   59   KO06QR     0     0        > Nav otra dalîbnieka LOG-â
+ 2106  SM6YNO      54   56   JO67GG   553   553        >Ieskaitîts QSO
+ 2107  ES2MC       53   52   KO29GG   331   331        >Ieskaitîts QSO
+ 2119  SM0IKR      54   54   JO99CC   333   333        >Ieskaitîts QSO
+ 2122  OH1RI       54   57   KP10HQ   444   444        >Ieskaitîts QSO
+ 2143  SM0KAK      54   52   JO89XK   371   371  JO89  >Ieskaitîts QSO
+ 2150  SM4HCM      53   52   JP70RL   549   549        >Ieskaitîts QSO
+ 2154  SM4ONW      54   53   JP70QN   559   559        >Ieskaitîts QSO
+                              ----------------------------------------
+                                   Score: 13420 + 11500 = 24920
+======================================================================
+24.11.2024                             VHFTest v3.2.190  LY2CG © 2016 

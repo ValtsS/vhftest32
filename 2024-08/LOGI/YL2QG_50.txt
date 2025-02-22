@@ -1,0 +1,22 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Augusts 2024
+   YL2QG QSO LOG    WWL: KO06QR
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1703  YL2AO       599  599  KO16DK     0     0        > Kïûda RS/RST, bija 55
+ 1705  YL3ND       599  599  KO17JM     0     0        > Kïûda RS/RST, bija 53
+ 1715  YL2CI       56   58   KO06TR    16    16  KO06
+ 1721  YL2GD       53   54   KO37ML   353   353  KO37
+ 1737  YL2QV       53   55   KO26WM   277   277  KO26
+ 1742  SM7FJE      54   53   JO65VU   478   478  JO65  >Ieskaitîts QSO
+ 1756  YL2IV       56   56   KO06OL    30    30
+ 1806  OH0AZX      52   53   KP00IF   392   392  KP00  >Ieskaitîts QSO
+ 1839  YL3AOI      53   53   KO26MO   225   225
+ 1842  ES0Z        55   55   KO18KT   249   249  KO18  >Ieskaitîts QSO
+ 1938  OH1LEG      53   53   KP10FC   381   381  KP10  >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 2401 + 3500 = 5901
+======================================================================
+25.08.2024                             VHFTest v3.2.190  LY2CG © 2016 

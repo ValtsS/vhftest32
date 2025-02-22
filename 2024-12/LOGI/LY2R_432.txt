@@ -1,0 +1,59 @@
+  
+   YL VHF ACTIVITY CONTEST (YLAC)
+   432 MHz   DECEMBER 2024
+   LY2R QSO LOG    WWLoc: KO15VS
+======================================================================
+ UTC   Callsign    RSTs RSTr WWLoc    QRB   Pnts WWLs  Comment
+======================================================================
+ 1800  OH4LA       599  599  KP20LG   506   506  KP20  > No LOG but QSO credited
+ 1806  OH3DP       559  559  KP10TT   561   561  KP10  > No LOG but QSO credited
+ 1807  YL2AJ       599  599  KO16OX   140   140  KO16
+ 1812  OH0A        59   59   KP00AF   543   543  KP00  > No LOG but QSO credited
+ 1817  LA2Z        59   59   JO59EJ   894   894  JO59  > No LOG but QSO credited
+ 1821  SM6VTZ      599  599  JO58UJ   785   785  JO58  > No LOG but QSO credited
+ 1822  SM6BFE      559  579  JO68DQ   764   764  JO68  > No LOG but QSO credited
+ 1825  SM7ATL      599  599  JO86EQ   470   470  JO86  > No LOG but QSO credited
+ 1831  OZ1BEF      559  559  JO46OE   907   907  JO46  > No LOG but QSO credited
+ 1832  SM7ATL      599  599  JO86EQ     0     0        > duplicate, in LOG at 18:25
+ 1835  SM4GGC      599  599  JO69RK   738   738  JO69  > No LOG but QSO credited
+ 1843  OZ7KJ       579  599  JO46ML   916   916        > No LOG but QSO credited
+ 1846  LY2BBF      559  599  KO24PR   150   150  KO24
+ 1851  OV3T        57   57   JO46CM   967   967        > No LOG but QSO credited
+ 1855  OZ1DLD      559  599  JO45LR     0     0        > Wrong WWL, was JO45RL
+ 1859  SM7EYW      599  599  JO65NK   671   671  JO65  > No LOG but QSO credited
+ 1905  SM7ECM      559  559  JO65PU   656   656        > No LOG but QSO credited
+ 1908  OZ8PG       559  559  JO66EC   712   712  JO66  > No LOG but QSO credited
+ 1911  SK6EI       599  599  JO68VK   672   672        > No LOG but QSO credited
+ 1913  OH2FQV      59   57   KP20MF   502   502        > No LOG but QSO credited
+ 1918  LY2VO       59   59   KO15PX    39    39  KO15
+ 1919  LY2CH       59   59   KO15OV    39    39        > No LOG but QSO credited
+ 1921  SM4HFI      599  599  JP70TO   719   719  JP70  > No LOG but QSO credited
+ 1924  LY2BDA      599  599  KO24MQ   145   145        > No LOG but QSO credited
+ 1927  ES1OX       559  559  KO29HI   402   402  KO29  > No LOG but QSO credited
+ 1928  ES2DF       599  599  KO29GG   392   392        > No LOG but QSO credited
+ 1930  YL2GD       599  599  KO37ML   275   275  KO37
+ 1941  SK0BL       599  599  JO97HK   367   367  JO97  > No LOG but QSO credited
+ 1947  SM5EPO      599  599  JP80MC   625   625  JP80  > No LOG but QSO credited
+ 1948  ES4RM       559  559  KO49AL   484   484  KO49  > No LOG but QSO credited
+ 1956  SP2FRY      599  569  JO83WR   443   443  JO83  > No LOG but QSO credited
+ 1957  SM0BSO      559  559  JO99BG   516   516  JO99  > No LOG but QSO credited
+ 2001  ES1ATE      59   59   KO29JK   413   413        > No LOG but QSO credited
+ 2003  YL3DR       59   59   KO26HT   127   127  KO26  > No LOG but QSO credited
+ 2012  OZ6TY       599  559  JO55XE   748   748  JO55  > No LOG but QSO credited
+ 2016  SP2DDV      579  569  JO83VE   483   483        > No LOG but QSO credited
+ 2023  SM7DTE      559  559  JO75CN   602   602  JO75  > No LOG but QSO credited
+ 2025  ES7RU       599  599  KO28SI   307   307  KO28  > No LOG but QSO credited
+ 2035  ES2MC       599  599  KO29GG   392   392        > No LOG but QSO credited
+ 2042  SM0LQB      599  599  JO89WF   522   522  JO89  > No LOG but QSO credited
+ 2048  SP2WPY      599  599  JO94FL   369   369  JO94  > No LOG but QSO credited
+ 2050  SA0CAN      599  599  JO99CH   516   516        > No LOG but QSO credited
+ 2112  LY1CR       599  599  KO15CL   105   105        > No LOG but QSO credited
+ 2115  SM0RJV      599  599  JO89VJ   539   539        > No LOG but QSO credited
+ 2131  GM4BYF      59   59   IO85JO  1682  1682  IO85  > No LOG but QSO credited
+ 2142  GM4JTJ      59   55   IO86RP  1622  1622  IO86  > No LOG but QSO credited
+ 2144  SM7LCB      599  599  JO86GH   455   455        > No LOG but QSO credited
+ 2156  OZ4VW       555  555  JO45UT   879   879  JO45  > No LOG but QSO credited
+                              ----------------------------------------
+                                   Score: 25761 + 15500 = 41261
+======================================================================
+16.12.2024                             VHFTest v3.2.190  LY2CG © 2016 

@@ -1,0 +1,39 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   432 MHz   Jûlijs 2024
+   YL2GD QSO LOG    WWL: KO37ML
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1703  YL3EK       58   56   KO27FF   158   158  KO27
+ 1707  YL2KO       599  599  KO37RI    29    29  KO37
+ 1715  YL3ANJ      599  599  KO36QU    73    73  KO36
+ 1717  LY2HS       599  599  KO25UO   224   224  KO25
+ 1721  LY2BBF      559  599  KO24PR   325   325  KO24
+ 1726  SK6EI       559  559  JO68VK   788   788  JO68  >Ieskaitîts QSO
+ 1728  LY2VO       599  599  KO15PX   284   284  KO15
+ 1731  ES4RM       559  559  KO49AL   230   230  KO49  >Ieskaitîts QSO
+ 1733  OH2FQV      55   55   KP20MF   327   327  KP20  >Ieskaitîts QSO
+ 1734  YL3GEA      59   59   KO37QM    21    21
+ 1737  YL2FZ       599  599  KO37QI    25    25
+ 1740  ES2PRM      59   59   KO29GG   247   247  KO29  >Ieskaitîts QSO
+ 1742  SK0CT       559  559  JO99BM   566   566  JO99  >Ieskaitîts QSO
+ 1755  LY2CH       599  599  KO15OV   293   293        >Ieskaitîts QSO
+ 1808  LY2WR       55   59   KO24FO   358   358        >Ieskaitîts QSO
+ 1811  ES7RU       599  599  KO28SI   132   132  KO28  >Ieskaitîts QSO
+ 1817  OH3DP       55   52   KP10TT   419   419  KP10  >Ieskaitîts QSO
+ 1822  ES8PW       56   53   KO18VM   224   224  KO18  >Ieskaitîts QSO
+ 1827  SM4GGC      559  559  JO69RK   818   818  JO69  >Ieskaitîts QSO
+ 1829  LY4AA       559  599  KO14WW   344   344  KO14  >Ieskaitîts QSO
+ 1833  LY1CR       58   58   KO15CL   371   371        >Ieskaitîts QSO
+ 1835  YL3ES       55   54   KO27FF   158   158
+ 1836  YL1ZF       55   56   KO27AA   188   188
+ 1841  SM0DJW      53   53   JO88WW   561   561  JO88  >Ieskaitîts QSO
+ 1843  SK0QO       53   53   JO99CC   547   547        >Ieskaitîts QSO
+ 1851  SK1BL       54   56   JO97HK   504   504  JO97  >Ieskaitîts QSO
+ 1858  OH6UW       599  589  KP32AC   518   518  KP32  >Ieskaitîts QSO
+ 1900  SK0EN       599  599  JO99JX   551   551        >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 9283 + 9500 = 18783
+======================================================================
+03.08.2024                             VHFTest v3.2.190  LY2CG © 2016 

@@ -1,0 +1,37 @@
+  
+   YL VHF ACTIVITY CONTEST (YLAC)
+   432 MHz   JUNE 2024
+   LY2HS QSO LOG    WWLoc: KO25UO
+======================================================================
+ UTC   Callsign    RSTs RSTr WWLoc    QRB   Pnts WWLs  Comment
+======================================================================
+ 1704  LY3JE       59   59   KO26TC    56    56  KO26
+ 1706  LY4AA       59   59   KO14WW   138   138  KO14  > No LOG but QSO credited
+ 1707  LY2R        59   59   KO15VS   122   122  KO15
+ 1707  LY5AA       59   59   KO14WW   138   138        > No LOG but QSO credited
+ 1718  LY5AT/P     59   59   KO24JQ   118   118  KO24  > No LOG but QSO credited
+ 1733  YL2AO       599  599  KO16DK   232   232  KO16
+ 1740  LY2VO       59   59   KO15PX   157   157
+ 1805  LY2XV       59   59   KO25TX    43    43  KO25  > No LOG but QSO credited
+ 1811  LY2CH       59   59   KO15OV   160   160        > No LOG but QSO credited
+ 1816  YL2GD       599  599  KO37ML   224   224  KO37
+ 1829  YL3EK       55   53   KO27FF   197   197  KO27
+ 1838  LY2BDA      559  559  KO24MQ   111   111        > No LOG but QSO credited
+ 1840  YL2AJ       599  599  KO16OX   218   218
+ 1844  YL2LW       08   12   KO26CW   175   175        > No LOG but QSO credited
+ 1847  OH3BDS      55   55   KP10PR   588   588  KP10  > No LOG but QSO credited
+ 1904  YL2FZ       18   15   KO37QI   220   220
+ 1922  OH3DP       53   53   KP10TT   592   592        > No LOG but QSO credited
+ 1941  YL3ES       57   56   KO27FF   197   197
+ 1952  LY1BWB      599  599  KO24PR   101   101        > No LOG but QSO credited
+ 1953  YL3ANJ      53   55   KO36QU     0     0        > The time differs 17 min.
+ 1956  ES8PW       55   54   KO18VM   345   345  KO18  > No LOG but QSO credited
+ 1959  OH4LA       54   53   KP20LG   521   521  KP20  > No LOG but QSO credited
+ 2010  SM0DJW      56   54   JO88WW   599   599  JO88  > No LOG but QSO credited
+ 2015  SK1BL       57   54   JO97HK   480   480  JO97  > No LOG but QSO credited
+ 2024  SK0CT       559  559  JO99BM   628   628  JO99  > No LOG but QSO credited
+ 2048  LY2BBF      559  559  KO24PR     0     0        > Wrong received RS/RST, was 599
+                              ----------------------------------------
+                                    Score: 6360 + 7000 = 13360
+======================================================================
+21.06.2024                             VHFTest v3.2.190  LY2CG © 2016 

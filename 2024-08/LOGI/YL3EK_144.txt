@@ -1,0 +1,46 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   144 MHz   Augusts 2024
+   YL3EK QSO LOG    WWL: KO27FF
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1703  YL2IV       56   55   KO06OL   215   215  KO06
+ 1706  YL3ES       56   59   KO27FF     1     1  KO27
+ 1709  YL2AJ       59   57   KO16OX    81    81  KO16
+ 1720  YL2AO       58   55   KO16DK     0     0        > Nav otra dalîbnieka LOG-â
+ 1723  YL2FZ       55   55   KO37QI   176   176  KO37
+ 1736  YL3ANJ      55   56   KO36QU   182   182  KO36
+ 1746  OH0AZX      53   53   KP00IF   398   398  KP00  >Ieskaitîts QSO
+ 1746  OH0AZX      55   53   KP00IF     0     0        > Atkârtots sakars 17:46
+ 1750  SM5CUI      59   53   KP00IF     0     0        > Kïûda WWL, bija JO89WW
+ 1757  YL3ANT      55   55   KO36PM   190   190
+ 1800  SM0WW       53   54   JO99KO   419   419  JO99  >Ieskaitîts QSO
+ 1802  OH3DP       55   53   KP10TT   402   402  KP10  >Ieskaitîts QSO
+ 1804  OH3BDS      56   53   KP10PR   395   395        >Ieskaitîts QSO
+ 1812  LY1CR       56   53   KO15CL   239   239  KO15  >Ieskaitîts QSO
+ 1827  ES4RM       56   55   KO49AL   326   326  KO49  >Ieskaitîts QSO
+ 1834  ES8PW       55   53   KO18VM   149   149  KO18  >Ieskaitîts QSO
+ 1837  YL2GD       59   59   KO37ML   158   158
+ 1849  LY2HS       59   59   KO25UO   197   197  KO25
+ 1851  OH1RI       57   55   KP10HQ   399   399        >Ieskaitîts QSO
+ 1853  YL2QV       57   54   KO26WM   117   117  KO26
+ 1854  LY5AT       54   56   KO24LR   280   280  KO24  >Ieskaitîts QSO
+ 1857  ES3/SM0KAK  56   55   KO19SF   229   229  KO19  >Ieskaitîts QSO
+ 1858  YL3NF       54   54   KO17QA    70    70  KO17
+ 1900  ES2JL       55   53   KO29LL   252   252  KO29  >Ieskaitîts QSO
+ 1912  YL2AO       59   56   KO16DK   159   159
+ 1918  SM0DJW      55   54   JO88WW   431   431  JO88  >Ieskaitîts QSO
+ 1925  SM7UKH      56   55   JO77IP   585   585  JO77  >Ieskaitîts QSO
+ 1928  OH4LA       59   56   KP20LG   340   340  KP20  >Ieskaitîts QSO
+ 1931  ES3MAR      56   54   KO28KX   197   197  KO28  >Ieskaitîts QSO
+ 1938  ES2Z        53   54   KO29JM   256   256        >Ieskaitîts QSO
+ 1956  OH1F        55   53   KP01TK   495   495  KP01  >Ieskaitîts QSO
+ 2003  YL2II       53   55   KO26OO    84    84
+ 2026  SK1BL       56   56   JO97HK   351   351  JO97  >Ieskaitîts QSO
+ 2055  ES2Z        55   54   KO29JM     0     0        > Atkârtots sakars 19:38
+ 2058  ES2Z        54   599             0     0        > Kïûda WWL, bija KO29JM
+                              ----------------------------------------
+                                    Score: 7773 + 11500 = 19273
+======================================================================
+25.08.2024                             VHFTest v3.2.190  LY2CG © 2016 

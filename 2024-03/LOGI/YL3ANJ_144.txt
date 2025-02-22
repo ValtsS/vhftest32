@@ -1,0 +1,26 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   144 MHz   Marts 2024
+   YL3ANJ QSO LOG    WWL: KO36QU
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1913  YL2FZ       599  599  KO37QI    56    56  KO37
+ 1931  YL3GEA      59   59   KO37QM    75    75
+ 1937  ES5KC       59   59   KO38II   172   172  KO38  >Ieskaitîts QSO
+ 1941  YL2GD       599  599  KO37ML    73    73
+ 1957  YL2KO       599  599  KO37RI    56    56
+ 2014  YL2II       22   14   KO26OO   136   136  KO26
+ 2025  OH1F        08   15   KP01TK   606   606  KP01  >Ieskaitîts QSO
+ 2031  ES3MAR      16   16   KO28KX   279   279  KO28  >Ieskaitîts QSO
+ 2044  YL2QV       06   16   KO26WM     0     0        > Kïûda RS/RST, bija 57
+ 2101  UA3IDQ      03   14   KO66JF   340   340  KO66  >Ieskaitîts QSO
+ 2110  YL2AO       14   17   KO16DK   315   315  KO16
+ 2120  OH2FNR      06   17   KP20IL   432   432  KP20  >Ieskaitîts QSO
+ 2122  OH4LA       07   12   KP20LG   405   405        >Ieskaitîts QSO
+ 2124  OH3DP       07   17   KP10TT   491   491  KP10  >Ieskaitîts QSO
+ 2135  OH0AZX      00   17   KP00IF   539   539  KP00  >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 3975 + 5000 = 8975
+======================================================================
+25.03.2024                             VHFTest v3.2.190  LY2CG © 2016 

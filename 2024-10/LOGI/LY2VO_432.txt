@@ -1,0 +1,35 @@
+  
+   YL VHF ACTIVITY CONTEST (YLAC)
+   432 MHz   OCTOBER 2024
+   LY2VO QSO LOG    WWLoc: KO15PX
+======================================================================
+ UTC   Callsign    RSTs RSTr WWLoc    QRB   Pnts WWLs  Comment
+======================================================================
+ 1704  SM6VTZ      599  599  JO58UJ   747   747  JO58  > No LOG but QSO credited
+ 1705  LY2HQ       59   59   KO15OV    11    11  KO15  > No LOG but QSO credited
+ 1711  LY2CH       59   59   KO15OV    11    11        > No LOG but QSO credited
+ 1712  LY3PEJ      59   59   KO15CL    88    88        > No LOG but QSO credited
+ 1713  LY3FI       59   59   KO24PR   188   188  KO24  > No LOG but QSO credited
+ 1714  LY2BDA      59   59   KO24MQ   182   182        > No LOG but QSO credited
+ 1714  LY4AA       59   59   KO14WW   122   122  KO14  > No LOG but QSO credited
+ 1721  SK6EI       579  559  JO68VK   634   634  JO68  > No LOG but QSO credited
+ 1740  OZ9GE       559  559  JO66CB   689   689  JO66  > No LOG but QSO credited
+ 1753  SK1BL       599  569  JO97HK   328   328  JO97  > No LOG but QSO credited
+ 1757  YL2KO       599  599  KO37RI   297   297  KO37
+ 1801  LY3US       59   59   KO15QW     7     7        > No LOG but QSO credited
+ 1803  YL2AJ       599  599  KO16OX   112   112  KO16
+ 1804  LY2R        59   59   KO15VS    39    39
+ 1807  ES2PRM      59   59   KO29GG   374   374  KO29  > No LOG but QSO credited
+ 1807  ES8AY       59   59   KO28GJ   280   280  KO28  > No LOG but QSO credited
+ 1812  ES2MC       599  599  KO29GG   374   374        > No LOG but QSO credited
+ 1816  YL2GD       599  599  KO37ML   284   284
+ 1820  YL2FZ       599  599  KO37QI   293   293
+ 1834  LY3JE       59   59   KO26TC   146   146  KO26
+ 1837  YL2AO       59   59   KO16DK    81    81
+ 1848  ES7RU       599  599  KO28SI   297   297        > No LOG but QSO credited
+ 1852  ES2AFF      59   59   KO29EE   363   363        > No LOG but QSO credited
+ 1856  SK0CT       579  559  JO99BM   499   499  JO99  > No LOG but QSO credited
+                              ----------------------------------------
+                                    Score: 6446 + 6500 = 12946
+======================================================================
+23.10.2024                             VHFTest v3.2.190  LY2CG © 2016 

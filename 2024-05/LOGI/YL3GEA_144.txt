@@ -1,0 +1,17 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   144 MHz   Maijs 2024
+   YL3GEA QSO LOG    WWL: KO37QM
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1813  UA1ASA      59   59   KO48GH   112   112  KO48  >Ieskaitîts QSO
+ 1816  YL2FZ       59   59   KO37QI    19    19  KO37
+ 1829  RA1WR       59   59   KO47DT    64    64  KO47  >Ieskaitîts QSO
+ 1834  LY3JE       59   59   KO26TC     0     0        > Kïûda RS/RST, bija 57
+ 1835  YL2GD       59   59   KO37ML    21    21
+ 1932  YL2KO       59   59   KO37RI    20    20
+                              ----------------------------------------
+                                     Score: 236 + 1500 = 1736
+======================================================================
+22.05.2024                             VHFTest v3.2.190  LY2CG © 2016 

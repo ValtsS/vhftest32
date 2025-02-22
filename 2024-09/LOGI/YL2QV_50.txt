@@ -1,0 +1,36 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Septembris 2024
+   YL2QV QSO LOG    WWL: KO26WM
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1714  YL3OI       57   54   KO26MO    52    52  KO26
+ 1717  YL2GD       56   56   KO37ML   128   128  KO37
+ 1719  YL3OO       54   52   KO27DD   119   119  KO27
+ 1738  YL3ND       54   54   KO17JM   218   218  KO17
+ 1747  YL2II       52   58   KO26OO    42    42
+ 1756  YL2CI       56   52   KO06TR   261   261  KO06
+ 1800  YL3ES       56   55   KO27FF   117   117
+ 1814  SM7FJE      59A  55A  JO65VU   751   751  JO65  >Ieskaitîts QSO
+ 1831  SM4GGC      55A  55A  JO69RK   800   800  JO69  >Ieskaitîts QSO
+ 1831  SM5CUI      55A  55A  JO89WW   603   603  JO89  >Ieskaitîts QSO
+ 1839  OH1MM       55A  55A  KP01TM   607   607  KP01  >Ieskaitîts QSO
+ 1909  SM3GSK      57A  57A  JP82TM   813   813  JP82  >Ieskaitîts QSO
+ 1917  OH3MF       55A  55A  KP20FR   476   476  KP20  >Ieskaitîts QSO
+ 1921  SM6M        57A  57A  JO68UK   757   757  JO68  >Ieskaitîts QSO
+ 1925  SM4GRP      55A  55A  JO69HF   838   838        >Ieskaitîts QSO
+ 1929  SM5DJE      59A  59A  JO88HE   585   585  JO88  >Ieskaitîts QSO
+ 1931  OH3XA       59A  59A  KP21GA   507   507  KP21  >Ieskaitîts QSO
+ 1934  SM3KPO      55A  55A  JP92FX   829   829  JP92  >Ieskaitîts QSO
+ 1938  OH6VV       55A  55A  KP22WG   640   640  KP22  >Ieskaitîts QSO
+ 1940  OH4LA       57A  57A  KP20LG   421   421        >Ieskaitîts QSO
+ 1947  YL2FZ       57A  57A  KO37QI   130   130
+ 1957  ES2DF       57A  57A  KO29GG   316   316  KO29  >Ieskaitîts QSO
+ 2001  SM4HFI      55A  55A  JP70TO   747   747  JP70  >Ieskaitîts QSO
+ 2004  SM6TOL      55A  55A  JO78BL   734   734  JO78  >Ieskaitîts QSO
+ 2020  OH6P        55A  55A  KP22AD   635   635        >Ieskaitîts QSO
+                              ----------------------------------------
+                                   Score: 12126 + 9500 = 21626
+======================================================================
+26.09.2024                             VHFTest v3.2.190  LY2CG © 2016 

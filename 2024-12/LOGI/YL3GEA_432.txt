@@ -1,0 +1,13 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitates Sacensibas (YLAC)
+   432 MHz   Decembris 2024
+   YL3GEA QSO LOG    WWL: KO37QM
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 2007  LY2VO       59   59   KO15PX   303   303  KO15
+ 2039  RA1WR       59   59   KO47DT    64    64  KO47  >Ieskaitits QSO
+                              ----------------------------------------
+                                     Score: 367 + 1000 = 1367
+======================================================================
+16.12.2024                             VHFTest v3.2.190  LY2CG © 2016 

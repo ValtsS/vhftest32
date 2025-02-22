@@ -1,0 +1,51 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Jûnijs 2024
+   YL1ZF QSO LOG    WWL: KO17XA
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1802  PI4DX       59   52   JO21AJ  1432  1432  JO21  >Ieskaitîts QSO
+ 1804  LC2D        57   54   JO59CS   856   856  JO59  >Ieskaitîts QSO
+ 1809  IV3SKB      54   52   JN66OA  1428  1428  JN66  >Ieskaitîts QSO
+ 1811  OT100GNT    59   54   JO11UB  1472  1472  JO11  >Ieskaitîts QSO
+ 1812  PA2RO       59   53   JO22OI  1307  1307  JO22  >Ieskaitîts QSO
+ 1813  OP7B        59   52   JO21CD  1438  1438        >Ieskaitîts QSO
+ 1814  DF7JS       59   53   JO31JM  1267  1267  JO31  >Ieskaitîts QSO
+ 1815  DH2OAA      59   55   JO42TU  1024  1024  JO42  >Ieskaitîts QSO
+ 1817  PA5COR      58   54   JO23TB  1244  1244  JO23  >Ieskaitîts QSO
+ 1818  PG1C        52   54   JO33EJ  1183  1183  JO33  >Ieskaitîts QSO
+ 1821  S51CK       59   51   JN76GA  1383  1383  JN76  >Ieskaitîts QSO
+ 1822  PH2M        57   55   JO22HC  1356  1356        >Ieskaitîts QSO
+ 1824  E77D        55   55   JN94BR  1426  1426  JN94  >Ieskaitîts QSO
+ 1825  DJ1SL       56   55   JO42WF  1049  1049        >Ieskaitîts QSO
+ 1826  ON7GB       59   53   JO21IA  1417  1417        >Ieskaitîts QSO
+ 1828  DH5MK       59   59   JO41KW  1124  1124  JO41  >Ieskaitîts QSO
+ 1829  PA1VW       57   59   JO22KR  1306  1306        >Ieskaitîts QSO
+ 1830  DH3CS       59   59   JO30XX  1239  1239  JO30  >Ieskaitîts QSO
+ 1832  OE6JOD      59   57   JN86AW  1244  1244  JN86  >Ieskaitîts QSO
+ 1833  G0ROG       51   52   IO91MG  1733  1733  IO91  >Ieskaitîts QSO
+ 1835  LX2A        59   51   JN29XV  1425  1425  JN29  >Ieskaitîts QSO
+ 1836  DH6JL       59   59   JO31DH  1309  1309        >Ieskaitîts QSO
+ 1838  DK2AT       59   57   JO50PQ  1087  1087  JO50  >Ieskaitîts QSO
+ 1839  DL0GWW      59   57   JO31NP  1240  1240        >Ieskaitîts QSO
+ 1840  PA3DUU      59   59   JO21KV  1353  1353        >Ieskaitîts QSO
+ 1842  OM2FY       57   57   JN88OD  1086  1086  JN88  >Ieskaitîts QSO
+ 1844  DO2SBS      59   59   JO71BV   853   853  JO71  >Ieskaitîts QSO
+ 1845  ON4LFE      59   58   JO30AP  1367  1367        >Ieskaitîts QSO
+ 1847  OZ1JVX      59   59   JO46FR   941   941  JO46  >Ieskaitîts QSO
+ 1849  DL4AO       59   59   JO42OX  1040  1040        >Ieskaitîts QSO
+ 1851  DL4WK       59   59   JO63SQ   755   755  JO63  >Ieskaitîts QSO
+ 1852  ON7CL       59   55   JO20KT  1421  1421  JO20  >Ieskaitîts QSO
+ 1854  OP9T        59   59   JO21BE  1440  1440        >Ieskaitîts QSO
+ 1855  IK2OLD      54   55   JN45KM  1647  1647  JN45  >Ieskaitîts QSO
+ 1857  DL4EAM      59   59   JO31CG  1316  1316        >Ieskaitîts QSO
+ 1858  ON1ANZ      57   58   JO21JC  1407  1407        >Ieskaitîts QSO
+ 1859  SA6FOL      59   53   JO67QS   639   639  JO67  >Ieskaitîts QSO
+ 1902  DJ8ES       59   59   JO43SX   967   967  JO43  >Ieskaitîts QSO
+ 1903  OZ1ADL      59   57   JO46XC   863   863        >Ieskaitîts QSO
+ 1904  PA1HD       59   59   JO21IT  1368  1368        >Ieskaitîts QSO
+                              ----------------------------------------
+                                   Score: 49452 + 12500 = 61952
+======================================================================
+21.06.2024                             VHFTest v3.2.190  LY2CG © 2016 

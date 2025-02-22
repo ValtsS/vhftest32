@@ -1,0 +1,52 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitates Sacensibas (YLAC)
+   432 MHz   Decembris 2024
+   YL2FZ QSO LOG    WWL: KO37QI
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1808  SM5EPO      54   52   JP80MC   670   670  JP80  >Ieskaitits QSO
+ 1814  SM7MBH      53   52   JO75EM   824   824  JO75  >Ieskaitits QSO
+ 1817  SM7PYJ      57   57   JO76TE   727   727  JO76  >Ieskaitits QSO
+ 1818  OZ1KWJ      57   56   JO45TX  1093  1093  JO45  >Ieskaitits QSO
+ 1823  SK1BL       55   54   JO97HK   525   525  JO97  >Ieskaitits QSO
+ 1826  SM7DOX      55   53   JO66LD   888   888  JO66  >Ieskaitits QSO
+ 1828  YL3EK       54   56   KO27FF   176   176  KO27
+ 1834  LB2WD       54   53   JO48HM  1111  1111  JO48  >Ieskaitits QSO
+ 1837  DJ4TC       54   54   JO63PN   981   981  JO63  >Ieskaitits QSO
+ 1841  OH0AZX      55   53   KP00IF   500   500  KP00  >Ieskaitits QSO
+ 1901  G4KUX       53   53   IO94BP  1829  1829  IO94  >Ieskaitits QSO
+ 1919  OZ3Z        57   56   JO45UN  1101  1101        >Ieskaitits QSO
+ 1928  LA9CAA      56   54   JO59FG  1008  1008  JO59  >Ieskaitits QSO
+ 1931  OZ9FW       56   55   JO65CO   950   950  JO65  >Ieskaitits QSO
+ 1932  YL3ES       57   55   KO27FF   176   176
+ 1933  DG0NE       53   53   JO63TM   965   965        >Ieskaitits QSO
+ 1938  YL2AJ       57   56   KO16OX   255   255  KO16
+ 1947  SP2CHY      56   55   JO94GO   629   629  JO94  >Ieskaitits QSO
+ 1950  SM7MBH      52   56   JO75EM     0     0        > Atkartots sakars 18:14
+ 2001  PA2V        55   53   JO22IM  1536  1536  JO22  >Ieskaitits QSO
+ 2012  SM7PYJ      56   54   JO76TE     0     0        > Atkartots sakars 18:17
+ 2014  OZ1DLD      55   54   JO45RL  1119  1119        >Ieskaitits QSO
+ 2018  YL3ANJ      59   55   KO36QU    56    56  KO36
+ 2023  SM0LQB      54   53   JO89WF   593   593  JO89  >Ieskaitits QSO
+ 2024  GM3SEK      54   54   IO74SR  1981  1981  IO74  >Ieskaitits QSO
+ 2026  SA0CAN      55   53   JO99CH   578   578  JO99  >Ieskaitits QSO
+ 2027  LA9CAA      54   55   JO59FG     0     0        > Atkartots sakars 19:28
+ 2030  OZ2OE       54   52   JO45VV  1085  1085        >Ieskaitits QSO
+ 2034  OZ1SKY      55   54   JO56DG  1044  1044  JO56  >Ieskaitits QSO
+ 2041  SK6EI       559  559  JO68VK   811   811  JO68  >Ieskaitits QSO
+ 2047  GI6ATZ      55   53   IO74AJ  2084  2084        >Ieskaitits QSO
+ 2054  OZ1FKZ      58   55   JO56AA  1066  1066        >Ieskaitits QSO
+ 2055  OZ8PG       56   55   JO66EC   924   924        >Ieskaitits QSO
+ 2059  OZ1FKZ      53   55   JO56AA     0     0        > Atkartots sakars 20:54
+ 2109  OZ9GE       54   53   JO66CB   935   935        >Ieskaitits QSO
+ 2115  OZ7KJ       54   53   JO46ML  1114  1114  JO46  >Ieskaitits QSO
+ 2121  OZ4VW       57   54   JO45UT  1093  1093        >Ieskaitits QSO
+ 2130  SM7KOJ      55   54   JO66ND   878   878        >Ieskaitits QSO
+ 2147  SM1HOW      55   52   JO97GL   529   529        >Ieskaitits QSO
+ 2151  DL2RZ       55   54   JO54BJ  1122  1122  JO54  >Ieskaitits QSO
+ 2159  LY1CR       56   53   KO15CL   380   380  KO15  >Ieskaitits QSO
+                              ----------------------------------------
+                                   Score: 33336 + 12500 = 45836
+======================================================================
+16.12.2024                             VHFTest v3.2.190  LY2CG © 2016 

@@ -1,0 +1,33 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   144 MHz   Februaris 2024
+   YL2GD QSO LOG    WWL: KO37ML
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1808  YL3ES       58   58   KO27FF   158   158  KO27
+ 1811  YL2AJ       56   55   KO16OX   238   238  KO16
+ 1814  YL2QV       58   57   KO26WM   128   128  KO26
+ 1821  SM0DJW      55   58   JO88WW   561   561  JO88  >Ieskaitîts QSO
+ 1825  SM5CUI      54   53   JO89WW   596   596  JO89  >Ieskaitîts QSO
+ 1829  OH0AZX      59   56   KP00IF   476   476  KP00  >Ieskaitîts QSO
+ 1830  OH3DP       54   54   KP10TT   419   419  KP10  >Ieskaitîts QSO
+ 1834  OH1F        54   55   KP01TK   536   536  KP01  >Ieskaitîts QSO
+ 1854  ES2MC       599  599  KO29GG   247   247  KO29  >Ieskaitîts QSO
+ 1857  ES2NJ       599  599  KO29NK   245   245        >Ieskaitîts QSO
+ 1900  ES7RU       599  599  KO28SI   132   132  KO28  >Ieskaitîts QSO
+ 1902  YL3ANJ      599  599  KO36QU    73    73  KO36
+ 1905  YL2FZ       599  599  KO37QI    25    25  KO37
+ 1908  YL3GEA      59   59   KO37QM    21    21
+ 1928  YL2KO       599  599  KO37RI    29    29
+ 1929  LY2VO       599  599  KO15PX   284   284  KO15
+ 1932  YL2AO       599  599  KO16DK   311   311
+ 1937  SK0EN       59   57   JO99JX   551   551  JO99  >Ieskaitîts QSO
+ 1941  SM4GGC      559  559  JO69RK   818   818  JO69  >Ieskaitîts QSO
+ 1946  ES1ATE      59   59   KO29JK   255   255        >Ieskaitîts QSO
+ 1946  OH2FNR      57   57   KP20IL   360   360  KP20  >Ieskaitîts QSO
+ 1948  ES1IND      57   57   KO29IJ   253   253        >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 6716 + 8000 = 14716
+======================================================================
+02.03.2024                             VHFTest v3.2.190  LY2CG © 2016 

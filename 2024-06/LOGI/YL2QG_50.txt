@@ -1,0 +1,66 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Jûnijs 2024
+   YL2QG QSO LOG    WWL: KO06QR
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1710  HB9MCY      13   03   JN36       0     0        > Nav dalîbnieks vai CALL kïûda
+ 1712  OE9GWV      03   00   JN47       0     0        > Kïûda WWL, bija JN47UE
+ 1713  YO6LM       11   10   KN25PL  1281  1281  KN25  >Ieskaitîts QSO
+ 1718  IK6BSN      09   25   JN62       0     0        > Kïûda WWL, bija JN62TU
+ 1719  IK5GQK      00   07   JN53       0     0        > Nav dalîbnieks vai CALL kïûda
+ 1729  IK1WVR      59   59   JN44VC  1622  1622  JN44  >Ieskaitîts QSO
+ 1731  HB9HLM      59   59   JN36KW  1471  1471  JN36  >Ieskaitîts QSO
+ 1733  IV3KKW      59   59   JN66IE  1315  1315  JN66  >Ieskaitîts QSO
+ 1737  HB9SJV      59   59   JN36FL  1530  1530        >Ieskaitîts QSO
+ 1747  IU3QIP      59   59   JN55VR  1391  1391  JN55  >Ieskaitîts QSO
+ 1749  I3NGL       59   59   JN54KP  1530  1530  JN54  >Ieskaitîts QSO
+ 1753  IZ0WXS      59   59   JN62CK  1718  1718  JN62  >Ieskaitîts QSO
+ 1800  F4HGV       59   58   JN38FX  1317  1317  JN38  >Ieskaitîts QSO
+ 1803  IQ5MS       59   59   JN54BC  1610  1610        >Ieskaitîts QSO
+ 1816  F1RAF       59   55   JN18KD  1568  1568  JN18  >Ieskaitîts QSO
+ 1817  PA0DDB      59   59   JO32KE  1062  1062  JO32  >Ieskaitîts QSO
+ 1819  IK6LZA      59   59   JN63MS  1556  1556  JN63  >Ieskaitîts QSO
+ 1820  9A2MW       59   59   JN75VW  1261  1261  JN75  >Ieskaitîts QSO
+ 1821  M5BXB       59   59   IO91XR  1492  1492  IO91  >Ieskaitîts QSO
+ 1822  DL1SS       59   59   JO31QG  1095  1095  JO31  >Ieskaitîts QSO
+ 1823  DG7AC       59   59   JO42UI   895   895  JO42  >Ieskaitîts QSO
+ 1823  PE0CDN      59   59   JO22JJ  1169  1169  JO22  >Ieskaitîts QSO
+ 1824  PA0CKV      59   59   JO21QV  1165  1165  JO21  >Ieskaitîts QSO
+ 1825  DJ2TG       59   59   JO31UA  1095  1095        >Ieskaitîts QSO
+ 1826  DJ2OJ       59   59   JO41WT   924   924  JO41  >Ieskaitîts QSO
+ 1826  Z35U        59   59   KN01SV  1650  1650  KN01  >Ieskaitîts QSO
+ 1827  9A4OP       59   59   JN75UR  1285  1285        >Ieskaitîts QSO
+ 1828  DL8YAU      59   59   JO41HS   993   993        >Ieskaitîts QSO
+ 1829  F4HRD       59   59   JO00XX  1419  1419  JO00  >Ieskaitîts QSO
+ 1830  ON4WIY      59   59   JO21KA  1250  1250        >Ieskaitîts QSO
+ 1831  DO8AL       59   59   JO61AJ   849   849  JO61  >Ieskaitîts QSO
+ 1832  DD7EE       59   59   JO41JX   970   970        >Ieskaitîts QSO
+ 1832  DH5MK       59   59   JO41KW   968   968        >Ieskaitîts QSO
+ 1834  F4JBR       59   59   JN15IT  1767  1767  JN15  >Ieskaitîts QSO
+ 1834  PA3HLE      59   59   JO21DV  1228  1228        >Ieskaitîts QSO
+ 1835  DL9UO       59   59   JO62SO   681   681  JO62  >Ieskaitîts QSO
+ 1837  DM5KN       59   59   JO30MR  1152  1152  JO30  >Ieskaitîts QSO
+ 1838  IK7IMO      59   59   JN90CH  1840  1840  JN90  >Ieskaitîts QSO
+ 1839  IK7AF       59   59   JN90CH  1840  1840        >Ieskaitîts QSO
+ 1840  IK7JNM      59   59   JN80XO  1811  1811  JN80  >Ieskaitîts QSO
+ 1841  DN4DI       59   59   JO41FD  1047  1047        >Ieskaitîts QSO
+ 1844  YL2CI       59   59   KO06TR    16    16  KO06
+ 1856  IK4RAS      59   59   JN54SJ  1534  1534        >Ieskaitîts QSO
+ 1859  IZ4TOA      59   59   JN54ON  1528  1528        >Ieskaitîts QSO
+ 1901  G4CLA       59   59   IO92JL  1522  1522  IO92  >Ieskaitîts QSO
+ 1914  OE3JTB      59   59   JN78QN   994   994  JN78  >Ieskaitîts QSO
+ 1924  T77LA       59   59   JN63FW  1554  1554        >Ieskaitîts QSO
+ 1931  IK4HLQ      59   59   JN54KP  1530  1530        >Ieskaitîts QSO
+ 1940  IN3ZTI      59   59   JN55OL  1435  1435        >Ieskaitîts QSO
+ 1941  9A1I        59   59   JN85FS  1265  1265  JN85  >Ieskaitîts QSO
+ 1956  YL3ND       55   54   KO17JM   123   123  KO17
+ 2001  SV1EKI      54   59   KM18       0     0        > Kïûda WWL, bija KM18RA
+ 2019  OE4WHG      56   55   JN87DC  1125  1125  JN87  >Ieskaitîts QSO
+ 2037  SV7BVZ      54   55   KN21QC  1762  1762  KN21  >Ieskaitîts QSO
+ 2058  GW1YBB/P    59   59   IO81KW  1665  1665  IO81  >Ieskaitîts QSO
+                              ----------------------------------------
+                                   Score: 64870 + 17000 = 81870
+======================================================================
+21.06.2024                             VHFTest v3.2.190  LY2CG © 2016 

@@ -1,0 +1,32 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Februaris 2024
+   YL2CI QSO LOG    WWL: KO06TR
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1805  YL3ND       56   55   KO17JM   113   113  KO17
+ 1807  YL2QG       59   59   KO16DK     0     0        > Kïûda WWL, bija KO06QR
+ 1808  YL2AO       59   59   KO16DK    53    53  KO16
+ 1811  YL2QV       54   55   KO26WM   261   261  KO26
+ 1818  SM4ONW      55   53   JP70QN   559   559  JP70  >Ieskaitîts QSO
+ 1846  SM0BSO      57   53   JO99BG   350   350  JO99  >Ieskaitîts QSO
+ 1852  SA5ACR      53   53   JO88FR   379   379  JO88  >Ieskaitîts QSO
+ 1855  SM5CUI      54   53   JO89WW   419   419  JO89  >Ieskaitîts QSO
+ 1913  SM6MVE      55   54   JO67KW   542   542  JO67  >Ieskaitîts QSO
+ 1916  SM5EPO      54   53   JP80MC   461   461  JP80  >Ieskaitîts QSO
+ 1918  SM4GGC      57   53   JO69RK   567   567  JO69  >Ieskaitîts QSO
+ 1924  SA6BPD      54   52   JO68TK   513   513  JO68  >Ieskaitîts QSO
+ 1927  SM0EZZ      54   53   JO89XG   356   356        >Ieskaitîts QSO
+ 1928  SM0KAK      55   53   JO89XK   371   371        >Ieskaitîts QSO
+ 1933  SM5PAO      55   53   JO89TS   412   412        >Ieskaitîts QSO
+ 2050  OH4GGW      53   53   KP31MO   624   624  KP31  >Ieskaitîts QSO
+ 2053  OH2FNR      55   53   KP20IL   454   454  KP20  >Ieskaitîts QSO
+ 2108  SK0CT       57   57   JO99BM   373   373        >Ieskaitîts QSO
+ 2111  SA0CAN      54   54   JO99CH   351   351        >Ieskaitîts QSO
+ 2136  OH4GGW      53   53   KP31MO     0     0        > Atkârtots sakars 20:50
+ 2201  OZ1JMN      53   55   JO46VE   729   729  JO46  >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 7887 + 7000 = 14887
+======================================================================
+02.03.2024                             VHFTest v3.2.190  LY2CG © 2016 

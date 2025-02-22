@@ -1,0 +1,29 @@
+  
+   YL VHF ACTIVITY CONTEST (YLAC)
+   144 MHz   JANUARY 2024
+   LY2BBF QSO LOG    WWLoc: KO24PR
+======================================================================
+ UTC   Callsign    RSTs RSTr WWLoc    QRB   Pnts WWLs  Comment
+======================================================================
+ 1816  LY2BDA      599  599  KO24MQ    17    17  KO24  > No LOG but QSO credited
+ 1821  LY1MIC      59   59   KO24PR     1     1        > No LOG but QSO credited
+ 1822  LY4WP       59   59   KO24PP    10    10        > No LOG but QSO credited
+ 1822  LY7AP       59   59   KO24PQ     5     5        > No LOG but QSO credited
+ 1823  LY3FI       59   59   KO24PR     1     1        > No LOG but QSO credited
+ 1826  LY5AK       59   59   KO24MV    25    25        > No LOG but QSO credited
+ 1829  LY2BAW      59   59   KO25KA    42    42  KO25  > No LOG but QSO credited
+ 1829  LY5GT       59   59   KO24LU    26    26        > No LOG but QSO credited
+ 1844  YL2FZ       599  599  KO37QI   320   320  KO37  > No LOG but QSO credited
+ 1855  LY3JE       59   59   KO26TC   155   155  KO26  > No LOG but QSO credited
+ 1857  LY2VO       599  599  KO15PX   188   188  KO15
+ 1900  LY2R        599  559  KO15VS     0     0        > Wrong received RS/RST, was 599
+ 1911  LY1BWB      59   59   KO24PR     1     1        > No LOG but QSO credited
+ 1913  YL2AJ       599  599  KO16OX     0     0        > Not in LOG of other station
+ 1914  LY4AA       599  599  KO14WW    94    94  KO14  > No LOG but QSO credited
+ 1915  LY5AA       599  599  KO14WW    94    94        > No LOG but QSO credited
+ 1944  YL2AO       599  599  KO16DK   268   268  KO16
+ 2043  LY1CR       599  579  KO15CL   214   214        > No LOG but QSO credited
+                              ----------------------------------------
+                                    Score: 1461 + 3500 = 4961
+======================================================================
+20.01.2024                             VHFTest v3.2.190  LY2CG © 2016 

@@ -1,0 +1,35 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   50 MHz   Jûlijs 2024
+   YL3ND QSO LOG    WWL: KO17JM
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1706  YL2AO       55   54   KO16DK   125   125  KO16
+ 1711  YL2CI       59   57   KO06TR   113   113  KO06
+ 1714  IW2DNI      12   10   JN45TI  1626  1626  JN45  >Ieskaitîts QSO
+ 1717  YL2QV       56   54   KO26WM   218   218  KO26
+ 1723  OH1LEG      56   56   KP10FC   288   288  KP10  >Ieskaitîts QSO
+ 1733  OH0AZX      57   56   KP00IF   325   325  KP00  >Ieskaitîts QSO
+ 1736  SM4ONW      54   53   JP70QN   543   543  JP70  >Ieskaitîts QSO
+ 1738  OH1RI       56   56   KP10HQ   353   353        >Ieskaitîts QSO
+ 1744  YL2II       54   54   KO26OO   179   179
+ 1756  SM5CUI      55   54   JO89WW   391   391  JO89  >Ieskaitîts QSO
+ 1807  SM5EPO      55   53   JP80MC   439   439  JP80  >Ieskaitîts QSO
+ 1813  YL3OO       54   54   KO27DD   100   100  KO27
+ 1826  ES0Z        57   54   KO18KT   144   144  KO18  >Ieskaitîts QSO
+ 1851  OH2BU       54   52   KP20FB   299   299  KP20  >Ieskaitîts QSO
+ 1855  OH1JCS      57   53   KP10AE   300   300        >Ieskaitîts QSO
+ 1904  YL2GD       56   54   KO37ML   254   254  KO37
+ 1909  YL2QG       53   53   KO06QR   123   123
+ 1916  SM4DXO      53   53   JP70VO   527   527        >Ieskaitîts QSO
+ 1925  YL2FZ       54   53   KO37QI   275   275
+ 1941  SM0BSO      56   53   JO99BG   335   335  JO99  >Ieskaitîts QSO
+ 1959  ES2JL       55   54   KO29LL   252   252  KO29  >Ieskaitîts QSO
+ 2026  LY2TS       14   05   KO05WV   190   190  KO05  >Ieskaitîts QSO
+ 2036  OH4GGW      53   53   KP31MO   514   514  KP31  >Ieskaitîts QSO
+ 2037  OH3NE       55   54   KP11UL   444   444  KP11  >Ieskaitîts QSO
+                              ----------------------------------------
+                                    Score: 8357 + 9000 = 17357
+======================================================================
+03.08.2024                             VHFTest v3.2.190  LY2CG © 2016 

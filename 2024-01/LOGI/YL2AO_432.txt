@@ -1,0 +1,43 @@
+  
+   Latvijas VHF/UHF/SHF Aktivitâtes Sacensîbas (YLAC)
+   432 MHz   Janvaris 2024
+   YL2AO QSO LOG    WWL: KO16DK
+======================================================================
+ UTC   Ðaukinys    RSTs RSTg WWL      QRB   Tðk. WWLs  Pastaba
+======================================================================
+ 1803  SK1BL       599  569  JO97HK   249   249  JO97  >Ieskaitîts QSO
+ 1806  LY2R        599  599  KO15VS   119   119  KO15
+ 1813  YL3ES       55   54   KO27FF   159   159  KO27
+ 1815  YL2AJ       599  599  KO16OX    83    83  KO16
+ 1821  YL2FZ       559  579  KO37QI   326   326  KO37  >Ieskaitîts QSO
+ 1830  SM0BHN      559  539  JO89WI   417   417  JO89  >Ieskaitîts QSO
+ 1842  SM4GGC      559  559  JO69RK   619   619  JO69  >Ieskaitîts QSO
+ 1858  LY1CR       55   56   KO15CL   107   107        >Ieskaitîts QSO
+ 1908  SM5EPO      54   55   JP80MC   511   511  JP80  >Ieskaitîts QSO
+ 1909  SA0CAN      53   54   JO99CH   401   401  JO99  >Ieskaitîts QSO
+ 1920  LY2BDA      559  559  KO24MQ   261   261  KO24  >Ieskaitîts QSO
+ 1922  LY2CH       599  599  KO15OV    83    83        >Ieskaitîts QSO
+ 1928  ES8PW       56   58   KO18VM   249   249  KO18  >Ieskaitîts QSO
+ 1943  SK0CT       559  559  JO99BM   422   422        >Ieskaitîts QSO
+ 2018  SM7DTE      559  559  JO75CN   512   512  JO75  >Ieskaitîts QSO
+ 2020  ES0FX       579  579  KO08XL   228   228  KO08  >Ieskaitîts QSO
+ 2025  ES2MC       56   57   KO29GG   342   342  KO29  >Ieskaitîts QSO
+ 2027  YL3ANT      56   55   KO36PM   308   308  KO36
+ 2030  LY5AA       599  599  KO14WW   195   195  KO14  >Ieskaitîts QSO
+ 2031  LY4AA       17   06   KO14WW   195   195        >Ieskaitîts QSO
+ 2043  OH0AZX      53   55   KP00IF   432   432  KP00  >Ieskaitîts QSO
+ 2045  SK0EN       599  599  JO99JX   444   444        >Ieskaitîts QSO
+ 2105  SP2DDV      559  559  JO83VE   463   463  JO83  >Ieskaitîts QSO
+ 2114  OZ9GE       559  559  JO66CB   624   624  JO66  >Ieskaitîts QSO
+ 2115  OH4LA       55   55   KP20LG   454   454  KP20  >Ieskaitîts QSO
+ 2119  SM7LCB      559  559  JO86GH   355   355  JO86  >Ieskaitîts QSO
+ 2121  SK6EI       53   53   JO68VK   555   555  JO68  >Ieskaitîts QSO
+ 2123  SM7PYJ      55   57   JO76TE   412   412  JO76  >Ieskaitîts QSO
+ 2124  SM7HGY      56   57   JO86DR   369   369        >Ieskaitîts QSO
+ 2125  SM0DJW      55   54   JO88WW   383   383  JO88  >Ieskaitîts QSO
+ 2146  SM3XGV      54   54   JP81OF   608   608  JP81  >Ieskaitîts QSO
+ 2149  SM0BSO      57   57   JO99BG   400   400        >Ieskaitîts QSO
+                              ----------------------------------------
+                                   Score: 11285 + 12500 = 23785
+======================================================================
+20.01.2024                             VHFTest v3.2.190  LY2CG © 2016 
