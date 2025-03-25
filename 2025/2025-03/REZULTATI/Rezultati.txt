@@ -138,42 +138,7 @@ Notikumi pçc 3 mçneðiem:
 DIAPAZONS 1296 MHz
 ==================
 LATVIJAS STACIJAS
-         Callsign    WWLoc   QSOs WWLocs ODX    Pnts
-     1.  YL2AO       KO16DK   20   16    647   14464
-     2.  YL2AJ       KO16OX   17   13    623   11597
-     3.  YL2GD       KO37ML   11    9    566    7108
-     4.  YL2FZ       KO37QI    4    4    282    2618
-     5.  YL3EK       KO27FF    4    3    159    1968
-     6.  YL3JO       KO27EU    2    2    202    1272
-     7.  YL3ANJ      KO36QU    2    1     73     629
- 
-YL stacijas izveidota QSO ar ðiem WWLoc kvadrâti: JO83, JO86, JO89, JO99, JP80, KO00, KO01, KO02, KO08, KO14, KO15, KO16, KO24, KO25, KO29, KO37.
-Kopâ 16 atðíirîgs WWLoc kvadrâti.
- 
-Logs zaudçjums, bet QSO kredîtâ: ES0AFF, ES0FX, ES2AFF, YL2KO, LY1RX, LY2CH, LY2WR, LY5OM, SA0CAN, SK0CT, SM0BHN, SM0BSO, SM0DJW, SM0RJV, SM5EPO, SM6BFE, SM7DTE, SM7ECM, SM7LCB, SP2DDV, SP2FRY, SP5IDR, SP7EXY, SQ5N.
- 
-ODX TOP-10:
-   YL2AO        KO16DK  -  SM6BFE       JO68DQ       647 km
-   YL2AJ        KO16OX  -  SM7ECM       JO65PU       623 km
-   YL2AJ        KO16OX  -  SM7DTE       JO75CN       578 km
-   YL2GD        KO37ML  -  SK0CT        JO99BM       566 km
-   YL2AO        KO16DK  -  SM7ECM       JO65PU       561 km
-   YL2AO        KO16DK  -  SQ5N         KO02LH       467 km
-   YL2AO        KO16DK  -  SM0RJV       JO89VJ       423 km
-   YL2AO        KO16DK  -  SK0CT        JO99BM       422 km
-   YL2AJ        KO16OX  -  SM0RJV       JO89VJ       416 km
-   YL2AJ        KO16OX  -  SM7LCB       JO86GH       415 km
- 
-Notikumi pçc 3 mçneðiem: 
-     1. YL2AO     34831 pnts
-     2. YL2AJ     25385 pnts
-     3. YL2GD     22912 pnts
-     4. YL2FZ      6553 pnts
-     5. YL3EK      4025 pnts
-     6. YL3JO      1272 pnts
-     7. YL3ANJ     1258 pnts
-     8. YL2KO       505 pnts
- 
+YL QSO ðajâ diapazons nav reìistrçts
        
 ========================================================================
 
@@ -258,32 +223,7 @@ Score after 3 months:
 BAND 1296 MHz
 =============
 OPEN CLASS
-         Callsign    WWLoc   QSOs nWWLoc ODX  Points
-     1.  LY2R        KO15VS   21   16    625   15319
-     2.  LY2VO       KO15PX   15   12    588   10428
- 
- 
-OPEN CLASS QSO with WWLoc squares: JO83, JO86, JO89, JO99, JP80, KO00, KO01, KO02, KO08, KO14, KO15, KO16, KO24, KO25, KO29, KO37.
-Total 16 different WWLoc  squares.
- 
-No LOG but QSO credited: ES0AFF, ES0FX, ES2AFF, YL2KO, SA0CAN, SK0CT, SM0BHN, SM0BSO, SM0DJW, SM0RJV, SM5EPO, SM6BFE, SM7DTE, SM7ECM, SM7LCB, SP2DDV, SP2FRY, SP5IDR, SP7EXY, SQ5N.
- 
-ODX TOP-10:
-   LY2R         KO15VS  -  SM5EPO       JP80MC       625 km
-   LY2VO        KO15PX  -  SM5EPO       JP80MC       588 km
-   LY2R         KO15VS  -  SP7EXY       KO00QU       570 km
-   LY2R         KO15VS  -  SM0RJV       JO89VJ       539 km
-   LY2R         KO15VS  -  SK0CT        JO99BM       536 km
-   LY2R         KO15VS  -  SM0BHN       JO89WI       532 km
-   LY2R         KO15VS  -  SA0CAN       JO99CH       516 km
-   LY2R         KO15VS  -  SM0BSO       JO99BG       516 km
-   LY2VO        KO15PX  -  SM0RJV       JO89VJ       501 km
-   LY2VO        KO15PX  -  SK0CT        JO99BM       499 km
- 
-Score after 3 months: 
-     1. LY2R      37888 pnts
-     2. LY2VO     23917 pnts
- 
+NO QSO THIS BAND
        
 ========================================================================
-23.03.2025                               VHFTest v3.2.190  LY2CG © 2016 
+17.03.2025                               VHFTest v3.2.190  LY2CG © 2016 
