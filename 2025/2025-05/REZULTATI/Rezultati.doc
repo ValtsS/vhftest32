@@ -148,7 +148,39 @@
 	DIAPAZONS 1296 MHz
 	==================
 	LATVIJAS STACIJAS
-	YL QSO ðajâ diapazons nav reìistrçts
+		Callsign	WWLoc	QSOs	WWLocs	ODX	Pnts
+	1.	YL2AO	KO16DK	17	14	670	12782
+	2.	YL2AJ	KO16OX	15	13	701	11587
+	3.	YL2GD	KO37ML	8	8	474	5963
+	4.	YL3EK	KO27FF	5	4	431	2899
+	5.	YL2QG	KO06QR	2	1	115	680
+	 
+	YL stacijas izveidota QSO ar ðiem WWLoc kvadrâti: JO89, JO99, KO15, KO16, KO24, KO26, KO29, KO37.
+	Kopâ 8 atðíirîgs WWLoc kvadrâti.
+	 
+	Logs zaudçjums, bet QSO kredîtâ: ES2AFF, YL2KO, YL3AEV, LY2CH, LY2WR, OH3LWP, SA0CAN, SK0CT, SM0DJW, SM0LQB, 	SM0RJV, SM1HOW, SM6VTZ, SM7ECM, SM7EYW, SP2DDV, SP2FRY, SP5UFK, SQ5N.
+	 
+	ODX TOP-10:
+	YL2AJ	KO16OX	-	SM6VTZ	JO58UJ	701 km
+	YL2AO	KO16DK	-	SM6VTZ	JO58UJ	670 km
+	YL2AJ	KO16OX	-	SM7EYW	JO65NK	647 km
+	YL2AJ	KO16OX	-	SM7ECM	JO65PU	623 km
+	YL2AO	KO16DK	-	SM7ECM	JO65PU	561 km
+	YL2AJ	KO16OX	-	SQ5N	KO02LH	539 km
+	YL2AO	KO16DK	-	SP5UFK	KO02ME	480 km
+	YL2GD	KO37ML	-	OH3LWP	KP11XK	474 km
+	YL2AO	KO16DK	-	SQ5N	KO02LH	467 km
+	YL2AO	KO16DK	-	SP2DDV	JO83VE	463 km
+	 
+	Notikumi pçc 5 mçneðiem: 
+	1.	YL2AO	65332 pnts
+	2.	YL2AJ	49902 pnts
+	3.	YL2GD	39836 pnts
+	4.	YL3EK	10168 pnts
+	5.	YL2KO	1568 pnts
+	6.	YL3ANJ	1258 pnts
+	7.	YL2QG	680 pnts
+	 
 	       
 	========================================================================
 	
@@ -231,7 +263,32 @@
 	=============
 	BAND 1296 MHz
 	=============
-	NO QSO THIS BAND
+		Callsign	WWLoc	QSO	nWWLoc	ODX	Points
+	1.	LY2VO	KO15PX	    9	    8	   501	    6167
+	2.	LY3JE	KO26TC	    6	    5	   351	    3744
+	 
+	OPEN CLASS QSO with WWLoc squares: JO89, JO99, KO15, KO16, KO24, KO26, KO29, KO37.
+	Total 8 different WWLoc  squares.
+	 
+	No LOG but QSO credited: ES2AFF, YL2KO, YL3AEV, OH3LWP, SA0CAN, SK0CT, SM0DJW, SM0LQB, SM0RJV, SM1HOW, SM6VTZ, 	SM7ECM, SM7EYW, SP2DDV, SP2FRY, SP5UFK, SQ5N.
+	 
+	ODX TOP-10:
+	LY2VO	KO15PX	-	SM0RJV	JO89VJ	501 km
+	LY2VO	KO15PX	-	SK0CT	JO99BM	499 km
+	LY2VO	KO15PX	-	ES2AFF	KO29EE	363 km
+	LY3JE	KO26TC	-	ES2AFF	KO29EE	351 km
+	LY2VO	KO15PX	-	YL2GD	KO37ML	284 km
+	LY3JE	KO26TC	-	YL2AO	KO16DK	210 km
+	LY3JE	KO26TC	-	LY2WR	KO24FO	183 km
+	LY3JE	KO26TC	-	YL2AJ	KO16OX	178 km
+	LY3JE	KO26TC	-	YL2GD	KO37ML	176 km
+	LY2VO	KO15PX	-	LY2WR	KO24FO	170 km
+	 
+	Score after 5 months: 
+	1.	LY2R	52607 pnts
+	2.	LY2VO	44633 pnts
+	3.	LY3JE	6934 pnts
+	 
 	       
 ========================================================================
-17.05.2025                               VHFTest v3.2.190  LY2CG © 2016 
+25.05.2025                               VHFTest v3.2.190  LY2CG © 2016 
