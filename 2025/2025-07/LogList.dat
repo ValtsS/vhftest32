@@ -1,15 +1,16 @@
 Callsign	Name	E-Addr			50 MHz	WWLoc	*QSOs	*nWWLoc	*ODX	*Pnt	QSOs	nWWLoc	ODX	Pnt				144 MHz	WWLoc	*QSOs	*nWWLoc	*ODX	*Pnt	QSOs	nWWLoc	ODX	Pnt				432 MHz	WWLoc	*QSOs	*nWWLoc	*ODX	*Pnt	QSOs	nWWLoc	ODX	Pnt				1296 MHz	WWLoc	*QSOs	*nWWLoc	*ODX	*Pnt	QSOs	nWWLoc	ODX	Pnt		Addr	TX/RX/Ant	
 YL2AJ	Viesturs	1549@inbox.lv									-	-	-	-					KO16OX	59	40	754	41010	57	37	754	40063										-	-	-	-										-	-	-	-		Kaleju 1-18 	/W //	
-YL2AO	Juris Valenieks	yl2ao@lral.lv									-	-	-	-					KO16DK	71	47	813	52174	71	47	813	51974										-	-	-	-										-	-	-	-		Poste restante 	IC-7610, DB6NT TR144H+40, LNA/W /IC-7610, DB6NT TR144H+40, LNA/M2 2M-5WL	
-YL2GD	Gunars Auseklis										-	-	-	-					KO37ML	55	37	815	40577	55	37	815	40577										-	-	-	-										-	-	-	-		P. box. 23 Aluksne LV-4301	IC-9700 + PA/300W /IC-9700 + LNA/4 X 12el	
-YL2KO	ALEX GORKY	NoEmailProvided									-	-	-	-					KO37RI	1	1	29	529	1	1	29	529										-	-	-	-										-	-	-	-		LIEPNA ALUKSNE NOV.	/W //	
-YL2QG	Andris Rozentals	yl2gqg@gmail.com									-	-	-	-					KO06QR	27	22	582	18626	27	22	582	18626										-	-	-	-										-	-	-	-		Liepavas, Ciravas pagasts Dienvidkurzemes novads	FT-991A/50WW /FT-991A/Yagi	
+YL2AO	Juris Valenieks	yl2ao@lral.lv									-	-	-	-					KO16DK	71	47	813	52174	71	47	813	51974					KO16DK	50	34	771		50	34	771	36107										-	-	-	-		Poste restante 	IC-7610, DB6NT TR432H, SSPA/600W /IC-7610, DB6NT TR432H, LNA/M2 432-9WL 28 el.	
+YL2GD	Gunars Auseklis										-	-	-	-					KO37ML	55	37	815	40577	55	37	815	40577					KO37ML	23	18	711		23	18	711	15916										-	-	-	-		P. box. 23 Aluksne LV-4301	IC-9700 + PA/300W /IC-9700 + LNA/4 X 23 el DK7ZB	
+YL2KO	ALEX GORKY	NoEmailProvided									-	-	-	-					KO37RI	1	1	29	529	1	1	29	529					KO37RI	2	2	223		2	2	223	1252										-	-	-	-		LIEPNA ALUKSNE NOV.	/W //	
+YL2QG	Andris Rozentals	yl2gqg@gmail.com									-	-	-	-					KO06QR	27	22	582	18626	27	22	582	18626					KO06QR	9	8	353		9	8	353	5723										-	-	-	-		Liepavas, Ciravas pagasts Dienvidkurzemes novads	FT-991A/50WW /FT-991A/Yagi	
 YL2QV	Yanis Bebris										-	-	-	-					KO26WM	33	23	808	22960	33	23	808	22939										-	-	-	-										-	-	-	-		Brivibas 288A-30 	IC-706MKIIG/100 WW /IC-706MKIIG/11 el.Yagi	
-YL3ANJ	Andrejs	andrejsbalodis@inbox.lv									-	-	-	-					KO36QU	17	14	507	11162	17	15	530	11864										-	-	-	-										-	-	-	-		Balvu nov. Krisjanu pag.	/100WW //DELTA; YAGI	
-YL3ANT	Janis	yl3ant@gmail.com									-	-	-	-					KO36PM	23	14	636	12745	10	8	566	6624										-	-	-	-										-	-	-	-		 	/100W //dipol	
-YL3EK	Janis	YL3EK@INBOX.LV									-	-	-	-					KO27FF	35	25	691	23631	35	25	691	23631										-	-	-	-										-	-	-	-		Saulkrasti 	IC9700/80wW /IC9700/Yagi9	
-YL3ES	Dmitrij	dmitrijsloka@gmail.com									-	-	-	-					KO27FF	33	26	691	23440	33	27	691	23783										-	-	-	-										-	-	-	-		Saulkrasti 	Kenwood TS-2000/100W /Kenwood TS-2000/	
-LY2HS	Vaidas Tamošiunas	ly2hs@qrz.lt									-	-	-	-				Open	KO25UO	28	17	672	17142	28	17	672	17154										-	-	-	-										-	-	-	-		Palijoniškio g. 6, Utena 	/W //	
+YL3ANJ	Andrejs	andrejsbalodis@inbox.lv									-	-	-	-					KO36QU	17	14	507	11162	17	15	530	11864					KO36QU	9	8	315		9	8	315	5692										-	-	-	-		Balvu nov. Krisjanu pag.	/100WW //DELTA; YAGI	
+YL3ANT	Janis	yl3ant@gmail.com									-	-	-	-					KO36PM	23	14	636	12745	10	8	566	6624					KO36PM	19	12	620		8	7	308	4985										-	-	-	-		 	/100W //dipol	
+YL3EK	Janis	YL3EK@INBOX.LV									-	-	-	-					KO27FF	35	25	691	23631	35	25	691	23631					KO27FF	22	16	735		22	16	735	14095										-	-	-	-		Saulkrasti 	IC9700/60wW /IC9700/Yagi18	
+YL3ES	Dmitrij	dmitrijsloka@gmail.com									-	-	-	-					KO27FF	33	26	691	23440	33	27	691	23783					KO27FF	19	16	421		19	17	421	12875										-	-	-	-		Saulkrasti 	Kenwood TS-2000/100W /Kenwood TS-2000/	
+LY2HS	Vaidas Tamošiunas	ly2hs@qrz.lt									-	-	-	-				Open	KO25UO	28	17	672	17142	28	17	672	17154				Open	KO25UO	14	10	593		14	10	594	8307										-	-	-	-		Palijoniškio g. 6, Utena 	/W //	
 LY2R	Paulius Beirutas	pauliusly2r@gmail.com									-	-	-	-				Open	KO15VS	47	32	893	36235	47	32	894	36031										-	-	-	-										-	-	-	-		 	FT736R/250W /FT736R/4 X 10	
 LY2VO		ly2vo@qrz.lt									-	-	-	-				Open	KO15HS	17	12	800	11578	17	12	800	11582										-	-	-	-										-	-	-	-		 	IC-9700/100W /IC-9700/11eL Y	
-LY3JE	Jonas										-	-	-	-				Open	KO26TC	21	7		7546	21	7	367	7536										-	-	-	-										-	-	-	-		Juodupë S Neries 22 	/W //10 el.	
+LY3JE	Jonas										-	-	-	-				Open	KO26TC	21	7		7546	21	7	367	7536				Open	KO26TC	7	6		12520	7	6	358	4370										-	-	-	-		Juodupë S Neries 22 	/W //10 el.	
+YL2IV	Oskars Cebers	vspr65@gmail.com									-	-	-	-										-	-	-	-					KO06OL	5	4	215	4375	5	4	215	2655										-	-	-	-		 	/100WW //	
