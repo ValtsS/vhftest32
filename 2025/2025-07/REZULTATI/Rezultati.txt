@@ -7,7 +7,42 @@ R E Z U L T Â T I
 DIAPAZONS 50 MHz
 ================
 LATVIJAS STACIJAS
-YL QSO ðajâ diapazons nav reìistrçts
+         Callsign    WWLoc   QSOs WWLocs ODX    Pnts
+     1.  YL2AO       KO16DK   39   31   1916   48260
+     2.  YL3OI       KO26MO   21   21   2777   29764
+     3.  YL3ND       KO17JM   27   23   1735   29166
+     4.  YL2QG       KO06QR   19   16   2409   25202
+     5.  YL2GD       KO37ML   27   24   1049   22581
+     6.  YL2QV       KO26WM   15   13   1358   12393
+     7.  YL3ANT      KO36PM    1    1    108     608
+ 
+ 
+Logs zaudçjums, bet QSO kredîtâ: 9A5CW, DC9JVN, DJ1OJ, DJ7GS, DO2ANW, EA1EVS, EA3FHP, EA5AQB, EB3JT, ES0IA, ES0Z, ES2DF, ES2JL, ES2MA, ES2SF, ES3MAR, ES4IND, ES5QA, ES8JX, F4JRI, F6HRP, G3YDY, HB9RLM, HB9SJV, HB9TOC, I1APQ, I2SIP, IK2TLA, IK4ISR, IQ0CV, IW4CFN, IZ0CVF, IZ1ANZ, IZ2DVI, IZ2MHO, YL2IV, YU9DX, LA1LO, LY2TS, MM5DWW, OE2UKL, OE9DGV, OF60AP, OG3B, OH0AZX, OH1RI, OH2MDN, OH3HPV, OH3NE, OH3UQ, OH3WE, OH4GGW, OH5EIL, OH6UW, OH7RJ, OK1BN, OZ1ADL, SK0CT, SK1BL, SM1FMT, SM4POB, SM5CUI, SM5EPO, SM7ATL, SM7HGY, SM7KOJ.
+ 
+ODX TOP-10:
+   YL3OI        KO26MO  -  EA5AQB       IM98MK      2777 km
+   YL2QG        KO06QR  -  EA1EVS       IN73BM      2409 km
+   YL3OI        KO26MO  -  EB3JT        JN01UI      2381 km
+   YL3OI        KO26MO  -  EA3FHP       JN11JX      2272 km
+   YL2AO        KO16DK  -  F6HRP        IN88KN      1916 km
+   YL2AO        KO16DK  -  IQ0CV        JN61BX      1765 km
+   YL2AO        KO16DK  -  IZ0CVF       JN61BX      1765 km
+   YL3ND        KO17JM  -  I1APQ        JN34WW      1735 km
+   YL2QG        KO06QR  -  F4JRI        IN98WV      1677 km
+   YL3ND        KO17JM  -  IZ1ANZ       JN45FH      1676 km
+ 
+Notikumi pçc 7 mçneðiem: 
+     1. YL2AO    229971 pnts
+     2. YL2GD    130992 pnts
+     3. YL3ND    111623 pnts
+     4. YL3OI     88330 pnts
+     5. YL2QV     65752 pnts
+     6. YL2QG     55143 pnts
+     7. YL2AJ     34647 pnts
+     8. YL3ES     19116 pnts
+     9. YL2IV      7754 pnts
+    10. YL3ANT      608 pnts
+ 
        
 =================
 DIAPAZONS 144 MHz
@@ -51,9 +86,10 @@ Notikumi pçc 7 mçneðiem:
      6. YL3ES    108302 pnts
      7. YL3ANJ    54067 pnts
      8. YL2QG     35661 pnts
-     9. YL3ANT     9917 pnts
-    10. YL2IV      8795 pnts
-    11. YL2KO      2665 pnts
+     9. YL3ND     11960 pnts
+    10. YL3ANT     9917 pnts
+    11. YL2IV      8795 pnts
+    12. YL2KO      2665 pnts
  
        
 =================
@@ -195,4 +231,4 @@ OPEN CLASS
 NO QSO THIS BAND
        
 ========================================================================
-14.07.2025                               VHFTest v3.2.190  LY2CG © 2016 
+15.07.2025                               VHFTest v3.2.190  LY2CG © 2016 
