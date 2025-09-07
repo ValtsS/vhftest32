@@ -161,13 +161,14 @@ LATVIJAS STACIJAS
      3.  YL3EK       KO27FF    7    6    445    4998
      4.  YL2FZ       KO37QI    6    5    356    3516
      5.  YL3ANT      KO36PM    4    3    255    2146
-     6.  YL2QG       KO06QR    1    1    115     615
-     7.  YL2KO       KO37RI    2    1     29     534
+     6.  YL3ES       KO27FF    2    2     81    1082
+     7.  YL2QG       KO06QR    1    1    115     615
+     8.  YL2KO       KO37RI    2    1     29     534
  
 YL stacijas izveidota QSO ar ðiem WWLoc kvadrâti: JO83, JO86, JO89, JO94, JO99, JP80, KO00, KO02, KO15, KO16, KO24, KO26, KO29, KO37.
 Kopâ 14 atðíirîgs WWLoc kvadrâti.
  
-Logs zaudçjums, bet QSO kredîtâ: ES1OX/2, ES2AFF, ES2DF, YL3ES, LY2BDA, LY2CH, LY2WR, OH3LWP, SK0CT, SM0BHN, SM0BSO, SM0DJW, SM0FZH, SM0LQB, SM0RJV, SM5EPO, SM6VTZ, SM7LCB, SP2WPY, SP5BIN, SP6LB, SP7EXY, SQ5N.
+Logs zaudçjums, bet QSO kredîtâ: ES1OX/2, ES2AFF, ES2DF, LY2BDA, LY2CH, LY2WR, OH3LWP, SK0CT, SM0BHN, SM0BSO, SM0DJW, SM0FZH, SM0LQB, SM0RJV, SM5EPO, SM6VTZ, SM7LCB, SP2WPY, SP5BIN, SP6LB, SP7EXY, SQ5N.
  
 ODX TOP-10:
    YL2AJ        KO16OX  -  SM6VTZ       JO58UJ       701 km
@@ -191,6 +192,7 @@ Notikumi pçc 8 mçneðiem:
      7. YL2QG      3922 pnts
      8. YL2KO      3136 pnts
      9. YL3ANJ     1258 pnts
+    10. YL3ES      1082 pnts
  
        
 ========================================================================
@@ -286,7 +288,7 @@ OPEN CLASS
 OPEN CLASS QSO with WWLoc squares: JO83, JO86, JO89, JO94, JO99, JP80, KO00, KO02, KO15, KO16, KO24, KO26, KO29, KO37.
 Total 14 different WWLoc  squares.
  
-No LOG but QSO credited: ES1OX/2, ES2AFF, ES2DF, YL3ES, OH3LWP, SK0CT, SM0BHN, SM0BSO, SM0DJW, SM0FZH, SM0LQB, SM0RJV, SM5EPO, SM6VTZ, SM7LCB, SP2WPY, SP5BIN, SP6LB, SP7EXY, SQ5N.
+No LOG but QSO credited: ES1OX/2, ES2AFF, ES2DF, OH3LWP, SK0CT, SM0BHN, SM0BSO, SM0DJW, SM0FZH, SM0LQB, SM0RJV, SM5EPO, SM6VTZ, SM7LCB, SP2WPY, SP5BIN, SP6LB, SP7EXY, SQ5N.
  
 ODX TOP-10:
    LY2R         KO15VS  -  SM5EPO       JP80MC       625 km
@@ -307,4 +309,4 @@ Score after 8 months:
  
        
 ========================================================================
-23.08.2025                               VHFTest v3.2.190  LY2CG © 2016 
+07.09.2025                               VHFTest v3.2.190  LY2CG © 2016 
