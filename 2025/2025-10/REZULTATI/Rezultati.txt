@@ -7,7 +7,45 @@ R E Z U L T Â T I
 DIAPAZONS 50 MHz
 ================
 LATVIJAS STACIJAS
-YL QSO ðajâ diapazons nav reìistrçts
+         Callsign    WWLoc   QSOs WWLocs ODX    Pnts
+     1.  YL2AO       KO16DK   39   28   1705   41559
+     2.  YL2CI       KO06TR   27   18    624   18084
+     3.  YL3OI       KO26MO   24   17   1029   17803
+     4.  YL2GD       KO37ML   23   17    683   16774
+     5.  YL3ND       KO17JM   23   13    595   13303
+     6.  YL2QV       KO26WM   17   12    566   11286
+     7.  YL2QG       KO06QR   11    9    811    7659
+     8.  YL3GV       KO37MJ    5    4    308    2844
+ 
+ 
+Logs zaudçjums, bet QSO kredîtâ: ES0Z, ES2JL, ES2MA, ES2NJ, ES2Z, ES3MAR, ES5GI, EW6FL, G3YDY, G4ASR, G4CLA, G8SEI, GM4CXM, GM4JTJ, GM4VVX, HA0DU, I5YDI, IV3KKW, YL2AJ, YL3NB, LA3OCT, MW0LKX/P, OG3B, OH0AZX, OH1RI, OH2AWL, OH2NP/60, OH3FM, OH3NE, OH3XA, OH4GGW, OH4LA, OH5EIL, OH5WY, OH6FSG, OH6UW, OH7KIM, OH7RJ, OV3T, OZ1ADL, SA0CAN, SA5ACR, SK0CT, SM0BSO, SM0KAK, SM1FMT, SM4UEF, SM4VBO, SM5CUI, SM5PAO, SM7HGY, SM7KOJ, SP5APW.
+ 
+ODX TOP-10:
+   YL2AO        KO16DK  -  G4ASR        IO81MX      1705 km
+   YL2AO        KO16DK  -  MW0LKX/P     IO82KL      1691 km
+   YL2AO        KO16DK  -  GM4CXM       IO75TW      1641 km
+   YL2AO        KO16DK  -  I5YDI        JN54BB      1621 km
+   YL2AO        KO16DK  -  GM4VVX       IO78TA      1605 km
+   YL2AO        KO16DK  -  G8SEI        IO92FO      1588 km
+   YL2AO        KO16DK  -  G4CLA        IO92JL      1573 km
+   YL2AO        KO16DK  -  GM4JTJ       IO86RP      1515 km
+   YL2AO        KO16DK  -  G3YDY        JO01FQ      1512 km
+   YL2AO        KO16DK  -  IV3KKW       JN66IE      1318 km
+ 
+Notikumi pçc 10 mçneðiem: 
+     1. YL2AO    424252 pnts
+     2. YL2GD    219804 pnts
+     3. YL3OI    202882 pnts
+     4. YL3ND    153156 pnts
+     5. YL2CI    129154 pnts
+     6. YL2QV    116427 pnts
+     7. YL2QG     97015 pnts
+     8. YL2AJ     70355 pnts
+     9. YL2IV     25030 pnts
+    10. YL3ES     19116 pnts
+    11. YL3GV      4845 pnts
+    12. YL3RK      3530 pnts
+ 
        
 =================
 DIAPAZONS 144 MHz
@@ -47,16 +85,18 @@ ODX TOP-10:
 Notikumi pçc 10 mçneðiem: 
      1. YL2AO    459835 pnts
      2. YL2AJ    361511 pnts
-     3. YL2QV    199000 pnts
-     4. YL3EK    197942 pnts
-     5. YL3ES    128834 pnts
-     6. YL3ANJ    94528 pnts
-     7. YL2QG     72981 pnts
-     8. YL2IV     31793 pnts
-     9. YL3GEA    21970 pnts
-    10. YL2KO      9072 pnts
-    11. YL3RK      6792 pnts
-    12. YL3ARP     6113 pnts
+     3. YL2GD    239930 pnts
+     4. YL2QV    199000 pnts
+     5. YL3EK    197942 pnts
+     6. YL3ES    128834 pnts
+     7. YL3ANJ    94528 pnts
+     8. YL2QG     72981 pnts
+     9. YL2IV     31793 pnts
+    10. YL3GEA    21970 pnts
+    11. YL3ND     18830 pnts
+    12. YL2KO      9072 pnts
+    13. YL3RK      6792 pnts
+    14. YL3ARP     6113 pnts
  
        
 =================
