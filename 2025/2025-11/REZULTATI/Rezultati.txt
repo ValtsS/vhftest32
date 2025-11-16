@@ -44,18 +44,53 @@ Notikumi pçc 11 mçneðiem:
      1. YL2AJ    369459 pnts
      2. YL2GD    258600 pnts
      3. YL2QV    199000 pnts
-     4. YL2QG    101264 pnts
-     5. YL3ANJ    98503 pnts
-     6. YL3GEA    23698 pnts
-     7. YL2KO     10177 pnts
-     8. YL3ARP     9412 pnts
+     4. YL3ES    128834 pnts
+     5. YL2QG    101264 pnts
+     6. YL3ANJ    98503 pnts
+     7. YL3GEA    23698 pnts
+     8. YL2KO     10177 pnts
+     9. YL3ARP     9412 pnts
  
        
 =================
 DIAPAZONS 432 MHz
 =================
 LATVIJAS STACIJAS
-YL QSO ðajâ diapazons nav reìistrçts
+         Callsign    WWLoc   QSOs WWLocs ODX    Pnts
+     1.  YL2AJ       KO16OX   33   21    701   21479
+     2.  YL2GD       KO37ML   31   19    569   19328
+     3.  YL3ES       KO27FF   11   10    399    7742
+     4.  YL2QG       KO06QR   11    9    419    7048
+     5.  YL3ANJ      KO36QU    8    7    532    5498
+     6.  YL3GEA      KO37QM    3    3    258    1854
+     7.  YL2KO       KO37RI    1    1     29     529
+ 
+YL stacijas izveidota QSO ar ðiem WWLoc kvadrâti: JO58, JO65, JO66, JO68, JO73, JO83, JO86, JO89, JO94, JO97, JO99, JP70, JP80, KO05, KO06, KO08, KO14, KO15, KO16, KO24, KO26, KO27, KO29, KO37, KO38, KP00, KP20.
+Kopâ 27 atðíirîgs WWLoc kvadrâti.
+ 
+Logs zaudçjums, bet QSO kredîtâ: ES0FX, ES0TJC, ES1ATE, ES1MW, ES1OX, ES2DF, ES2MC, ES5GI, LY1CR, LY1RC, LY2BDA, LY2CH, LY2J, LY2LE, LY2SS, LY2WR, LY3BBE, LY3FI, LY3PEJ, OH0A, OH0AZX, OH1ND, OH1RI, OH2AWU, OH2FQV, OH3DP, OH4LA, OH4MVH, OH6UW, OZ8PG, OZ9GE, SA0CAN, SK0CT, SK1BL, SK4AO, SM0BSO, SM0FZH, SM0KAK, SM0LQB, SM1HOW, SM4HCM, SM5EPO, SM6BFE, SM6VTZ, SM7EYW, SM7LCB, SP1N, SP2FRY, SP2MHR, SP2WPY.
+ 
+ODX TOP-10:
+   YL2AJ        KO16OX  -  SM6VTZ       JO58UJ       701 km
+   YL2AJ        KO16OX  -  OZ9GE        JO66CB       682 km
+   YL2AJ        KO16OX  -  SM6BFE       JO68DQ       673 km
+   YL2AJ        KO16OX  -  SM4HCM       JP70RL       593 km
+   YL2AJ        KO16OX  -  SK4AO        JP70VO       587 km
+   YL2GD        KO37ML  -  SM0LQB       JO89WF       569 km
+   YL2GD        KO37ML  -  SK0CT        JO99BM       566 km
+   YL2GD        KO37ML  -  OH6UW        KP22WI       546 km
+   YL2GD        KO37ML  -  OH4MVH       KP32PG       534 km
+   YL3ANJ       KO36QU  -  SK1BL        JO97HK       532 km
+ 
+Notikumi pçc 11 mçneðiem: 
+     1. YL2AJ    225569 pnts
+     2. YL2GD    173254 pnts
+     3. YL3ES    104289 pnts
+     4. YL2QG     55870 pnts
+     5. YL3ANJ    49989 pnts
+     6. YL3GEA    14808 pnts
+     7. YL2KO      8272 pnts
+ 
        
 ==================
 DIAPAZONS 1296 MHz
@@ -103,15 +138,43 @@ ODX TOP-10:
    LY2VO        KO15PX  -  SK0CT        JO99BM       499 km
  
 Score after 11 months: 
-     1. LY2VO    183445 pnts
-     2. LY3JE     33194 pnts
+     1. LY2R     312911 pnts
+     2. LY2VO    183445 pnts
+     3. LY3JE     33194 pnts
  
        
 ============
 BAND 432 MHz
 ============
 OPEN CLASS
-NO QSO THIS BAND
+         Callsign    WWLoc   QSOs nWWLoc ODX  Points
+     1.  LY2VO       KO15PX   36   26    747   26466
+     2.  LY2R        KO15VS   26   17    764   17751
+     3.  LY3JE       KO26TC    8    5    358    3977
+ 
+ 
+OPEN CLASS QSO with WWLoc squares: JO58, JO65, JO66, JO68, JO73, JO83, JO86, JO89, JO94, JO97, JO99, JP70, JP80, KO05, KO06, KO08, KO14, KO15, KO16, KO24, KO26, KO27, KO29, KO37, KO38, KP00, KP20.
+Total 27 different WWLoc  squares.
+ 
+No LOG but QSO credited: ES0FX, ES0TJC, ES1ATE, ES1MW, ES1OX, ES2DF, ES2MC, ES5GI, OH0A, OH0AZX, OH1ND, OH1RI, OH2AWU, OH2FQV, OH3DP, OH4LA, OH4MVH, OH6UW, OZ8PG, OZ9GE, SA0CAN, SK0CT, SK1BL, SK4AO, SM0BSO, SM0FZH, SM0KAK, SM0LQB, SM1HOW, SM4HCM, SM5EPO, SM6BFE, SM6VTZ, SM7EYW, SM7LCB, SP1N, SP2FRY, SP2MHR, SP2WPY.
+ 
+ODX TOP-10:
+   LY2R         KO15VS  -  SM6BFE       JO68DQ       764 km
+   LY2VO        KO15PX  -  SM6VTZ       JO58UJ       747 km
+   LY2VO        KO15PX  -  SM6BFE       JO68DQ       725 km
+   LY2VO        KO15PX  -  OZ9GE        JO66CB       689 km
+   LY2VO        KO15PX  -  OZ8PG        JO66EC       678 km
+   LY2VO        KO15PX  -  SK4AO        JP70VO       675 km
+   LY2R         KO15VS  -  SM7EYW       JO65NK       671 km
+   LY2VO        KO15PX  -  SP1N         JO73GL       627 km
+   LY2R         KO15VS  -  SM5EPO       JP80MC       625 km
+   LY2VO        KO15PX  -  SM5EPO       JP80MC       588 km
+ 
+Score after 11 months: 
+     1. LY2VO    189545 pnts
+     2. LY2R     184494 pnts
+     3. LY3JE     34127 pnts
+ 
        
 =============
 BAND 1296 MHz
@@ -120,4 +183,4 @@ OPEN CLASS
 NO QSO THIS BAND
        
 ========================================================================
-09.11.2025                               VHFTest v3.2.190  LY2CG © 2016 
+16.11.2025                               VHFTest v3.2.190  LY2CG © 2016 
