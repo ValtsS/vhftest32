@@ -7,7 +7,45 @@ R E Z U L T Â T I
 DIAPAZONS 50 MHz
 ================
 LATVIJAS STACIJAS
-YL QSO ðajâ diapazons nav reìistrçts
+         Callsign    WWLoc   QSOs WWLocs ODX    Pnts
+     1.  YL2GD       KO37ML   28   19    604   19052
+     2.  YL2CI       KO06TR   24   17    721   16656
+     3.  YL2QG       KO06QR   14   10   1619    9665
+     4.  YL2AJ       KO16OX   15   11    411    9062
+     5.  YL3ND       KO17JM   12    9    489    7854
+     6.  YL3OI       KO26MO   12    9    520    7741
+     7.  YL2QV       KO26WM   11    9    551    7362
+     8.  YL3ES       KO27FF   11    9    475    7204
+     9.  YL2FZ       KO37QI    4    3    255    2075
+    10.  YL3ARP      KO26ML    3    1    251    1189
+ 
+ 
+Logs zaudçjums, bet QSO kredîtâ: ES2JL, ES2MA, ES2NJ, ES2Z, ES3MAR, ES4RM, ES5GI, ES5QA, IU0PVM, YL2IV, OG5O, OH0A, OH0AZX, OH1LEG, OH1MP, OH2AWL, OH3CK, OH3HPV, OH3NE, OH6UW, OH6VV, OH7RJ, OZ1ADL, OZ2AR, SA0CAN, SK0CT, SM0BSO, SM0EZZ, SM0KAK, SM3LBN, SM4UEF, SM5CUI, SM5EPO, SM7ATL, SM7KOJ.
+ 
+ODX TOP-10:
+   YL2QG        KO06QR  -  IU0PVM       JN63JF      1619 km
+   YL2CI        KO06TR  -  OZ1ADL       JO46XC       721 km
+   YL2CI        KO06TR  -  SM4UEF       JP70JX       615 km
+   YL2GD        KO37ML  -  OH7RJ        KP32UV       604 km
+   YL2GD        KO37ML  -  SM5CUI       JO89WW       596 km
+   YL2CI        KO06TR  -  OZ2AR        JO65BT       595 km
+   YL2GD        KO37ML  -  SM0BSO       JO99BG       557 km
+   YL2QV        KO26WM  -  SM0BSO       JO99BG       551 km
+   YL2GD        KO37ML  -  OH6UW        KP22WI       546 km
+   YL2CI        KO06TR  -  OH3NE        KP11UL       542 km
+ 
+Notikumi pçc 11 mçneðiem: 
+     1. YL2GD    238856 pnts
+     2. YL3OI    204355 pnts
+     3. YL3ND    153156 pnts
+     4. YL2CI    145810 pnts
+     5. YL2QV    118612 pnts
+     6. YL2QG    101884 pnts
+     7. YL2AJ     79417 pnts
+     8. YL3ES     26320 pnts
+     9. YL2FZ      3683 pnts
+    10. YL3ARP     1189 pnts
+ 
        
 =================
 DIAPAZONS 144 MHz
@@ -48,8 +86,9 @@ Notikumi pçc 11 mçneðiem:
      5. YL2QG    101264 pnts
      6. YL3ANJ    98503 pnts
      7. YL3GEA    23698 pnts
-     8. YL2KO     10177 pnts
-     9. YL3ARP     9412 pnts
+     8. YL3ND     18830 pnts
+     9. YL2KO     10177 pnts
+    10. YL3ARP     9412 pnts
  
        
 =================
@@ -183,4 +222,4 @@ OPEN CLASS
 NO QSO THIS BAND
        
 ========================================================================
-16.11.2025                               VHFTest v3.2.190  LY2CG © 2016 
+17.11.2025                               VHFTest v3.2.190  LY2CG © 2016 
