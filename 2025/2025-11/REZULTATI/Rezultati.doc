@@ -35,16 +35,17 @@
 	YL2CI	KO06TR	-	OH3NE	KP11UL	542 km
 	 
 	Notikumi pçc 11 mçneðiem: 
-	1.	YL2GD	238856 pnts
-	2.	YL3OI	204355 pnts
-	3.	YL3ND	153156 pnts
-	4.	YL2CI	145810 pnts
-	5.	YL2QV	118612 pnts
-	6.	YL2QG	101884 pnts
-	7.	YL2AJ	79417 pnts
-	8.	YL3ES	26320 pnts
-	9.	YL2FZ	3683 pnts
-	10.	YL3ARP	1189 pnts
+	1.	YL2AO	424252 pnts
+	2.	YL2GD	238856 pnts
+	3.	YL3OI	204355 pnts
+	4.	YL3ND	153156 pnts
+	5.	YL2CI	145810 pnts
+	6.	YL2QV	118612 pnts
+	7.	YL2QG	101884 pnts
+	8.	YL2AJ	79417 pnts
+	9.	YL3ES	26320 pnts
+	10.	YL2FZ	3683 pnts
+	11.	YL3ARP	1189 pnts
 	 
 	       
 	=================
@@ -79,16 +80,17 @@
 	YL2AJ	KO16OX	-	SM4TYA	JP71FB	676 km
 	 
 	Notikumi pçc 11 mçneðiem: 
-	1.	YL2AJ	369459 pnts
-	2.	YL2GD	258600 pnts
-	3.	YL2QV	199000 pnts
-	4.	YL3ES	128834 pnts
-	5.	YL2QG	101264 pnts
-	6.	YL3ANJ	98503 pnts
-	7.	YL3GEA	23698 pnts
-	8.	YL3ND	18830 pnts
-	9.	YL2KO	10177 pnts
-	10.	YL3ARP	9412 pnts
+	1.	YL2AO	459835 pnts
+	2.	YL2AJ	369459 pnts
+	3.	YL2GD	258600 pnts
+	4.	YL2QV	199000 pnts
+	5.	YL3ES	128834 pnts
+	6.	YL2QG	101264 pnts
+	7.	YL3ANJ	98503 pnts
+	8.	YL3GEA	23698 pnts
+	9.	YL3ND	18830 pnts
+	10.	YL2KO	10177 pnts
+	11.	YL3ARP	9412 pnts
 	 
 	       
 	=================
@@ -122,20 +124,55 @@
 	YL3ANJ	KO36QU	-	SK1BL	JO97HK	532 km
 	 
 	Notikumi pçc 11 mçneðiem: 
-	1.	YL2AJ	225569 pnts
-	2.	YL2GD	173254 pnts
-	3.	YL3ES	104289 pnts
-	4.	YL2QG	55870 pnts
-	5.	YL3ANJ	49989 pnts
-	6.	YL3GEA	14808 pnts
-	7.	YL2KO	8272 pnts
+	1.	YL2AO	301277 pnts
+	2.	YL2AJ	225569 pnts
+	3.	YL2GD	173254 pnts
+	4.	YL3ES	104289 pnts
+	5.	YL2QG	55870 pnts
+	6.	YL3ANJ	49989 pnts
+	7.	YL3GEA	14808 pnts
+	8.	YL2KO	8272 pnts
 	 
 	       
 	==================
 	DIAPAZONS 1296 MHz
 	==================
 	LATVIJAS STACIJAS
-	YL QSO ðajâ diapazons nav reìistrçts
+		Callsign	WWLoc	QSOs	WWLocs	ODX	Pnts
+	1.	YL2AJ	KO16OX	12	11	416	8490
+	2.	YL2AO	KO16DK	10	10	670	7969
+	3.	YL3ANJ	KO36QU	3	2	315	1625
+	4.	YL3ES	KO27FF	3	2	195	1435
+	5.	YL2QG	KO06QR	3	2	195	1375
+	6.	YL2FZ	KO37QI	2	2	282	1338
+	 
+	YL stacijas izveidota QSO ar ðiem WWLoc kvadrâti: JO58, JO89, JO99, JP80, KO02, KO08, KO14, KO15, KO16, KO24, 	KO29, KO37, KP11.
+	Kopâ 13 atðíirîgs WWLoc kvadrâti.
+	 
+	Logs zaudçjums, bet QSO kredîtâ: ES0FX, ES2AFF, LY1RC, LY2BDA, LY2CH, LY2WR, OH3TR, SK0CT, SM0BSO, SM0DJW, SM0RJV, 	SM5EPO, SM6VTZ, SQ5N.
+	 
+	ODX TOP-10:
+	YL2AO	KO16DK	-	SM6VTZ	JO58UJ	670 km
+	YL2AO	KO16DK	-	SQ5N	KO02LH	467 km
+	YL2AO	KO16DK	-	SM0RJV	JO89VJ	423 km
+	YL2AO	KO16DK	-	SK0CT	JO99BM	422 km
+	YL2AJ	KO16OX	-	SM0RJV	JO89VJ	416 km
+	YL2AJ	KO16OX	-	SK0CT	JO99BM	411 km
+	YL2AJ	KO16OX	-	SM0BSO	JO99BG	393 km
+	YL2AJ	KO16OX	-	SM0DJW	JO88WW	383 km
+	YL2AJ	KO16OX	-	LY2WR	KO24FO	276 km
+	YL2AJ	KO16OX	-	ES2AFF	KO29EE	255 km
+	 
+	Notikumi pçc 11 mçneðiem: 
+	1.	YL2AO	116169 pnts
+	2.	YL2AJ	105764 pnts
+	3.	YL2GD	56968 pnts
+	4.	YL2FZ	26638 pnts
+	5.	YL2QG	8043 pnts
+	6.	YL3ANJ	7335 pnts
+	7.	YL3ES	5112 pnts
+	8.	YL2KO	4197 pnts
+	 
 	       
 	========================================================================
 	
@@ -213,7 +250,31 @@
 	=============
 	BAND 1296 MHz
 	=============
-	NO QSO THIS BAND
+		Callsign	WWLoc	QSO	nWWLoc	ODX	Points
+	1.	LY2R	KO15VS	   16	   13	   785	   12213
+	 
+	OPEN CLASS QSO with WWLoc squares: JO58, JO89, JO99, JP80, KO02, KO08, KO14, KO15, KO16, KO24, KO29, KO37, KP11.
+	Total 13 different WWLoc  squares.
+	 
+	No LOG but QSO credited: ES0FX, ES2AFF, OH3TR, SK0CT, SM0BSO, SM0DJW, SM0RJV, SM5EPO, SM6VTZ, SQ5N.
+	 
+	ODX TOP-10:
+	LY2R	KO15VS	-	SM6VTZ	JO58UJ	785 km
+	LY2R	KO15VS	-	OH3TR	KP11VK	631 km
+	LY2R	KO15VS	-	SM5EPO	JP80MC	625 km
+	LY2R	KO15VS	-	SM0RJV	JO89VJ	539 km
+	LY2R	KO15VS	-	SK0CT	JO99BM	536 km
+	LY2R	KO15VS	-	SM0BSO	JO99BG	516 km
+	LY2R	KO15VS	-	SQ5N	KO02LH	427 km
+	LY2R	KO15VS	-	ES2AFF	KO29EE	382 km
+	LY2R	KO15VS	-	ES0FX	KO08XL	321 km
+	LY2R	KO15VS	-	YL2FZ	KO37QI	282 km
+	 
+	Score after 11 months: 
+	1.	LY2R	100323 pnts
+	2.	LY2VO	57970 pnts
+	3.	LY3JE	18892 pnts
+	 
 	       
 	========================================================================
-	17.11.2025                               VHFTest v3.2.190  LY2CG © 2016 
+	25.11.2025                               VHFTest v3.2.190  LY2CG © 2016 
