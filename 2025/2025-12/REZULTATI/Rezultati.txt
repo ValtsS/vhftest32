@@ -127,7 +127,21 @@ Notikumi pçc 12 mçneðiem:
 DIAPAZONS 1296 MHz
 ==================
 LATVIJAS STACIJAS
-YL QSO ðajâ diapazons nav reìistrçts
+         Callsign    WWLoc   QSOs WWLocs ODX    Pnts
+     1.  YL3ES       KO27FF    1    1     70     570
+ 
+ 
+Logs zaudçjums, bet QSO kredîtâ: YL3JO.
+ 
+ODX TOP-10:
+   YL3ES        KO27FF  -  YL3JO        KO27EU        70 km
+Notikumi pçc 12 mçneðiem: 
+     1. YL2AO    116169 pnts
+     2. YL2AJ    105764 pnts
+     3. YL2QG      8043 pnts
+     4. YL3ANJ     7335 pnts
+     5. YL3ES      5682 pnts
+ 
        
 ========================================================================
 
@@ -207,4 +221,4 @@ OPEN CLASS
 NO QSO THIS BAND
        
 ========================================================================
-17.12.2025                               VHFTest v3.2.190  LY2CG © 2016 
+22.12.2025                               VHFTest v3.2.190  LY2CG © 2016 
