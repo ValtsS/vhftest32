@@ -1,15 +1,16 @@
 Callsign	Name	E-Addr			50 MHz	WWLoc	*QSOs	*nWWLoc	*ODX	*Pnt	QSOs	nWWLoc	ODX	Pnt				144 MHz	WWLoc	*QSOs	*nWWLoc	*ODX	*Pnt	QSOs	nWWLoc	ODX	Pnt				432 MHz	WWLoc	*QSOs	*nWWLoc	*ODX	*Pnt	QSOs	nWWLoc	ODX	Pnt				1296 MHz	WWLoc	*QSOs	*nWWLoc	*ODX	*Pnt	QSOs	nWWLoc	ODX	Pnt		Addr	TX/RX/Ant	
-YL2IV	Oskars Cebers	vspr65@gmail.com									-	-	-	-					KO06LM	11	8	569	7793	11	8	569	7793										-	-	-	-										-	-	-	-		Liepu 25-20 	/100 WW //	
-YL2AJ	Viesturs	1549@inbox.lv				KO16OX	9	7	351		9	7	351	4904					KO16OX	45	30	725	33219	46	31	725	33812										-	-	-	-										-	-	-	-		Kaleju 1-18 	/W //	
-YL2AO	Juris Valenieks	yl2ao@lral.lv				KO16DK	34	26	1641		34	27	1641	32590					KO16DK	31	22	665	21834	31	21	665	23502										-	-	-	-										-	-	-	-		Poste restante 	IC-7610, DB6NT TR144H+40, SSPA/700W /IC-7610, DB6NT TR144H+40, LNA/M2 2M-5WL 17 el.	
+YL2IV	Oskars Cebers	vspr65@gmail.com									-	-	-	-					KO06LM	11	8	569	7793	11	8	569	7793					KO06OL	3	3	190		3	3	190	1885										-	-	-	-		Liepu 25-20 	/100 WW //	
+YL2AJ	Viesturs	1549@inbox.lv				KO16OX	9	7	351		9	7	351	4904					KO16OX	45	30	725	33219	46	31	725	33812					KO16OX	23	17	682		22	17	682	15506										-	-	-	-		Kaleju 1-18 	/W //	
+YL2AO	Juris Valenieks	yl2ao@lral.lv				KO16DK	34	26	1641		34	27	1641	32590					KO16DK	31	22	665	21834	31	21	665	23502					KO16DK	35	25	665		35	25	665	25640										-	-	-	-		Poste restante 	IC-7610, DB6NT TR432H, SSPA/600W /IC-7610, DB6NT TR432H, LNA/M2 432-9WL 28 el. × 2 (vert.)	
 YL2KN	Imants	yl2kn@inbox.lv									-	-	-	-					KO37RI	1	1	56	556	1	1	56	556										-	-	-	-										-	-	-	-		 	/W //	
 YL3ANJ	Andrejs	andrejsbalodis@inbox.lv									-	-	-	-					KO36QU	8	7	539	5106	9	7	539	5671										-	-	-	-										-	-	-	-		Balvu nov. Krisjanu pag.	/100WW //DELTA; YAGI	
-YL3ES	Dmitrijs	dmitrijsloka@gmail.com				KO27FF	7	5	301		6	4	301	2992					KO27FF	25	22	735	20723	25	22	735	20723										-	-	-	-										-	-	-	-		Vesma 68 	Kenwood TS-2000/100W /Kenwood TS-2000/HEX6B	
+YL3ES	Dmitrijs	dmitrijsloka@gmail.com				KO27FF	7	5	301		6	4	301	2992					KO27FF	25	22	735	20723	25	22	735	20723					KO27FF	11	9	498		11	9	498	7448										-	-	-	-		Vesma 68 	Kenwood TS-2000/100W /Kenwood TS-2000/HEX6B	
 YL3GEA	Ivan , Molchanow	i.molchanov@inbox.lv									-	-	-	-					KO37QM	2	2	258	1277	2	2	258	1278										-	-	-	-										-	-	-	-		Vezini Stuborowa, Pededzes pagasts, Aluksnes novads LATVIA	TS-790E/50wW /TS-790E/4 x 9 el	
 YL3ND	Mareks Stals	mareks@3nd.lv				KO17JM	21	14	595		20	14	595	13363					KO17JM	4	3	126	1883	4	3	126	1883										-	-	-	-										-	-	-	-		Strauta Street 6-1 	FLEX_8400/100wW /FLEX_8400/DIPOLE	
-LY2VO		ly2vo@qrz.lt									-	-	-	-				Open	KO15PX	28	20	725	21329	28	20	725	21335										-	-	-	-										-	-	-	-		 	IC-9700/100W /IC-9700/11eL Y	
+LY2VO		ly2vo@qrz.lt									-	-	-	-				Open	KO15PX	28	20	725	21329	28	20	725	21335				Open	KO15PX	26	20	725		25	20	725	20074										-	-	-	-		 	IC-9700/250W /IC-9700/26el. Y	
 YL3OI	Valts	valtss@gmail.com				KO26MO	18	15	764	32001	18	15	764	14068										-	-	-	-										-	-	-	-										-	-	-	-		 	/W //	
 YL2CI		karlis.yl2ci@gmail.com				KO06TR	25	20	615	19031	24	19	615	18350										-	-	-	-										-	-	-	-										-	-	-	-		ATMODAS 36/38-6 	FT 5000/100W /FT 5000/6 el yagi	
 YL2FZ	Valdis	yl2fz@inbox.lv				KO37QI	3	3	417	2373	3	3	417	2373										-	-	-	-										-	-	-	-										-	-	-	-		Sofikalns Malupes pag. Aluksnes novads  LATVIA	TS-2000x/100wW /TS-2000x/	
 YL2QG	Andris Rozentals	yl2gqg@gmail.com				KO06QR	10	9	478	6944	10	9	478	6944										-	-	-	-										-	-	-	-										-	-	-	-		Liepavas, Ciravas pagasts Dienvidkurzemes novads	IC-7300/100WW /IC-7300/Moxon	
-YL2QV	Yanis Bebris					KO26WM	8	7	446	13776	8	7	446	5116										-	-	-	-										-	-	-	-										-	-	-	-		Brivibas 288A-30 	IC-706MKIIG/100 WW /IC-706MKIIG/5 el.Yagi	
+YL2QV	Yanis Bebris					KO26WM	8	7	446	13776	8	7	446	5116										-	-	-	-									1885	-	-	-	-										-	-	-	-		Brivibas 288A-30 	IC-706MKIIG/100 WW /IC-706MKIIG/5 el.Yagi	
+LY2R	Paulius Beirutas	pauliusly2r@gmail.com									-	-	-	-										-	-	-	-				Open	KO15VS	27	21	763	20174	27	21	764	22935										-	-	-	-		 	FT736R/250W /FT736R/4 x 13	
