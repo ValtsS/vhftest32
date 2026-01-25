@@ -142,7 +142,41 @@
 	DIAPAZONS 1296 MHz
 	==================
 	LATVIJAS STACIJAS
-	YL QSO ðajâ diapazons nav reìistrçts
+		Callsign	WWLoc	QSOs	WWLocs	ODX	Pnts
+	1.	YL2AO	KO16DK	22	15	610	15254
+	2.	YL2AJ	KO16OX	21	15	602	14579
+	3.	YL2FZ	KO37QI	7	6	603	5117
+	4.	YL2QG	KO06QR	6	5	540	3948
+	5.	YL3ES	KO27FF	6	5	445	3918
+	6.	YL3ANJ	KO36QU	4	3	315	2307
+	7.	YL2KO	KO37RI	2	2	260	1265
+	8.	YL3RK	KO27FF	2	1	159	740
+	 
+	 
+	Logs zaudçjums, bet QSO kredîtâ: ES2AFF, ES2JL, LY2R, OH3LWP, OH3TR, SA0CAN, SA4JEA, SK0CT, SK4AO, SM0BHN, SM0BSO, 	SM0EZZ, SM0LQB, SM0RJV, SM1HOW, SM4ONW, SM5EPO, SM7DTE, SM7LCB, SP2HPD, SQ5N.
+	 
+	ODX TOP-10:
+	YL2AO	KO16DK	-	SM4ONW	JP70QN	610 km
+	YL2FZ	KO37QI	-	SM0RJV	JO89VJ	603 km
+	YL2AJ	KO16OX	-	SM4ONW	JP70QN	602 km
+	YL2AO	KO16DK	-	SA4JEA	JP70RL	600 km
+	YL2AO	KO16DK	-	SK4AO	JP70VO	598 km
+	YL2FZ	KO37QI	-	SK0CT	JO99BM	590 km
+	YL2AJ	KO16OX	-	SM7DTE	JO75CN	578 km
+	YL2QG	KO06QR	-	SA4JEA	JP70RL	540 km
+	YL2AJ	KO16OX	-	SQ5N	KO02LH	539 km
+	YL2AO	KO16DK	-	SM5EPO	JP80MC	511 km
+	 
+	Notikumi pçc 1 mçneðiem: 
+	1.	YL2AO	15254 pnts
+	2.	YL2AJ	14579 pnts
+	3.	YL2FZ	5117 pnts
+	4.	YL2QG	3948 pnts
+	5.	YL3ES	3918 pnts
+	6.	YL3ANJ	2307 pnts
+	7.	YL2KO	1265 pnts
+	8.	YL3RK	740 pnts
+	 
 	       
 	========================================================================
 	
@@ -223,4 +257,4 @@
 	NO QSO THIS BAND
 	       
 	========================================================================
-18.01.2026                               VHFTest v3.2.190  LY2CG © 2016 
+25.01.2026                               VHFTest v3.2.190  LY2CG © 2016 
