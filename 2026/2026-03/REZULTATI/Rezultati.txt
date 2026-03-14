@@ -7,7 +7,42 @@ R E Z U L T Â T I
 DIAPAZONS 50 MHz
 ================
 LATVIJAS STACIJAS
-YL QSO ðajâ diapazons nav reìistrçts
+         Callsign    WWLoc   QSOs WWLocs ODX    Pnts
+     1.  YL2AO       KO16DK   38   29   1641   37585
+     2.  YL2CI       KO06TR   31   23    624   23665
+     3.  YL3OI       KO26MO   18   14    608   13663
+     4.  YL3ND       KO17JM   20   12    595   12413
+     5.  YL2QG       KO06QR   15   11    605    9928
+     6.  YL2AJ       KO16OX   13   10    559    8219
+     7.  YL2QV       KO26WM    9    8    568    6971
+     8.  YL2IV       KO06LM    3    2     83    1165
+ 
+ 
+Logs zaudçjums, bet QSO kredîtâ: DL4WK, ES2MA, ES2Z, ES3MAR, G3YDY, G4CLA, G8SEI, GM4CXM, GM4VVX, IW5BHU, OG5O, OH0AZX, OH0KCE, OH1LEU, OH1RI, OH2MDN, OH3MB, OH4GGW, OH5D, OH6DVD, OZ1ADL, OZ2AR, SA0CAN, SA0CCA, SK0CT, SM0KAK, SM1FMT, SM4DXO, SM4HFI, SM4ONW, SM4OXX, SM4UEF, SM4VBO, SM5CUI, SM5DWF, SM5EPO, SM5PAO, SM6BFE, SM6EHY, SM7HGY, SM7KOJ.
+ 
+ODX TOP-10:
+   YL2AO        KO16DK  -  GM4CXM       IO75TW      1641 km
+   YL2AO        KO16DK  -  IW5BHU       JN54BC      1617 km
+   YL2AO        KO16DK  -  GM4VVX       IO78TA      1605 km
+   YL2AO        KO16DK  -  G8SEI        IO92FO      1588 km
+   YL2AO        KO16DK  -  G4CLA        IO92JL      1573 km
+   YL2AO        KO16DK  -  G3YDY        JO01FQ      1512 km
+   YL2AO        KO16DK  -  OZ1ADL       JO46XC       762 km
+   YL2AO        KO16DK  -  SM4UEF       JP70JX       665 km
+   YL2AO        KO16DK  -  SM4VBO       JP70NU       643 km
+   YL2AO        KO16DK  -  OH4GGW       KP31MO       636 km
+ 
+Notikumi pçc 3 mçneðiem: 
+     1. YL2AO    103379 pnts
+     2. YL2CI     60018 pnts
+     3. YL3OI     40996 pnts
+     4. YL3ND     35768 pnts
+     5. YL2QV     26098 pnts
+     6. YL2QG     24961 pnts
+     7. YL2AJ     20289 pnts
+     8. YL3ES     10324 pnts
+     9. YL2IV      2697 pnts
+ 
        
 ================
 DIAPAZONS 70 MHz
