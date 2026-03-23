@@ -41,7 +41,8 @@ Notikumi pçc 3 mçneðiem:
 6.;YL2QG;24961 pnts
 7.;YL2AJ;20289 pnts
 8.;YL3ES;10324 pnts
-9.;YL2IV;2697 pnts
+9.;YL2FZ;10028 pnts
+10.;YL2IV;2697 pnts
  
        
 ================
@@ -131,7 +132,43 @@ Notikumi pçc 3 mçneðiem:
 DIAPAZONS 1296 MHz
 ==================
 LATVIJAS STACIJAS
-YL QSO ðajâ diapazons nav reìistrçts
+;Callsign;WWLoc;QSOs;WWLocs;ODX;Pnts
+1.;YL2AO;KO16DK;17;15;670;12740
+2.;YL2AJ;KO16OX;14;11;411;8664
+3.;YL2FZ;KO37QI;7;5;356;3840
+4.;YL2QG;KO06QR;6;5;342;3730
+5.;YL3ES;KO27FF;4;3;356;2291
+6.;YL3NT;KO36PM;4;3;308;2194
+7.;YL3ANJ;KO36QU;4;3;315;2163
+8.;YL2KO;KO37RI;1;1;5;505
+ 
+YL stacijas izveidota QSO ar ðiem WWLoc kvadrâti: JO86, JO89, JO99, JP80, KO14, KO15, KO16, KO24, KO26, KO29, KO37, KP10.
+Kopâ 12 atðíirîgs WWLoc kvadrâti.
+ 
+Logs zaudçjums, bet QSO kredîtâ: ES2AFF, LY1RC, LY2BDA, LY2CH, LY2WR, LY3JE, OH3DP, SK0CT, SM0BHN, SM0BSO, SM0DJW, SM0RJV, SM1HOW, SM5EPO, SM6BFE, SM6VTZ, SM7LCB, SP2FRY, SP2HPD.
+ 
+ODX TOP-10:
+YL2AO;KO16DK;-;SM6VTZ;JO58UJ;670 km
+YL2AO;KO16DK;-;SM6BFE;JO68DQ;647 km
+YL2AO;KO16DK;-;SM0RJV;JO89VJ;423 km
+YL2AO;KO16DK;-;SK0CT;JO99BM;422 km
+YL2AO;KO16DK;-;SP2FRY;JO83WR;412 km
+YL2AJ;KO16OX;-;SK0CT;JO99BM;411 km
+YL2AJ;KO16OX;-;SM0BSO;JO99BG;393 km
+YL2AJ;KO16OX;-;SM0DJW;JO88WW;383 km
+YL2AO;KO16DK;-;SM0DJW;JO88WW;383 km
+YL2FZ;KO37QI;-;LY2WR;KO24FO;356 km
+ 
+Notikumi pçc 3 mçneðiem: 
+1.;YL2AO;37729 pnts
+2.;YL2AJ;36229 pnts
+3.;YL2FZ;11763 pnts
+4.;YL2QG;10027 pnts
+5.;YL3ES;9264 pnts
+6.;YL3ANJ;4470 pnts
+7.;YL3NT;4275 pnts
+8.;YL2KO;3035 pnts
+ 
        
 ========================================================================
 
@@ -211,7 +248,31 @@ Score after 3 months:
 =============
 BAND 1296 MHz
 =============
-NO QSO THIS BAND
+;Callsign;WWLoc;QSO;nWWLoc;ODX;Points
+1.;LY2R;KO15VS;   16;   12;   625;   11218
+2.;LY2VO;KO15PX;    9;    7;   478;    4949
+ 
+OPEN CLASS QSO with WWLoc squares: JO86, JO89, JO99, JP80, KO14, KO15, KO16, KO24, KO26, KO29, KO37, KP10.
+Total 12 different WWLoc  squares.
+ 
+No LOG but QSO credited: ES2AFF, OH3DP, SK0CT, SM0BHN, SM0BSO, SM0DJW, SM0RJV, SM1HOW, SM5EPO, SM6BFE, SM6VTZ, SM7LCB, SP2FRY, SP2HPD.
+ 
+ODX TOP-10:
+LY2R;KO15VS;-;SM5EPO;JP80MC;625 km
+LY2R;KO15VS;-;OH3DP;KP10TT;561 km
+LY2R;KO15VS;-;SM0RJV;JO89VJ;539 km
+LY2R;KO15VS;-;SK0CT;JO99BM;536 km
+LY2R;KO15VS;-;SM0BHN;JO89WI;532 km
+LY2R;KO15VS;-;SM0BSO;JO99BG;516 km
+LY2VO;KO15PX;-;SM0BSO;JO99BG;478 km
+LY2R;KO15VS;-;SM7LCB;JO86GH;455 km
+LY2R;KO15VS;-;ES2AFF;KO29EE;382 km
+LY2VO;KO15PX;-;YL2FZ;KO37QI;293 km
+ 
+Score after 3 months: 
+1.;LY2R;19728 pnts
+2.;LY2VO;4949 pnts
+ 
        
 ========================================================================
-14.03.2026                               VHFTest v3.2.190  LY2CG © 2016 
+23.03.2026                               VHFTest v3.2.190  LY2CG © 2016 
