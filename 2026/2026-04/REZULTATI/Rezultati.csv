@@ -149,7 +149,44 @@ Notikumi pçc 4 mçneðiem:
 DIAPAZONS 1296 MHz
 ==================
 LATVIJAS STACIJAS
-YL QSO ðajâ diapazons nav reìistrçts
+;Callsign;WWLoc;QSOs;WWLocs;ODX;Pnts
+1.;YL2AJ;KO16OX;9;9;416;6813
+2.;YL2FZ;KO37QI;9;7;603;5444
+3.;YL2GD;KO37ML;5;5;358;3477
+4.;YL3ES;KO27FF;4;4;431;2889
+5.;YL3ANJ;KO36QU;5;4;254;2603
+6.;YL2QG;KO06QR;3;3;322;2132
+7.;YL3NT;KO36PM;3;3;233;1864
+8.;YL2KO;KO37RI;1;1;5;505
+ 
+YL stacijas izveidota QSO ar ðiem WWLoc kvadrâti: JO89, JO94, JO99, KO02, KO14, KO16, KO24, KO29, KO36, KO37, KP10.
+Kopâ 11 atðíirîgs WWLoc kvadrâti.
+ 
+Logs zaudçjums, bet QSO kredîtâ: ES2AFF, LY1RC, LY2WR, OH3DP, SM0BSO, SM0DJW, SM0RJV, SP2HPD, SQ5N.
+ 
+ODX TOP-10:
+YL2FZ;KO37QI;-;SM0RJV;JO89VJ;603 km
+YL3ES;KO27FF;-;SM0DJW;JO88WW;431 km
+YL2AJ;KO16OX;-;SM0RJV;JO89VJ;416 km
+YL2AJ;KO16OX;-;SM0BSO;JO99BG;393 km
+YL2AJ;KO16OX;-;SM0DJW;JO88WW;383 km
+YL2GD;KO37ML;-;LY2WR;KO24FO;358 km
+YL2FZ;KO37QI;-;LY2WR;KO24FO;356 km
+YL2QG;KO06QR;-;SM0DJW;JO88WW;322 km
+YL2AJ;KO16OX;-;LY2WR;KO24FO;276 km
+YL2FZ;KO37QI;-;ES2AFF;KO29EE;269 km
+ 
+Notikumi pçc 4 mçneðiem: 
+1.;YL2AJ;43042 pnts
+2.;YL2AO;37729 pnts
+3.;YL2FZ;17207 pnts
+4.;YL2QG;12159 pnts
+5.;YL3ES;12153 pnts
+6.;YL3ANJ;7073 pnts
+7.;YL3NT;6139 pnts
+8.;YL2KO;3540 pnts
+9.;YL2GD;3477 pnts
+ 
        
 ========================================================================
 
@@ -225,7 +262,29 @@ Score after 4 months:
 =============
 BAND 1296 MHz
 =============
-NO QSO THIS BAND
+;Callsign;WWLoc;QSO;nWWLoc;ODX;Points
+1.;LY2R;KO15VS;   12;   11;   561;    9451
+ 
+OPEN CLASS QSO with WWLoc squares: JO89, JO94, JO99, KO02, KO14, KO16, KO24, KO29, KO36, KO37, KP10.
+Total 11 different WWLoc  squares.
+ 
+No LOG but QSO credited: ES2AFF, OH3DP, SM0BSO, SM0DJW, SM0RJV, SP2HPD, SQ5N.
+ 
+ODX TOP-10:
+LY2R;KO15VS;-;OH3DP;KP10TT;561 km
+LY2R;KO15VS;-;SM0RJV;JO89VJ;539 km
+LY2R;KO15VS;-;SM0BSO;JO99BG;516 km
+LY2R;KO15VS;-;SQ5N;KO02LH;427 km
+LY2R;KO15VS;-;ES2AFF;KO29EE;382 km
+LY2R;KO15VS;-;SP2HPD;JO94JC;370 km
+LY2R;KO15VS;-;YL2FZ;KO37QI;282 km
+LY2R;KO15VS;-;YL2GD;KO37ML;275 km
+LY2R;KO15VS;-;YL3NT;KO36PM;233 km
+LY2R;KO15VS;-;YL2AJ;KO16OX;140 km
+ 
+Score after 4 months: 
+1.;LY2R;29179 pnts
+ 
        
 ========================================================================
-21.04.2026                               VHFTest v3.2.190  LY2CG © 2016 
+24.04.2026                               VHFTest v3.2.190  LY2CG © 2016 
