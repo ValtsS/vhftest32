@@ -7,7 +7,48 @@ R E Z U L T Â T I
 DIAPAZONS 50 MHz
 ================
 LATVIJAS STACIJAS
-YL QSO ðajâ diapazons nav reìistrçts
+         Callsign    WWLoc   QSOs WWLocs ODX    Pnts
+     1.  YL2AO       KO16DK   34   28   1718   40942
+     2.  YL2CI       KO06TR   27   22   1612   22353
+     3.  YL3ND       KO17JM   24   18    595   17008
+     4.  YL3OI       KO26MO   20   16    700   14844
+     5.  YL2QG       KO06QR   13   12    523    9912
+     6.  YL2GD       KO37ML    7    6    697    5834
+     7.  YL2FZ       KO37QI    8    8    355    5626
+     8.  YL3NB       KO16VP    3    3    115    1787
+     9.  YL3GV       KO37MJ    2    2    255    1276
+    10.  YL3ANJ      KO36QU    1    1     56     556
+ 
+ 
+Logs zaudçjums, bet QSO kredîtâ: DK5EW, DL3AT, ES0Z, ES2MA, ES3MR, G3YDY, G4CLA, G4FZN/P, G7LII/P, G8SEI, GM4CXM, GM4JTJ, GM4VVX, GM8IEM, IV3KKW, IZ0DHC, IZ5YKY, YL2IV, YL2SW, OG5O, OH0AZX, OH1LEU, OH1RI, OH2AWL, OH2FQV, OH2MDN, OH3XA, OH4GGW, OH4LA, OH6VV, OH8MGK, SA0CAN, SK0CT, SK4AO/P, SM0KAK, SM1NFH, SM3XGV, SM4KYN, SM4ONW, SM4OXX, SM4UEF, SM5BS, SM5CUI, SM5PAO, SM6BFE, SM6CCO, SM7FJE, SM7GEP, SM7HGY, SM7KOJ.
+ 
+ODX TOP-10:
+   YL2AO        KO16DK  -  IZ0DHC       JN62BK      1718 km
+   YL2AO        KO16DK  -  GM4CXM       IO75TW      1641 km
+   YL2AO        KO16DK  -  IZ5YKY       JN53IS      1628 km
+   YL2CI        KO06TR  -  GM8IEM       IO78HF      1612 km
+   YL2AO        KO16DK  -  GM4VVX       IO78TA      1605 km
+   YL2AO        KO16DK  -  G8SEI        IO92FO      1588 km
+   YL2AO        KO16DK  -  G7LII/P      IO92KF      1580 km
+   YL2AO        KO16DK  -  G4CLA        IO92JL      1573 km
+   YL2AO        KO16DK  -  G4FZN/P      IO94AK      1538 km
+   YL2AO        KO16DK  -  GM4JTJ       IO86RP      1515 km
+ 
+Notikumi pçc 5 mçneðiem: 
+     1. YL2AO    182080 pnts
+     2. YL2CI    100287 pnts
+     3. YL3OI     70827 pnts
+     4. YL3ND     66519 pnts
+     5. YL2QG     44603 pnts
+     6. YL2AJ     28793 pnts
+     7. YL2FZ     18305 pnts
+     8. YL3ES     13982 pnts
+     9. YL2GD      5834 pnts
+    10. YL3NB      3755 pnts
+    11. YL2IV      2697 pnts
+    12. YL3GV      1276 pnts
+    13. YL3ANJ      556 pnts
+ 
        
 ================
 DIAPAZONS 70 MHz
@@ -144,4 +185,4 @@ OPEN CLASS
 NO QSO THIS BAND
        
 ========================================================================
-18.05.2026                               VHFTest v3.2.190  LY2CG © 2016 
+19.05.2026                               VHFTest v3.2.190  LY2CG © 2016 
