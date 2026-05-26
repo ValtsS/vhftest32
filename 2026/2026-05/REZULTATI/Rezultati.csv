@@ -54,7 +54,21 @@ Notikumi pçc 5 mçneðiem:
 DIAPAZONS 70 MHz
 ================
 LATVIJAS STACIJAS
-YL QSO ðajâ diapazons nav reìistrçts
+;Callsign;WWLoc;QSOs;WWLocs;ODX;Pnts
+1.;YL3KW;KO27XN;3;3;423;2520
+2.;YL2QG;KO06QR;2;2;356;1648
+ 
+ 
+Logs zaudçjums, bet QSO kredîtâ: OH0AZX, OH2MDN.
+ 
+ODX TOP-10:
+YL3KW;KO27XN;-;OH0AZX;KP00IF;423 km
+YL2QG;KO06QR;-;OH2MDN;KO19LT;356 km
+YL3KW;KO27XN;-;OH2MDN;KO19LT;305 km
+Notikumi pçc 5 mçneðiem: 
+1.;YL2QG;3423 pnts
+2.;YL3KW;2520 pnts
+ 
        
 =================
 DIAPAZONS 144 MHz
@@ -216,4 +230,4 @@ BAND 1296 MHz
 NO QSO THIS BAND
        
 ========================================================================
-22.05.2026                               VHFTest v3.2.190  LY2CG © 2016 
+26.05.2026                               VHFTest v3.2.190  LY2CG © 2016 
