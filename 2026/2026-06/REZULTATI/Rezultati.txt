@@ -53,19 +53,58 @@ Notikumi pçc 6 mçneðiem:
      2. YL2AJ    198690 pnts
      3. YL3ES     88784 pnts
      4. YL2QG     69345 pnts
-     5. YL2GD     24299 pnts
-     6. YL3EK     21203 pnts
-     7. YL3ND     15646 pnts
-     8. YL3NT     11520 pnts
-     9. YL3GEA     7047 pnts
-    10. YL2KO      1781 pnts
+     5. YL3ANJ    49486 pnts
+     6. YL2GD     24299 pnts
+     7. YL3EK     21203 pnts
+     8. YL3ND     15646 pnts
+     9. YL3NT     11520 pnts
+    10. YL3GEA     7047 pnts
+    11. YL3RK      5577 pnts
+    12. YL2KO      1781 pnts
  
        
 =================
 DIAPAZONS 432 MHz
 =================
 LATVIJAS STACIJAS
-YL QSO ðajâ diapazons nav reìistrçts
+         Callsign    WWLoc   QSOs WWLocs ODX    Pnts
+     1.  YL2AO       KO16DK   47   32    813   33626
+     2.  YL2AJ       KO16OX   32   21    701   20793
+     3.  YL3EK       KO27FF   23   18    735   17366
+     4.  YL3ANJ      KO36QU   15   13    757   11086
+     5.  YL3ES       KO27FF   16   13    606   10602
+     6.  YL2QG       KO06QR   13   10    605    9026
+     7.  YL3NT       KO36PM   10    8    535    6290
+     8.  YL3RK       KO35HV    8    7    518    5600
+     9.  YL2GD       KO37ML    7    6    590    5196
+ 
+ 
+Logs zaudçjums, bet QSO kredîtâ: ES0TJC, ES1OX, ES1XQ, ES2DF, ES2IPA, ES2JL, ES2MC, ES3RF, ES4RM, ES8PW, EU6AX, EW1TA, LY1CR, LY1RC, LY2BDA, LY2HS, LY2WR, LY2X, LY3FI, LY3JE, OH0AZX, OH2FQV, OH3TR, OH4LA, OH6P, OH9COG, OZ7KJ, OZ7UV, OZ9GE, R1AO, R1DM, SA0CAN, SA0DAU, SA4JEA, SK0CT, SK1BL, SM0BHN, SM1HOW, SM1NFH, SM3XGV, SM4GGC, SM4HFI, SM4LMV, SM4UEF, SM5CUI, SM5EPO, SM6BFE, SM6VTZ, SM7HGY, SP2FRY, SP2IPK, SP2WPY.
+ 
+ODX TOP-10:
+   YL2AO        KO16DK  -  OZ7KJ        JO46ML       813 km
+   YL3ANJ       KO36QU  -  SM3XGV       JP81OF       757 km
+   YL3EK        KO27FF  -  SM6BFE       JO68DQ       735 km
+   YL2AJ        KO16OX  -  OZ7UV        JO65DH       701 km
+   YL2AJ        KO16OX  -  SM6VTZ       JO58UJ       701 km
+   YL3EK        KO27FF  -  SM4UEF       JP70JX       691 km
+   YL3EK        KO27FF  -  SM4GGC       JO69RK       687 km
+   YL2AJ        KO16OX  -  SM6BFE       JO68DQ       673 km
+   YL2AO        KO16DK  -  SM6VTZ       JO58UJ       670 km
+   YL2AO        KO16DK  -  SM4UEF       JP70JX       665 km
+ 
+Notikumi pçc 6 mçneðiem: 
+     1. YL2AO    179566 pnts
+     2. YL2AJ    121902 pnts
+     3. YL3ES     40960 pnts
+     4. YL3EK     28521 pnts
+     5. YL3ANJ    27220 pnts
+     6. YL2QG     23329 pnts
+     7. YL3NT     18176 pnts
+     8. YL2GD     11346 pnts
+     9. YL3RK      5600 pnts
+    10. YL3GEA      521 pnts
+ 
        
 ==================
 DIAPAZONS 1296 MHz
@@ -134,4 +173,4 @@ OPEN CLASS
 NO QSO THIS BAND
        
 ========================================================================
-08.06.2026                               VHFTest v3.2.190  LY2CG © 2016 
+13.06.2026                               VHFTest v3.2.190  LY2CG © 2016 
