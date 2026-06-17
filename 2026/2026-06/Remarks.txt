@@ -1,2 +1,4 @@
 [432 MHz] YL3RK:
   432 log for yl3RK
+[50 MHz] YL3RK:
+  log for 50 MHZ 
