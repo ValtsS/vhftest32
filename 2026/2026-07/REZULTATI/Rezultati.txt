@@ -1,0 +1,96 @@
+
+Latvijas VHF/UHF/SHF Aktivitates Sacensibas (YLAC)
+Jûlijs 2026
+R E Z U L T Â T I
+ 
+================
+DIAPAZONS 50 MHz
+================
+LATVIJAS STACIJAS
+         Callsign    WWLoc   QSOs WWLocs ODX    Pnts
+     1.  YL3ND       KO17JM   27   18    595   17602
+     2.  YL2QG       KO06QR   15   12    460   10734
+ 
+ 
+Logs zaudçjums, bet QSO kredîtâ: ES0MVM, ES0RY, ES0Z, ES2JL, ES2MA, ES2MC, ES8JX, YL3OI, OG5O, OH0AZX, OH0KCE, OH1LEG, OH1LEU, OH1RI, OH2AWL, OH2BU, OH2MDN, OH4GGW, SF1U, SM0BSO, SM1FMT, SM4ONW, SM4OXX, SM4UEF, SM5CUI, SM5EPO.
+ 
+ODX TOP-10:
+   YL3ND        KO17JM  -  SM4UEF       JP70JX       595 km
+   YL3ND        KO17JM  -  SM4ONW       JP70QN       543 km
+   YL3ND        KO17JM  -  ES2MA        KP31MO       514 km
+   YL3ND        KO17JM  -  OH4GGW       KP31MO       514 km
+   YL3ND        KO17JM  -  SM4OXX       JO79MA       483 km
+   YL2QG        KO06QR  -  OG5O         KP20MJ       460 km
+   YL2QG        KO06QR  -  OH1RI        KP10HQ       447 km
+   YL3ND        KO17JM  -  SM5EPO       JP80MC       439 km
+   YL3ND        KO17JM  -  OH1LEU       KP01VF       417 km
+   YL2QG        KO06QR  -  SM5CUI       JO89WW       412 km
+ 
+Notikumi pçc 7 mçneðiem: 
+     1. YL3ND    184977 pnts
+     2. YL2QG    135523 pnts
+ 
+       
+================
+DIAPAZONS 70 MHz
+================
+LATVIJAS STACIJAS
+YL QSO ðajâ diapazons nav reìistrçts
+       
+=================
+DIAPAZONS 144 MHz
+=================
+LATVIJAS STACIJAS
+YL QSO ðajâ diapazons nav reìistrçts
+       
+=================
+DIAPAZONS 432 MHz
+=================
+LATVIJAS STACIJAS
+YL QSO ðajâ diapazons nav reìistrçts
+       
+==================
+DIAPAZONS 1296 MHz
+==================
+LATVIJAS STACIJAS
+YL QSO ðajâ diapazons nav reìistrçts
+       
+========================================================================
+
+
+YL VHF ACTIVITY CONTEST (YLAC)
+JULY, 2026
+R E S U L T S
+ 
+===========
+BAND 50 MHz
+===========
+OPEN CLASS
+NO QSO THIS BAND
+       
+===========
+BAND 70 MHz
+===========
+OPEN CLASS
+NO QSO THIS BAND
+       
+============
+BAND 144 MHz
+============
+OPEN CLASS
+NO QSO THIS BAND
+       
+============
+BAND 432 MHz
+============
+OPEN CLASS
+NO QSO THIS BAND
+       
+=============
+BAND 1296 MHz
+=============
+OPEN CLASS
+NO QSO THIS BAND
+       
+========================================================================
+11.07.2026                               VHFTest v3.2.190  LY2CG © 2016 
