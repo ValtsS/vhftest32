@@ -1,2 +1,4 @@
 [432 MHz] YL3ES:
   432 NAC Julijs 
+[1296 MHz] YL3ES:
+  NAC 1296 21.07.2026 
