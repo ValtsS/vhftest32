@@ -68569,7 +68569,7 @@
         "QRB": "25",
         "Pnt": "25",
         "nWWLoc4": "KO37",
-        "Remark": "ScoredNoLog",
+        "Remark": "",
         "DateTimeUTC": "2026-07-21T18:43:00"
       }
     ],
@@ -68767,6 +68767,88 @@
         "nWWLoc4": "JO88",
         "Remark": "ScoredNoLog",
         "DateTimeUTC": "2026-07-21T19:22:00"
+      }
+    ],
+    "1296.2026.7.YL2FZ": [
+      {
+        "Callsign": "YL2FZ",
+        "WWLoc": "KO37QI",
+        "UTC": "1830",
+        "Corresp": "LY3JE",
+        "Sent": "55",
+        "Recvd": "55",
+        "nWWLoc": "KO26TC",
+        "Mode": "SSB",
+        "Band": "1296",
+        "QRB": "176",
+        "Pnt": "176",
+        "nWWLoc4": "KO26",
+        "Remark": "ScoredNoLog",
+        "DateTimeUTC": "2026-07-21T18:30:00"
+      },
+      {
+        "Callsign": "YL2FZ",
+        "WWLoc": "KO37QI",
+        "UTC": "1843",
+        "Corresp": "YL2GD",
+        "Sent": "559",
+        "Recvd": "559",
+        "nWWLoc": "KO37ML",
+        "Mode": "CW",
+        "Band": "1296",
+        "QRB": "25",
+        "Pnt": "25",
+        "nWWLoc4": "KO37",
+        "Remark": "",
+        "DateTimeUTC": "2026-07-21T18:43:00"
+      },
+      {
+        "Callsign": "YL2FZ",
+        "WWLoc": "KO37QI",
+        "UTC": "1923",
+        "Corresp": "LY2WR",
+        "Sent": "559",
+        "Recvd": "559",
+        "nWWLoc": "KO24FO",
+        "Mode": "CW",
+        "Band": "1296",
+        "QRB": "356",
+        "Pnt": "356",
+        "nWWLoc4": "KO24",
+        "Remark": "ScoredNoLog",
+        "DateTimeUTC": "2026-07-21T19:23:00"
+      },
+      {
+        "Callsign": "YL2FZ",
+        "WWLoc": "KO37QI",
+        "UTC": "1924",
+        "Corresp": "LY2R",
+        "Sent": "559",
+        "Recvd": "559",
+        "nWWLoc": "KO15VS",
+        "Mode": "CW",
+        "Band": "1296",
+        "QRB": "282",
+        "Pnt": "282",
+        "nWWLoc4": "KO15",
+        "Remark": "ScoredNoLog",
+        "DateTimeUTC": "2026-07-21T19:24:00"
+      },
+      {
+        "Callsign": "YL2FZ",
+        "WWLoc": "KO37QI",
+        "UTC": "1932",
+        "Corresp": "SM0RJV",
+        "Sent": "559",
+        "Recvd": "559",
+        "nWWLoc": "JO89VJ",
+        "Mode": "CW",
+        "Band": "1296",
+        "QRB": "603",
+        "Pnt": "603",
+        "nWWLoc4": "JO89",
+        "Remark": "ScoredNoLog",
+        "DateTimeUTC": "2026-07-21T19:32:00"
       }
     ],
     "1296.2026.7.YL3NT": [
