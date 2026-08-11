@@ -8594,7 +8594,8 @@
                   "Score": 0
                 },
                 {
-                  "Score": 0
+                  "Score": 58712,
+                  "Link": "144.2026.8.YL2AO"
                 },
                 {
                   "Score": 0
@@ -8609,10 +8610,10 @@
                   "Score": 0
                 },
                 {
-                  "Score": 278260
+                  "Score": 336972
                 },
                 {
-                  "Score": 278260
+                  "Score": 336972
                 }
               ]
             },
@@ -8670,6 +8671,58 @@
               ]
             },
             {
+              "OperatorName": "YL2QG",
+              "Scores": [
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 23587,
+                  "Link": "144.2026.4.YL2QG"
+                },
+                {
+                  "Score": 19730,
+                  "Link": "144.2026.5.YL2QG"
+                },
+                {
+                  "Score": 26028,
+                  "Link": "144.2026.6.YL2QG"
+                },
+                {
+                  "Score": 23056,
+                  "Link": "144.2026.7.YL2QG"
+                },
+                {
+                  "Score": 28118,
+                  "Link": "144.2026.8.YL2QG"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 120519
+                },
+                {
+                  "Score": 120519
+                }
+              ]
+            },
+            {
               "OperatorName": "YL3ES",
               "Scores": [
                 {
@@ -8700,7 +8753,8 @@
                   "Link": "144.2026.7.YL3ES"
                 },
                 {
-                  "Score": 0
+                  "Score": 18497,
+                  "Link": "144.2026.8.YL3ES"
                 },
                 {
                   "Score": 0
@@ -8715,15 +8769,15 @@
                   "Score": 0
                 },
                 {
-                  "Score": 102011
+                  "Score": 120508
                 },
                 {
-                  "Score": 102011
+                  "Score": 120508
                 }
               ]
             },
             {
-              "OperatorName": "YL2QG",
+              "OperatorName": "YL3EK",
               "Scores": [
                 {
                   "Score": 0
@@ -8735,20 +8789,22 @@
                   "Score": 0
                 },
                 {
-                  "Score": 23587,
-                  "Link": "144.2026.4.YL2QG"
+                  "Score": 0
                 },
                 {
-                  "Score": 19730,
-                  "Link": "144.2026.5.YL2QG"
+                  "Score": 0
                 },
                 {
-                  "Score": 26028,
-                  "Link": "144.2026.6.YL2QG"
+                  "Score": 21203,
+                  "Link": "144.2026.6.YL3EK"
                 },
                 {
-                  "Score": 23056,
-                  "Link": "144.2026.7.YL2QG"
+                  "Score": 20259,
+                  "Link": "144.2026.7.YL3EK"
+                },
+                {
+                  "Score": 24654,
+                  "Link": "144.2026.8.YL3EK"
                 },
                 {
                   "Score": 0
@@ -8763,13 +8819,10 @@
                   "Score": 0
                 },
                 {
-                  "Score": 0
+                  "Score": 66116
                 },
                 {
-                  "Score": 92401
-                },
-                {
-                  "Score": 92401
+                  "Score": 66116
                 }
               ]
             },
@@ -8827,7 +8880,7 @@
               ]
             },
             {
-              "OperatorName": "YL3EK",
+              "OperatorName": "YL2GD",
               "Scores": [
                 {
                   "Score": 0
@@ -8839,39 +8892,41 @@
                   "Score": 0
                 },
                 {
+                  "Score": 4094,
+                  "Link": "144.2026.4.YL2GD"
+                },
+                {
+                  "Score": 11964,
+                  "Link": "144.2026.5.YL2GD"
+                },
+                {
+                  "Score": 8241,
+                  "Link": "144.2026.6.YL2GD"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 11537,
+                  "Link": "144.2026.8.YL2GD"
+                },
+                {
                   "Score": 0
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 21203,
-                  "Link": "144.2026.6.YL3EK"
-                },
-                {
-                  "Score": 20259,
-                  "Link": "144.2026.7.YL3EK"
-                },
-                {
                   "Score": 0
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 0
+                  "Score": 35836
                 },
                 {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 41462
-                },
-                {
-                  "Score": 41462
+                  "Score": 35836
                 }
               ]
             },
@@ -8928,52 +8983,55 @@
               ]
             },
             {
-              "OperatorName": "YL2GD",
+              "OperatorName": "YL3NT",
               "Scores": [
                 {
                   "Score": 0
                 },
                 {
+                  "Score": 2291,
+                  "Link": "144.2026.2.YL3NT"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 2209,
+                  "Link": "144.2026.4.YL3NT"
+                },
+                {
+                  "Score": 4435,
+                  "Link": "144.2026.5.YL3NT"
+                },
+                {
+                  "Score": 2585,
+                  "Link": "144.2026.6.YL3NT"
+                },
+                {
+                  "Score": 3396,
+                  "Link": "144.2026.7.YL3NT"
+                },
+                {
+                  "Score": 10647,
+                  "Link": "144.2026.8.YL3NT"
+                },
+                {
                   "Score": 0
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 4094,
-                  "Link": "144.2026.4.YL2GD"
-                },
-                {
-                  "Score": 11964,
-                  "Link": "144.2026.5.YL2GD"
-                },
-                {
-                  "Score": 8241,
-                  "Link": "144.2026.6.YL2GD"
-                },
-                {
                   "Score": 0
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 0
+                  "Score": 25563
                 },
                 {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 24299
-                },
-                {
-                  "Score": 24299
+                  "Score": 25563
                 }
               ]
             },
@@ -9007,7 +9065,8 @@
                   "Score": 0
                 },
                 {
-                  "Score": 0
+                  "Score": 606,
+                  "Link": "144.2026.8.YL3ND"
                 },
                 {
                   "Score": 0
@@ -9022,62 +9081,10 @@
                   "Score": 0
                 },
                 {
-                  "Score": 15646
+                  "Score": 16252
                 },
                 {
-                  "Score": 15646
-                }
-              ]
-            },
-            {
-              "OperatorName": "YL3NT",
-              "Scores": [
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 2291,
-                  "Link": "144.2026.2.YL3NT"
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 2209,
-                  "Link": "144.2026.4.YL3NT"
-                },
-                {
-                  "Score": 4435,
-                  "Link": "144.2026.5.YL3NT"
-                },
-                {
-                  "Score": 2585,
-                  "Link": "144.2026.6.YL3NT"
-                },
-                {
-                  "Score": 3396,
-                  "Link": "144.2026.7.YL3NT"
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 14916
-                },
-                {
-                  "Score": 14916
+                  "Score": 16252
                 }
               ]
             },
@@ -9110,7 +9117,8 @@
                   "Score": 0
                 },
                 {
-                  "Score": 0
+                  "Score": 520,
+                  "Link": "144.2026.8.YL3GEA"
                 },
                 {
                   "Score": 0
@@ -9125,10 +9133,60 @@
                   "Score": 0
                 },
                 {
-                  "Score": 7047
+                  "Score": 7567
                 },
                 {
-                  "Score": 7047
+                  "Score": 7567
+                }
+              ]
+            },
+            {
+              "OperatorName": "YL2KO",
+              "Scores": [
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 529,
+                  "Link": "144.2026.4.YL2KO"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 1252,
+                  "Link": "144.2026.6.YL2KO"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 5268,
+                  "Link": "144.2026.8.YL2KO"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 7049
+                },
+                {
+                  "Score": 7049
                 }
               ]
             },
@@ -9181,7 +9239,7 @@
               ]
             },
             {
-              "OperatorName": "YL2KO",
+              "OperatorName": "YL3ATH",
               "Scores": [
                 {
                   "Score": 0
@@ -9193,17 +9251,6 @@
                   "Score": 0
                 },
                 {
-                  "Score": 529,
-                  "Link": "144.2026.4.YL2KO"
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 1252,
-                  "Link": "144.2026.6.YL2KO"
-                },
-                {
                   "Score": 0
                 },
                 {
@@ -9216,16 +9263,26 @@
                   "Score": 0
                 },
                 {
+                  "Score": 2645,
+                  "Link": "144.2026.8.YL3ATH"
+                },
+                {
+                  "Score": 0
+                },
+                {
                   "Score": 0
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 1781
+                  "Score": 0
                 },
                 {
-                  "Score": 1781
+                  "Score": 2645
+                },
+                {
+                  "Score": 2645
                 }
               ]
             },
@@ -9328,6 +9385,56 @@
           ],
           "IntData": [
             {
+              "OperatorName": "LY2R",
+              "Scores": [
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 39235,
+                  "Link": "144.2026.3.LY2R"
+                },
+                {
+                  "Score": 28094,
+                  "Link": "144.2026.4.LY2R"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 37197,
+                  "Link": "144.2026.8.LY2R"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 104526
+                },
+                {
+                  "Score": 104526
+                }
+              ]
+            },
+            {
               "OperatorName": "LY2VO",
               "Scores": [
                 {
@@ -9375,55 +9482,6 @@
                 },
                 {
                   "Score": 78900
-                }
-              ]
-            },
-            {
-              "OperatorName": "LY2R",
-              "Scores": [
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 39235,
-                  "Link": "144.2026.3.LY2R"
-                },
-                {
-                  "Score": 28094,
-                  "Link": "144.2026.4.LY2R"
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 67329
-                },
-                {
-                  "Score": 67329
                 }
               ]
             }

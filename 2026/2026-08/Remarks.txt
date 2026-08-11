@@ -1,0 +1,3 @@
+[144 MHz] YL3ATH:
+  FM-only entry. Contest exchange was RS plus WWL; serial numbers were not required.
+  Converted from ADIF exported by Local QSO Logger.
