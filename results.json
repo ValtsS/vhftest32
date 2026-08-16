@@ -9522,7 +9522,8 @@
                   "Link": "432.2026.7.YL2AO"
                 },
                 {
-                  "Score": 0
+                  "Score": 33179,
+                  "Link": "432.2026.8.YL2AO"
                 },
                 {
                   "Score": 0
@@ -9537,10 +9538,10 @@
                   "Score": 0
                 },
                 {
-                  "Score": 214743
+                  "Score": 247922
                 },
                 {
-                  "Score": 214743
+                  "Score": 247922
                 }
               ]
             },
@@ -9575,7 +9576,8 @@
                   "Score": 0
                 },
                 {
-                  "Score": 0
+                  "Score": 24142,
+                  "Link": "432.2026.8.YL2AJ"
                 },
                 {
                   "Score": 0
@@ -9590,10 +9592,61 @@
                   "Score": 0
                 },
                 {
-                  "Score": 121902
+                  "Score": 146044
                 },
                 {
-                  "Score": 121902
+                  "Score": 146044
+                }
+              ]
+            },
+            {
+              "OperatorName": "YL3EK",
+              "Scores": [
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 11155,
+                  "Link": "432.2026.5.YL3EK"
+                },
+                {
+                  "Score": 17366,
+                  "Link": "432.2026.6.YL3EK"
+                },
+                {
+                  "Score": 20094,
+                  "Link": "432.2026.7.YL3EK"
+                },
+                {
+                  "Score": 15870,
+                  "Link": "432.2026.8.YL3EK"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 64485
+                },
+                {
+                  "Score": 64485
                 }
               ]
             },
@@ -9629,7 +9682,8 @@
                   "Link": "432.2026.7.YL3ES"
                 },
                 {
-                  "Score": 0
+                  "Score": 9543,
+                  "Link": "432.2026.8.YL3ES"
                 },
                 {
                   "Score": 0
@@ -9644,112 +9698,10 @@
                   "Score": 0
                 },
                 {
-                  "Score": 54589
+                  "Score": 64132
                 },
                 {
-                  "Score": 54589
-                }
-              ]
-            },
-            {
-              "OperatorName": "YL3EK",
-              "Scores": [
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 11155,
-                  "Link": "432.2026.5.YL3EK"
-                },
-                {
-                  "Score": 17366,
-                  "Link": "432.2026.6.YL3EK"
-                },
-                {
-                  "Score": 20094,
-                  "Link": "432.2026.7.YL3EK"
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 48615
-                },
-                {
-                  "Score": 48615
-                }
-              ]
-            },
-            {
-              "OperatorName": "YL3NJ",
-              "Scores": [
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 5810,
-                  "Link": "432.2026.2.YL3NJ"
-                },
-                {
-                  "Score": 5606,
-                  "Link": "432.2026.3.YL3NJ"
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 4718,
-                  "Link": "432.2026.5.YL3NJ"
-                },
-                {
-                  "Score": 11086,
-                  "Link": "432.2026.6.YL3NJ"
-                },
-                {
-                  "Score": 6620,
-                  "Link": "432.2026.7.YL3NJ"
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 33840
-                },
-                {
-                  "Score": 33840
+                  "Score": 64132
                 }
               ]
             },
@@ -9784,7 +9736,8 @@
                   "Link": "432.2026.7.YL2QG"
                 },
                 {
-                  "Score": 0
+                  "Score": 8387,
+                  "Link": "432.2026.8.YL2QG"
                 },
                 {
                   "Score": 0
@@ -9799,10 +9752,63 @@
                   "Score": 0
                 },
                 {
-                  "Score": 30999
+                  "Score": 39386
                 },
                 {
-                  "Score": 30999
+                  "Score": 39386
+                }
+              ]
+            },
+            {
+              "OperatorName": "YL3NJ",
+              "Scores": [
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 5810,
+                  "Link": "432.2026.2.YL3NJ"
+                },
+                {
+                  "Score": 5606,
+                  "Link": "432.2026.3.YL3NJ"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 4718,
+                  "Link": "432.2026.5.YL3NJ"
+                },
+                {
+                  "Score": 11086,
+                  "Link": "432.2026.6.YL3NJ"
+                },
+                {
+                  "Score": 6620,
+                  "Link": "432.2026.7.YL3NJ"
+                },
+                {
+                  "Score": 5318,
+                  "Link": "432.2026.8.YL3NJ"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 39158
+                },
+                {
+                  "Score": 39158
                 }
               ]
             },
@@ -9837,7 +9843,8 @@
                   "Link": "432.2026.7.YL3NT"
                 },
                 {
-                  "Score": 0
+                  "Score": 4344,
+                  "Link": "432.2026.8.YL3NT"
                 },
                 {
                   "Score": 0
@@ -9852,10 +9859,10 @@
                   "Score": 0
                 },
                 {
-                  "Score": 25067
+                  "Score": 29411
                 },
                 {
-                  "Score": 25067
+                  "Score": 29411
                 }
               ]
             },
@@ -9886,6 +9893,33 @@
                   "Score": 0
                 },
                 {
+                  "Score": 10633,
+                  "Link": "432.2026.8.YL2GD"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 21979
+                },
+                {
+                  "Score": 21979
+                }
+              ]
+            },
+            {
+              "OperatorName": "YL3RK",
+              "Scores": [
+                {
                   "Score": 0
                 },
                 {
@@ -9901,10 +9935,33 @@
                   "Score": 0
                 },
                 {
-                  "Score": 11346
+                  "Score": 5600,
+                  "Link": "432.2026.6.YL3RK"
                 },
                 {
-                  "Score": 11346
+                  "Score": 0
+                },
+                {
+                  "Score": 7526,
+                  "Link": "432.2026.8.YL3RK"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 13126
+                },
+                {
+                  "Score": 13126
                 }
               ]
             },
@@ -9960,54 +10017,6 @@
               ]
             },
             {
-              "OperatorName": "YL3RK",
-              "Scores": [
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 5600,
-                  "Link": "432.2026.6.YL3RK"
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 5600
-                },
-                {
-                  "Score": 5600
-                }
-              ]
-            },
-            {
               "OperatorName": "YL3GEA",
               "Scores": [
                 {
@@ -10053,6 +10062,54 @@
                 },
                 {
                   "Score": 1258
+                }
+              ]
+            },
+            {
+              "OperatorName": "YL2KO",
+              "Scores": [
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 529,
+                  "Link": "432.2026.8.YL2KO"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 529
+                },
+                {
+                  "Score": 529
                 }
               ]
             }
@@ -10157,6 +10214,54 @@
                 },
                 {
                   "Score": 66811
+                }
+              ]
+            },
+            {
+              "OperatorName": "LY3JE",
+              "Scores": [
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 4301,
+                  "Link": "432.2026.8.LY3JE"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 4301
+                },
+                {
+                  "Score": 4301
                 }
               ]
             }
