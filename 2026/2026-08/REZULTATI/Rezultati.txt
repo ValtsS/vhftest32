@@ -7,39 +7,7 @@ R E Z U L T Â T I
 DIAPAZONS 50 MHz
 ================
 LATVIJAS STACIJAS
-         Callsign    WWLoc   QSOs WWLocs ODX    Pnts
-     1.  YL2AO       KO16DK   43   33   1641   41316
-     2.  YL3ND       KO17JM   31   20   1503   20911
-     3.  YL2QV       KO26WM   19   16   1004   15683
-     4.  YL2AJ       KO16OX   17   15   2410   14775
-     5.  YL2QG       KO06QR   14   12    590   10087
-     6.  YL3ES       KO27FF   12   10    709    7674
- 
- 
-Logs zaudçjums, bet QSO kredîtâ: DL4KUG, EA6Y, ES0MVM, ES0Z, ES1IND, ES2MA, ES3MR, ES3RF, EW2DZ, EW4M, G3YDY, GB2CG, GM4CXM, GM4JTJ, HB9CQL, IW5BHU, IZ5YKY, YL2SW, YL3GV, YL3OI, LA3DV, LY7T, OG5O, OG6B, OH0AZX, OH0KCE, OH1LEG, OH2FNR, OH2MA, OH2MDN, OH3HE, OH7KNM, OH7RJ, OH7SV, OH7UE, OH8HTG, OZ2AR, OZ7KJ, SK0CT, SM0BSO, SM1FMT, SM4DXO, SM4ONW, SM4OXX, SM4UEF, SM5CUI, SM5PAO, SM6MVE, SM7FJE, SM7MBH, SM7PYJ, UT7LK.
- 
-ODX TOP-10:
-   YL2AJ        KO16OX  -  EA6Y         JM19LS      2410 km
-   YL2AO        KO16DK  -  GM4CXM       IO75TW      1641 km
-   YL2AO        KO16DK  -  IZ5YKY       JN53IS      1628 km
-   YL2AO        KO16DK  -  IW5BHU       JN54BC      1617 km
-   YL2AO        KO16DK  -  GB2CG        IO86BC      1607 km
-   YL2AO        KO16DK  -  GM4JTJ       IO86RP      1515 km
-   YL2AO        KO16DK  -  G3YDY        JO01FQ      1512 km
-   YL3ND        KO17JM  -  HB9CQL       JN37UM      1503 km
-   YL2AJ        KO16OX  -  UT7LK        KO80DA      1158 km
-   YL2QV        KO26WM  -  LA3DV        JO49WS      1004 km
- 
-Notikumi pçc 8 mçneðiem: 
-     1. YL2AO    377382 pnts
-     2. YL2QV    302492 pnts
-     3. YL3ND    205888 pnts
-     4. YL2QG    145610 pnts
-     5. YL3ES    121042 pnts
-     6. YL2AJ     43568 pnts
-     7. YL2GD     34746 pnts
-     8. YL3RK     11398 pnts
- 
+YL QSO ðajâ diapazons nav reìistrçts
        
 ================
 DIAPAZONS 70 MHz
@@ -233,4 +201,4 @@ OPEN CLASS
 NO QSO THIS BAND
        
 ========================================================================
-19.08.2026                               VHFTest v3.2.190  LY2CG © 2016 
+16.08.2026                               VHFTest v3.2.190  LY2CG © 2016 
