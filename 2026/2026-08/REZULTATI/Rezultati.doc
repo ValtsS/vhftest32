@@ -49,7 +49,27 @@
 	DIAPAZONS 70 MHz
 	================
 	LATVIJAS STACIJAS
-	YL QSO ðajâ diapazons nav reìistrçts
+		Callsign	WWLoc	QSOs	WWLocs	ODX	Pnts
+	1.	YL2QG	KO06QR	7	7	478	5966
+	2.	YL3KW	KO27XN	4	4	423	3248
+	 
+	 
+	Logs zaudçjums, bet QSO kredîtâ: ES2IPA/0, ES2MC, ES8JX, OH0AZX, OH2FNR, OH2MDN, SM7FJE.
+	 
+	ODX TOP-10:
+	YL2QG	KO06QR	-	SM7FJE	JO65VU	478 km
+	YL2QG	KO06QR	-	OH2FNR	KP20IL	460 km
+	YL3KW	KO27XN	-	OH0AZX	KP00IF	423 km
+	YL2QG	KO06QR	-	OH2MDN	KO19LT	356 km
+	YL2QG	KO06QR	-	ES2MC	KO29GG	339 km
+	YL3KW	KO27XN	-	OH2MDN	KO19LT	305 km
+	YL2QG	KO06QR	-	ES8JX	KO28LM	292 km
+	YL2QG	KO06QR	-	ES2IPA/0	KO18KT	249 km
+	YL3KW	KO27XN	-	ES2IPA/0	KO18KT	228 km
+	Notikumi pçc 8 mçneðiem: 
+	1.	YL2QG	14287 pnts
+	2.	YL3KW	11227 pnts
+	 
 	       
 	=================
 	DIAPAZONS 144 MHz
@@ -300,4 +320,4 @@
  
        
 ========================================================================
-25.08.2026                               VHFTest v3.2.190  LY2CG © 2016 
+27.08.2026                               VHFTest v3.2.190  LY2CG © 2016 
