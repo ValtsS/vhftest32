@@ -1,0 +1,3 @@
+[144 MHz] YL3ATH:
+  Converted from Baltic_2026-09-01.adi.txt for YLAC 144 MHz.
+  QSO times are UTC. Scoring: 1 point/km plus 500 points/new WWL square.
