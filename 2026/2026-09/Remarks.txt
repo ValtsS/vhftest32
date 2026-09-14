@@ -1,3 +1,7 @@
 [144 MHz] YL3ATH:
   Converted from Baltic_2026-09-01.adi.txt for YLAC 144 MHz.
   QSO times are UTC. Scoring: 1 point/km plus 500 points/new WWL square.
+[432 MHz] YL3ATH:
+  20 W FM. Horizontal HB9CV used for YL3NB and YL2AO.
+  Vertical Diamond RH-770 used for YL3ASS, YL3FK and YL3QH.
+  No serial-number exchange was used; reports and WWL only.
