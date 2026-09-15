@@ -5,3 +5,5 @@
   20 W FM. Horizontal HB9CV used for YL3NB and YL2AO.
   Vertical Diamond RH-770 used for YL3ASS, YL3FK and YL3QH.
   No serial-number exchange was used; reports and WWL only.
+[50 MHz] YL3ATH:
+  FT8 QSOs. EU VHF serial numbers omitted; YLAC requires report and WWL.
