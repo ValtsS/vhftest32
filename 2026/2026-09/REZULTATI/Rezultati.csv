@@ -35,16 +35,29 @@ Notikumi pçc 9 mçneðiem:
 3.;YL3ND;221738 pnts
 4.;YL2QG;157311 pnts
 5.;YL3ES;121042 pnts
-6.;YL3NB;3755 pnts
-7.;YL2IV;2697 pnts
-8.;YL3ATH;1857 pnts
+6.;YL2FZ;119664 pnts
+7.;YL2AJ;43568 pnts
+8.;YL2GD;34746 pnts
+9.;YL3NB;3755 pnts
+10.;YL2IV;2697 pnts
+11.;YL3ATH;1857 pnts
  
        
 ================
 DIAPAZONS 70 MHz
 ================
 LATVIJAS STACIJAS
-YL QSO ðajâ diapazons nav reìistrçts
+;Callsign;WWLoc;QSOs;WWLocs;ODX;Pnts
+1.;YL2QG;KO06QR;1;1;255;755
+ 
+ 
+Logs zaudçjums, bet QSO kredîtâ: ES8GP.
+ 
+ODX TOP-10:
+YL2QG;KO06QR;-;ES8GP;KO28DJ;255 km
+Notikumi pçc 9 mçneðiem: 
+1.;YL2QG;15042 pnts
+ 
        
 =================
 DIAPAZONS 144 MHz
@@ -78,14 +91,17 @@ YL2AO;KO16DK;-;OH4GGW;KP31MO;636 km
  
 Notikumi pçc 9 mçneðiem: 
 1.;YL2AO;383200 pnts
-2.;YL2QG;152276 pnts
-3.;YL3ES;124710 pnts
-4.;YL3EK;89894 pnts
-5.;YL3NT;30886 pnts
-6.;YL2IV;26386 pnts
-7.;YL3NJ;21928 pnts
-8.;YL3ND;16252 pnts
-9.;YL3ATH;3831 pnts
+2.;YL2AJ;235206 pnts
+3.;YL2QG;152276 pnts
+4.;YL3ES;124710 pnts
+5.;YL3EK;89894 pnts
+6.;YL2GD;35836 pnts
+7.;YL3NT;30886 pnts
+8.;YL2IV;26386 pnts
+9.;YL3NJ;21928 pnts
+10.;YL3ND;16252 pnts
+11.;YL3ATH;3831 pnts
+12.;YL3GY;1121 pnts
  
        
 =================
@@ -122,21 +138,63 @@ YL2AO;KO16DK;-;SM7EYW;JO65NK;582 km
  
 Notikumi pçc 9 mçneðiem: 
 1.;YL2AO;274669 pnts
-2.;YL3EK;79021 pnts
-3.;YL3ES;77022 pnts
-4.;YL2QG;52271 pnts
-5.;YL3NT;35831 pnts
-6.;YL3NJ;18100 pnts
-7.;YL2IV;10884 pnts
-8.;YL3NB;1254 pnts
-9.;YL3ATH;1242 pnts
+2.;YL2AJ;146044 pnts
+3.;YL3EK;79021 pnts
+4.;YL3ES;77022 pnts
+5.;YL2QG;52271 pnts
+6.;YL3NT;35831 pnts
+7.;YL2GD;21979 pnts
+8.;YL3NJ;18100 pnts
+9.;YL2IV;10884 pnts
+10.;YL3NB;1254 pnts
+11.;YL3ATH;1242 pnts
  
        
 ==================
 DIAPAZONS 1296 MHz
 ==================
 LATVIJAS STACIJAS
-YL QSO ðajâ diapazons nav reìistrçts
+;Callsign;WWLoc;QSOs;WWLocs;ODX;Pnts
+1.;YL2AJ;KO16OX;25;16;539;14187
+2.;YL2AO;KO16DK;21;15;467;13026
+3.;YL2QG;KO06QR;8;5;365;4326
+4.;YL2FZ;KO37QI;7;5;356;3572
+5.;YL3ES;KO27EH;7;5;350;3531
+6.;YL2GD;KO37ML;5;5;247;3307
+7.;YL3NJ;KO36QU;6;3;315;2274
+8.;YL3GY;KO27AA;3;2;51;1129
+9.;YL3EK;KO27FF;2;1;11;522
+ 
+YL stacijas izveidota QSO ar ðiem WWLoc kvadrâti: KO15, KO16, KO24, KO25.
+Kopâ 4 atðíirîgs WWLoc kvadrâti.
+ 
+Logs zaudçjums, bet QSO kredîtâ: ES0FX, ES1OX/2, ES2DF, YL2KO, YL3GCJ, YL3NT, YL3RK, LY2HS, LY2R, LY2VO, LY2WR, SK0CT, SM0BSO, SM0LQB, SM0RJV, SM1HOW, SM7LCB, SQ5N.
+ 
+ODX TOP-10:
+YL2AJ;KO16OX;-;SQ5N;KO02LH;539 km
+YL2AO;KO16DK;-;SQ5N;KO02LH;467 km
+YL2AO;KO16DK;-;SM0RJV;JO89VJ;423 km
+YL2AO;KO16DK;-;SK0CT;JO99BM;422 km
+YL2AJ;KO16OX;-;SM0RJV;JO89VJ;416 km
+YL2AJ;KO16OX;-;SM7LCB;JO86GH;415 km
+YL2AJ;KO16OX;-;SM0LQB;JO89XK;412 km
+YL2AJ;KO16OX;-;SK0CT;JO99BM;411 km
+YL2AO;KO16DK;-;SM0BSO;JO99BG;400 km
+YL2AJ;KO16OX;-;SM0BSO;JO99BG;393 km
+ 
+Notikumi pçc 9 mçneðiem: 
+1.;YL2AJ;95039 pnts
+2.;YL2AO;87115 pnts
+3.;YL2FZ;40594 pnts
+4.;YL2GD;30973 pnts
+5.;YL2QG;27877 pnts
+6.;YL3ES;24884 pnts
+7.;YL3NT;17579 pnts
+8.;YL3EK;6743 pnts
+9.;YL3NJ;2274 pnts
+10.;YL3GY;1129 pnts
+11.;YL2IV;1097 pnts
+ 
        
 ========================================================================
 
@@ -211,12 +269,32 @@ LY2R;KO15VS;-;SM7DTE;JO75CN;602 km
 Score after 9 months: 
 1.;LY2R;132326 pnts
 2.;LY2VO;91692 pnts
+3.;LY3JE;4301 pnts
  
        
 =============
 BAND 1296 MHz
 =============
-NO QSO THIS BAND
+;Callsign;WWLoc;QSO;nWWLoc;ODX;Points
+1.;LY3JE;KO26TC;    6;    4;   210;    2894
+ 
+OPEN CLASS QSO with WWLoc squares: KO15, KO16, KO24, KO25.
+Total 4 different WWLoc  squares.
+ 
+No LOG but QSO credited: ES0FX, ES1OX/2, ES2DF, YL2KO, YL3GCJ, YL3NT, YL3RK, SK0CT, SM0BSO, SM0LQB, SM0RJV, SM1HOW, SM7LCB, SQ5N.
+ 
+ODX TOP-10:
+LY3JE;KO26TC;-;YL2AO;KO16DK;210 km
+LY3JE;KO26TC;-;LY2WR;KO24FO;183 km
+LY3JE;KO26TC;-;YL2AJ;KO16OX;178 km
+LY3JE;KO26TC;-;LY2VO;KO15PX;146 km
+LY3JE;KO26TC;-;LY2R;KO15VS;121 km
+LY3JE;KO26TC;-;LY2HS;KO25UO;56 km
+Score after 9 months: 
+1.;LY2R;38611 pnts
+2.;LY2VO;8288 pnts
+3.;LY3JE;5105 pnts
+ 
        
 ========================================================================
-15.09.2026                               VHFTest v3.2.190  LY2CG © 2016 
+24.09.2026                               VHFTest v3.2.190  LY2CG © 2016 

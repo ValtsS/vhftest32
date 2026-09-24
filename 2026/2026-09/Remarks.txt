@@ -7,3 +7,7 @@
   No serial-number exchange was used; reports and WWL only.
 [50 MHz] YL3ATH:
   FT8 QSOs. EU VHF serial numbers omitted; YLAC requires report and WWL.
+[1296 MHz] YL2GD:
+  Powered by Win-Test 4.59.0       http://www.win-test.com
+[1296 MHz] YL3ES:
+  KO27EH
