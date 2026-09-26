@@ -89855,7 +89855,7 @@
         "QRB": "80",
         "Pnt": "80",
         "nWWLoc4": "",
-        "Remark": "ScoredNoLog",
+        "Remark": "",
         "DateTimeUTC": "2026-09-15T17:42:00"
       },
       {
@@ -90369,7 +90369,7 @@
         "QRB": "160",
         "Pnt": "160",
         "nWWLoc4": "",
-        "Remark": "ScoredNoLog",
+        "Remark": "",
         "DateTimeUTC": "2026-09-15T18:40:00"
       },
       {
@@ -90531,7 +90531,7 @@
         "QRB": "193",
         "Pnt": "193",
         "nWWLoc4": "",
-        "Remark": "ScoredNoLog",
+        "Remark": "",
         "DateTimeUTC": "2026-09-15T17:44:00"
       },
       {
@@ -91039,6 +91039,88 @@
         "DateTimeUTC": "2026-09-15T18:32:00"
       }
     ],
+    "1296.2026.9.YL3RK": [
+      {
+        "Callsign": "YL3RK",
+        "WWLoc": "KO27EH",
+        "UTC": "1739",
+        "Corresp": "YL3EK",
+        "Sent": "59",
+        "Recvd": "59",
+        "nWWLoc": "KO27FF",
+        "Mode": "MGM",
+        "Band": "1296",
+        "QRB": "11",
+        "Pnt": "11",
+        "nWWLoc4": "KO27",
+        "Remark": "",
+        "DateTimeUTC": "2026-09-15T17:39:00"
+      },
+      {
+        "Callsign": "YL3RK",
+        "WWLoc": "KO27EH",
+        "UTC": "1741",
+        "Corresp": "YL2AJ",
+        "Sent": "59",
+        "Recvd": "55",
+        "nWWLoc": "KO16OX",
+        "Mode": "MGM",
+        "Band": "1296",
+        "QRB": "80",
+        "Pnt": "80",
+        "nWWLoc4": "KO16",
+        "Remark": "",
+        "DateTimeUTC": "2026-09-15T17:41:00"
+      },
+      {
+        "Callsign": "YL3RK",
+        "WWLoc": "KO27EH",
+        "UTC": "1743",
+        "Corresp": "YL2QG",
+        "Sent": "59",
+        "Recvd": "58",
+        "nWWLoc": "KO06QR",
+        "Mode": "MGM",
+        "Band": "1296",
+        "QRB": "193",
+        "Pnt": "193",
+        "nWWLoc4": "KO06",
+        "Remark": "",
+        "DateTimeUTC": "2026-09-15T17:43:00"
+      },
+      {
+        "Callsign": "YL3RK",
+        "WWLoc": "KO27EH",
+        "UTC": "1839",
+        "Corresp": "YL2AO",
+        "Sent": "59",
+        "Recvd": "56",
+        "nWWLoc": "KO16DK",
+        "Mode": "MGM",
+        "Band": "1296",
+        "QRB": "160",
+        "Pnt": "160",
+        "nWWLoc4": "",
+        "Remark": "",
+        "DateTimeUTC": "2026-09-15T18:39:00"
+      },
+      {
+        "Callsign": "YL3RK",
+        "WWLoc": "KO27EH",
+        "UTC": "1851",
+        "Corresp": "YL2GY",
+        "Sent": "59",
+        "Recvd": "59",
+        "nWWLoc": "KO27AA",
+        "Mode": "MGM",
+        "Band": "1296",
+        "QRB": "0",
+        "Pnt": "0",
+        "nWWLoc4": "",
+        "Remark": "CorrNoCall YL3GY",
+        "DateTimeUTC": "2026-09-15T18:51:00"
+      }
+    ],
     "1296.2026.9.YL3GY": [
       {
         "Callsign": "YL3GY",
@@ -91082,10 +91164,10 @@
         "nWWLoc": "KO27EH",
         "Mode": "SSB",
         "Band": "1296",
-        "QRB": "39",
-        "Pnt": "39",
+        "QRB": "0",
+        "Pnt": "0",
         "nWWLoc4": "",
-        "Remark": "ScoredNoLog",
+        "Remark": "NoCall YL2GY",
         "DateTimeUTC": "2026-09-15T18:51:00"
       }
     ],
@@ -91119,7 +91201,7 @@
         "QRB": "11",
         "Pnt": "11",
         "nWWLoc4": "",
-        "Remark": "ScoredNoLog",
+        "Remark": "",
         "DateTimeUTC": "2026-09-15T17:39:00"
       }
     ],

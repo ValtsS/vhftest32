@@ -8427,10 +8427,11 @@
               ]
             },
             {
-              "OperatorName": "YL3GY",
+              "OperatorName": "YL3RK",
               "Scores": [
                 {
-                  "Score": 0
+                  "Score": 740,
+                  "Link": "1296.2026.1.YL3RK"
                 },
                 {
                   "Score": 0
@@ -8454,8 +8455,8 @@
                   "Score": 0
                 },
                 {
-                  "Score": 1129,
-                  "Link": "1296.2026.9.YL3GY"
+                  "Score": 1944,
+                  "Link": "1296.2026.9.YL3RK"
                 },
                 {
                   "Score": 0
@@ -8467,10 +8468,10 @@
                   "Score": 0
                 },
                 {
-                  "Score": 1129
+                  "Score": 2684
                 },
                 {
-                  "Score": 1129
+                  "Score": 2684
                 }
               ]
             },
@@ -8523,13 +8524,9 @@
               ]
             },
             {
-              "OperatorName": "YL3RK",
+              "OperatorName": "YL3GY",
               "Scores": [
                 {
-                  "Score": 740,
-                  "Link": "1296.2026.1.YL3RK"
-                },
-                {
                   "Score": 0
                 },
                 {
@@ -8554,7 +8551,8 @@
                   "Score": 0
                 },
                 {
-                  "Score": 0
+                  "Score": 1090,
+                  "Link": "1296.2026.9.YL3GY"
                 },
                 {
                   "Score": 0
@@ -8563,10 +8561,13 @@
                   "Score": 0
                 },
                 {
-                  "Score": 740
+                  "Score": 0
                 },
                 {
-                  "Score": 740
+                  "Score": 1090
+                },
+                {
+                  "Score": 1090
                 }
               ]
             }

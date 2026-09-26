@@ -38,9 +38,10 @@ Notikumi pçc 9 mçneðiem:
 6.;YL2FZ;119664 pnts
 7.;YL2AJ;43568 pnts
 8.;YL2GD;34746 pnts
-9.;YL3NB;3755 pnts
-10.;YL2IV;2697 pnts
-11.;YL3ATH;1857 pnts
+9.;YL3RK;11398 pnts
+10.;YL3NB;3755 pnts
+11.;YL2IV;2697 pnts
+12.;YL3ATH;1857 pnts
  
        
 ================
@@ -100,8 +101,9 @@ Notikumi pçc 9 mçneðiem:
 8.;YL2IV;26386 pnts
 9.;YL3NJ;21928 pnts
 10.;YL3ND;16252 pnts
-11.;YL3ATH;3831 pnts
-12.;YL3GY;1121 pnts
+11.;YL3RK;5577 pnts
+12.;YL3ATH;3831 pnts
+13.;YL3GY;1121 pnts
  
        
 =================
@@ -145,9 +147,10 @@ Notikumi pçc 9 mçneðiem:
 6.;YL3NT;35831 pnts
 7.;YL2GD;21979 pnts
 8.;YL3NJ;18100 pnts
-9.;YL2IV;10884 pnts
-10.;YL3NB;1254 pnts
-11.;YL3ATH;1242 pnts
+9.;YL3RK;13126 pnts
+10.;YL2IV;10884 pnts
+11.;YL3NB;1254 pnts
+12.;YL3ATH;1242 pnts
  
        
 ==================
@@ -162,13 +165,14 @@ LATVIJAS STACIJAS
 5.;YL3ES;KO27EH;7;5;350;3531
 6.;YL2GD;KO37ML;5;5;247;3307
 7.;YL3NJ;KO36QU;6;3;315;2274
-8.;YL3GY;KO27AA;3;2;51;1129
-9.;YL3EK;KO27FF;2;1;11;522
+8.;YL3RK;KO27EH;4;3;193;1944
+9.;YL3GY;KO27AA;2;2;51;1090
+10.;YL3EK;KO27FF;2;1;11;522
  
 YL stacijas izveidota QSO ar ðiem WWLoc kvadrâti: KO15, KO16, KO24, KO25.
 Kopâ 4 atðíirîgs WWLoc kvadrâti.
  
-Logs zaudçjums, bet QSO kredîtâ: ES0FX, ES1OX/2, ES2DF, YL2KO, YL3GCJ, YL3NT, YL3RK, LY2HS, LY2R, LY2VO, LY2WR, SK0CT, SM0BSO, SM0LQB, SM0RJV, SM1HOW, SM7LCB, SQ5N.
+Logs zaudçjums, bet QSO kredîtâ: ES0FX, ES1OX/2, ES2DF, YL2GY, YL2KO, YL3GCJ, YL3NT, LY2HS, LY2R, LY2VO, LY2WR, SK0CT, SM0BSO, SM0LQB, SM0RJV, SM1HOW, SM7LCB, SQ5N.
  
 ODX TOP-10:
 YL2AJ;KO16OX;-;SQ5N;KO02LH;539 km
@@ -191,9 +195,10 @@ Notikumi pçc 9 mçneðiem:
 6.;YL3ES;24884 pnts
 7.;YL3NT;17579 pnts
 8.;YL3EK;6743 pnts
-9.;YL3NJ;2274 pnts
-10.;YL3GY;1129 pnts
+9.;YL3RK;3424 pnts
+10.;YL3NJ;2274 pnts
 11.;YL2IV;1097 pnts
+12.;YL3GY;1090 pnts
  
        
 ========================================================================
@@ -281,7 +286,7 @@ BAND 1296 MHz
 OPEN CLASS QSO with WWLoc squares: KO15, KO16, KO24, KO25.
 Total 4 different WWLoc  squares.
  
-No LOG but QSO credited: ES0FX, ES1OX/2, ES2DF, YL2KO, YL3GCJ, YL3NT, YL3RK, SK0CT, SM0BSO, SM0LQB, SM0RJV, SM1HOW, SM7LCB, SQ5N.
+No LOG but QSO credited: ES0FX, ES1OX/2, ES2DF, YL2GY, YL2KO, YL3GCJ, YL3NT, SK0CT, SM0BSO, SM0LQB, SM0RJV, SM1HOW, SM7LCB, SQ5N.
  
 ODX TOP-10:
 LY3JE;KO26TC;-;YL2AO;KO16DK;210 km
@@ -297,4 +302,4 @@ Score after 9 months:
  
        
 ========================================================================
-24.09.2026                               VHFTest v3.2.190  LY2CG © 2016 
+26.09.2026                               VHFTest v3.2.190  LY2CG © 2016 
