@@ -1,3 +1,6 @@
 [144 MHz] YL3TH:
   Reports and WWL only; no serial-number exchange required by YLAC.
   Distances calculated between six-character locator centres.
+[144 MHz] YL3TH:
+  Reports and WWL only; no serial-number exchange required by YLAC.
+  Distances calculated between six-character locator centres.
