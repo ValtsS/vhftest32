@@ -4,3 +4,5 @@
 [144 MHz] YL3TH:
   Reports and WWL only; no serial-number exchange required by YLAC.
   Distances calculated between six-character locator centres.
+[1296 MHz] YL3ES:
+  Log NAC 1296 pirmo reiz vadot staciju pa IP tehnologiju
