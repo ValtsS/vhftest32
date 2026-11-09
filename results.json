@@ -8832,16 +8832,17 @@
                   "Score": 0
                 },
                 {
-                  "Score": 0
+                  "Score": 37965,
+                  "Link": "144.2026.11.YL2AJ"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 235206
+                  "Score": 273171
                 },
                 {
-                  "Score": 235206
+                  "Score": 273171
                 }
               ]
             },
@@ -8886,16 +8887,17 @@
                   "Link": "144.2026.10.YL2QG"
                 },
                 {
-                  "Score": 0
+                  "Score": 21242,
+                  "Link": "144.2026.11.YL2QG"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 171328
+                  "Score": 192570
                 },
                 {
-                  "Score": 171328
+                  "Score": 192570
                 }
               ]
             },
@@ -8942,16 +8944,17 @@
                   "Link": "144.2026.10.YL3ES"
                 },
                 {
-                  "Score": 0
+                  "Score": 21774,
+                  "Link": "144.2026.11.YL3ES"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 152403
+                  "Score": 171106
                 },
                 {
-                  "Score": 152403
+                  "Score": 174177
                 }
               ]
             },
@@ -8994,16 +8997,17 @@
                   "Link": "144.2026.10.YL3EK"
                 },
                 {
-                  "Score": 0
+                  "Score": 18819,
+                  "Link": "144.2026.11.YL3EK"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 115572
+                  "Score": 134391
                 },
                 {
-                  "Score": 115572
+                  "Score": 134391
                 }
               ]
             },
@@ -9049,16 +9053,17 @@
                   "Link": "144.2026.10.YL3NJ"
                 },
                 {
-                  "Score": 0
+                  "Score": 13583,
+                  "Link": "144.2026.11.YL3NJ"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 86693
+                  "Score": 100276
                 },
                 {
-                  "Score": 86693
+                  "Score": 100276
                 }
               ]
             },
@@ -9100,16 +9105,17 @@
                   "Score": 0
                 },
                 {
-                  "Score": 0
+                  "Score": 7670,
+                  "Link": "144.2026.11.YL2GD"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 35836
+                  "Score": 43506
                 },
                 {
-                  "Score": 35836
+                  "Score": 43506
                 }
               ]
             },
@@ -9155,16 +9161,17 @@
                   "Link": "144.2026.10.YL3NT"
                 },
                 {
-                  "Score": 0
+                  "Score": 5649,
+                  "Link": "144.2026.11.YL3NT"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 33187
+                  "Score": 38836
                 },
                 {
-                  "Score": 33187
+                  "Score": 38836
                 }
               ]
             },
@@ -9207,16 +9214,17 @@
                   "Score": 0
                 },
                 {
-                  "Score": 0
+                  "Score": 6806,
+                  "Link": "144.2026.11.YL2IV"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 26386
+                  "Score": 33192
                 },
                 {
-                  "Score": 26386
+                  "Score": 33192
                 }
               ]
             },
@@ -9261,16 +9269,17 @@
                   "Link": "144.2026.10.YL3ND"
                 },
                 {
-                  "Score": 0
+                  "Score": 4315,
+                  "Link": "144.2026.11.YL3ND"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 19669
+                  "Score": 23984
                 },
                 {
-                  "Score": 19669
+                  "Score": 23984
                 }
               ]
             },
@@ -9312,16 +9321,17 @@
                   "Link": "144.2026.10.YL2KO"
                 },
                 {
-                  "Score": 0
+                  "Score": 2934,
+                  "Link": "144.2026.11.YL2KO"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 9973
+                  "Score": 12907
                 },
                 {
-                  "Score": 9973
+                  "Score": 12907
                 }
               ]
             },
@@ -9374,6 +9384,54 @@
                 },
                 {
                   "Score": 7567
+                }
+              ]
+            },
+            {
+              "OperatorName": "YL2QV",
+              "Scores": [
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 6177,
+                  "Link": "144.2026.11.YL2QV"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 6177
+                },
+                {
+                  "Score": 6177
                 }
               ]
             },
@@ -9475,6 +9533,54 @@
               ]
             },
             {
+              "OperatorName": "YL3AUL",
+              "Scores": [
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 2424,
+                  "Link": "144.2026.11.YL3AUL"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 2424
+                },
+                {
+                  "Score": 2424
+                }
+              ]
+            },
+            {
               "OperatorName": "YL3TH",
               "Scores": [
                 {
@@ -9509,16 +9615,17 @@
                   "Link": "144.2026.10.YL3TH"
                 },
                 {
-                  "Score": 0
+                  "Score": 544,
+                  "Link": "144.2026.11.YL3TH"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 1316
+                  "Score": 1860
                 },
                 {
-                  "Score": 1316
+                  "Score": 1860
                 }
               ]
             },
@@ -9665,6 +9772,102 @@
                   "Score": 556
                 }
               ]
+            },
+            {
+              "OperatorName": "YL3IM",
+              "Scores": [
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 523,
+                  "Link": "144.2026.11.YL3IM"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 523
+                },
+                {
+                  "Score": 523
+                }
+              ]
+            },
+            {
+              "OperatorName": "YL3AVL",
+              "Scores": [
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 511,
+                  "Link": "144.2026.11.YL3AVL"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 511
+                },
+                {
+                  "Score": 511
+                }
+              ]
             }
           ],
           "IntData": [
@@ -9707,16 +9910,17 @@
                   "Link": "144.2026.10.LY2R"
                 },
                 {
-                  "Score": 0
+                  "Score": 32886,
+                  "Link": "144.2026.11.LY2R"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 180818
+                  "Score": 213704
                 },
                 {
-                  "Score": 180818
+                  "Score": 213704
                 }
               ]
             },
@@ -9759,16 +9963,17 @@
                   "Score": 0
                 },
                 {
-                  "Score": 0
+                  "Score": 31047,
+                  "Link": "144.2026.11.LY2VO"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 110363
+                  "Score": 141410
                 },
                 {
-                  "Score": 110363
+                  "Score": 141410
                 }
               ]
             },

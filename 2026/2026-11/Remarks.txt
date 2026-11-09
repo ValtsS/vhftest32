@@ -1,0 +1,4 @@
+[144 MHz] YL3AUL:
+  Online EDI Generator ver 1.5, http://ok2kjt.net/edi
+[144 MHz] YL3ES:
+  Kontest 03.11.2026 VHFNAC
