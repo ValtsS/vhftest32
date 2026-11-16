@@ -1,18 +1,21 @@
 Callsign	Name	E-Addr			50 MHz	WWLoc	*QSOs	*nWWLoc	*ODX	*Pnt	QSOs	nWWLoc	ODX	Pnt				70 MHz	WWLoc	*QSOs	*nWWLoc	*ODX	*Pnt	QSOs	nWWLoc	ODX	Pnt				144 MHz	WWLoc	*QSOs	*nWWLoc	*ODX	*Pnt	QSOs	nWWLoc	ODX	Pnt				432 MHz	WWLoc	*QSOs	*nWWLoc	*ODX	*Pnt	QSOs	nWWLoc	ODX	Pnt				1296 MHz	WWLoc	*QSOs	*nWWLoc	*ODX	*Pnt	QSOs	nWWLoc	ODX	Pnt		Addr	TX/RX/Ant	
-YL2AJ	Viesturs	1549@inbox.lv									-	-	-	-										-	-	-	-					KO16OX	58	35	725	38015	58	35	725	37965										-	-	-	-										-	-	-	-		Kaleju 1-18 	/W //	
-YL2GD	Gunars Auseklis	yl2gd@lral.lv									-	-	-	-										-	-	-	-					KO37ML	14	10	358	7670	14	10	358	7670										-	-	-	-										-	-	-	-		Klavas, Ziemera pag. 	IC-9700 + PA/200W /IC-9700 + LNA/13 el	
+YL2AJ	Viesturs	1549@inbox.lv									-	-	-	-										-	-	-	-					KO16OX	58	35	725	38015	58	35	725	37965					KO16OX	29	22	673		29	22	673	19033										-	-	-	-		Kaleju 1-18 	/W //	
+YL2GD	Gunars Auseklis	yl2gd@lral.lv									-	-	-	-										-	-	-	-					KO37ML	14	10	358	7670	14	10	358	7670					KO37ML	21	15	590		21	15	590	13541										-	-	-	-		Klavas, Ziemera pag. 	IC-9700 + PA/200W /IC-9700 + LNA/27el YU7EF	
 YL2KO	ALEX GORKY	NoEmailProvided									-	-	-	-										-	-	-	-					KO37RI	5	5	359	3490	4	4	359	2934										-	-	-	-										-	-	-	-		LIEPNA ALUKSNE NOV.	/W //	
-YL2QG	Andris Rozentals	yl2gqg@gmail.com									-	-	-	-										-	-	-	-					KO06QR	30	24	605	22108	29	23	605	21242										-	-	-	-										-	-	-	-		Liepavas, Ciravas pagasts Dienvidkurzemes novads	FT-991A/100WW /FT-991A/5el 2m + 8el 70cm Yagi	
+YL2QG	Andris Rozentals	yl2gqg@gmail.com									-	-	-	-										-	-	-	-					KO06QR	30	24	605	22108	29	23	605	21242					KO06QR	15	12	582		15	12	582	9799										-	-	-	-		Liepavas, Ciravas pagasts Dienvidkurzemes novads	FT-991A/100WW /FT-991A/5el 2m + 8el 70cm Yagi	
 YL2QV	Yanis Bebris										-	-	-	-										-	-	-	-					KO26WM	10	8	697	6177	10	8	697	6177										-	-	-	-										-	-	-	-		Brivibas 288A-30 	IC-706MKIIG/50 WW /IC-706MKIIG/7 el.Yagi	
-YL3AUL	Uldis Subačs	subach@latnet.lv									-	-	-	-										-	-	-	-					KO26CX	6	4	174	424	5	4	174	2424										-	-	-	-										-	-	-	-		Ūnijas iela 65-1 	FT-991A/50W /FT-991A/7 el.yagi	
+YL3AUL	Uldis Subačs	subach@latnet.lv									-	-	-	-										-	-	-	-					KO26CX	6	4	174	424	5	4	174	2424					KO26CX	4	3	125		4	3	125	1750										-	-	-	-		Ūnijas iela 65-1 	FT-991A/20W /FT-991A/14 el.yagi	
 YL3AVL	Viktors	Vikis@sveiks.lv									-	-	-	-										-	-	-	-				FM	KO37NJ	1	1	11	511	1	1	11	511										-	-	-	-										-	-	-	-		 	/W //	
-YL3EK	JANIS	NoEmailProvided									-	-	-	-										-	-	-	-					KO27FF	27	24	691	20479	26	21	691	18819										-	-	-	-										-	-	-	-		Saulkrasti 	IC9700/80wW /IC9700/Yagi	
-YL3ES	Dmitrijs	dmitrijsloka@gmail.com									-	-	-	-										-	-	-	-					KO27FF	33	24	681	21705	33	24	691	21774										-	-	-	-										-	-	-	-		PETERUPE 	ICOM IC-9700/100W /ICOM IC-9700/Yagi	
+YL3EK	JANIS	NoEmailProvided									-	-	-	-										-	-	-	-					KO27FF	27	24	691	20479	26	21	691	18819					KO27FF	18	16	735		18	16	735	13332										-	-	-	-		Saulkrasti 	IC9700/60wW /IC9700/Yagi18	
+YL3ES	Dmitrijs	dmitrijsloka@gmail.com									-	-	-	-										-	-	-	-					KO27FF	33	24	681	21705	33	24	691	21774					KO27FF	11	10	307		11	10	307	6692										-	-	-	-		PETERUPE 	ICOM IC-9700/100W /ICOM IC-9700/Yagi	
 YL3IM	Inga										-	-	-	-										-	-	-	-				FM	KO26CW	2	1	22	523	2	1	22	523										-	-	-	-										-	-	-	-		 	/W //	
 YL3ND	MAREKS STALS	mareks@3nd.lv									-	-	-	-										-	-	-	-					KO17JM	9	6	220	1315	9	6	220	4315										-	-	-	-										-	-	-	-		Strauta str. 6-1 	Flex Radio 8400/W /Flex Radio 8400/Dipole	
 YL3NJ	Andrejs	NoEmailProvided									-	-	-	-										-	-	-	-					KO36QU	19	16	757	13627	19	16	757	13583										-	-	-	-										-	-	-	-		Zibergi ,  Mezupe Krisjanu pag. , Balvu nov.	/W //	
-YL3NT	Jan	yl3ant@gmail.com									-	-	-	-										-	-	-	-					KO36PM	22	17	673	14634	9	8	347	5649										-	-	-	-										-	-	-	-		 	/100W //dipol	
-YL3TH	Nils										-	-	-	-										-	-	-	-				FM	KO26ES	2	1	22	544	2	1	22	544										-	-	-	-										-	-	-	-		 	/W //	
-LY2R	Paulius Beirutas	pauliusly2r@gmail.com									-	-	-	-										-	-	-	-				Open	KO15VS	40	29	894	32855	40	29	895	32886										-	-	-	-										-	-	-	-		 	FT736R/250W /FT736R/4 X 10	
-LY2VO		ly2vo@qrz.lt									-	-	-	-										-	-	-	-				Open	KO15PX	49	30	747	31040	49	30	747	31047										-	-	-	-										-	-	-	-		 	IC-9700/100W /IC-9700/11eL Y	
+YL3NT	Jan	yl3ant@gmail.com									-	-	-	-										-	-	-	-					KO36PM	22	17	673	14634	9	8	347	5649					KO36PM	23	16	634		9	8	306	5851										-	-	-	-		 	/100W //dipol	
+YL3TH	Nils										-	-	-	-										-	-	-	-				FM	KO26ES	2	1	22	544	2	1	22	544				FM	KO26ES	4	3	46		4	3	46	1631										-	-	-	-		 	/W //	
+LY2R	Paulius Beirutas	pauliusly2r@gmail.com									-	-	-	-										-	-	-	-				Open	KO15VS	40	29	894	32855	40	29	895	32886				Open	KO15VS	26	19	763		26	19	764	19015										-	-	-	-		 	FT736R/250W /FT736R/4 X 10	
+LY2VO		ly2vo@qrz.lt									-	-	-	-										-	-	-	-				Open	KO15PX	49	30	747	31040	49	30	747	31047				Open	KO15PX	35	23	743		35	24	743	22904										-	-	-	-		 	IC-9700/250W /IC-9700/26el. Y	
 YL2IV	Oskars Cebers	vspr65@gmail.com									-	-	-	-										-	-	-	-					KO06LM	10	8	489	6781	10	8	495	6806										-	-	-	-										-	-	-	-		 	/50 WW //	
+YL3AMG	Uldis	yl3amg@gmail.com									-	-	-	-										-	-	-	-										-	-	-	-				FM	KO26BW	1	1		6673	1	1	24	524										-	-	-	-		 	Yaesu FT-3DE/5W /Yaesu FT-3DE/144 MHz 1/2 wave (yes, 2m :) not very resonant) mobile antenna	
+YL3NB	Janis	jbalders@inbox.lv									-	-	-	-										-	-	-	-										-	-	-	-					KO16VP	1	1	39	22497	1	1	39	539										-	-	-	-		Lacplesa iela 21-18 	/W //	
+LY3JE	Jonas										-	-	-	-										-	-	-	-										-	-	-	-				Open	KO26TC	15	10		7760	15	10	358	7753										-	-	-	-		Juodup� S Neries 22 	/W //IC 9700	
