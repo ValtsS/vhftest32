@@ -4,3 +4,5 @@
   Kontest 03.11.2026 VHFNAC
 [432 MHz] YL3AUL:
   Online EDI Generator ver 1.5, http://ok2kjt.net/edi
+[432 MHz] YL3AUL:
+  Online EDI Generator ver 1.5, http://ok2kjt.net/edi

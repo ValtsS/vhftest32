@@ -10128,16 +10128,17 @@
                   "Link": "432.2026.10.YL2AJ"
                 },
                 {
-                  "Score": 0
+                  "Score": 19033,
+                  "Link": "432.2026.11.YL2AJ"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 171028
+                  "Score": 190061
                 },
                 {
-                  "Score": 171028
+                  "Score": 190061
                 }
               ]
             },
@@ -10181,16 +10182,17 @@
                   "Link": "432.2026.10.YL3EK"
                 },
                 {
-                  "Score": 0
+                  "Score": 13332,
+                  "Link": "432.2026.11.YL3EK"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 90160
+                  "Score": 103492
                 },
                 {
-                  "Score": 90160
+                  "Score": 103492
                 }
               ]
             },
@@ -10238,16 +10240,17 @@
                   "Link": "432.2026.10.YL3ES"
                 },
                 {
-                  "Score": 0
+                  "Score": 6692,
+                  "Link": "432.2026.11.YL3ES"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 79759
+                  "Score": 81081
                 },
                 {
-                  "Score": 84771
+                  "Score": 91463
                 }
               ]
             },
@@ -10294,16 +10297,17 @@
                   "Link": "432.2026.10.YL2QG"
                 },
                 {
-                  "Score": 0
+                  "Score": 9799,
+                  "Link": "432.2026.11.YL2QG"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 61269
+                  "Score": 70503
                 },
                 {
-                  "Score": 61269
+                  "Score": 71068
                 }
               ]
             },
@@ -10404,16 +10408,17 @@
                   "Link": "432.2026.10.YL3NT"
                 },
                 {
-                  "Score": 0
+                  "Score": 5851,
+                  "Link": "432.2026.11.YL3NT"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 41578
+                  "Score": 45138
                 },
                 {
-                  "Score": 41578
+                  "Score": 47429
                 }
               ]
             },
@@ -10454,16 +10459,17 @@
                   "Score": 0
                 },
                 {
-                  "Score": 0
+                  "Score": 13541,
+                  "Link": "432.2026.11.YL2GD"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 21979
+                  "Score": 35520
                 },
                 {
-                  "Score": 21979
+                  "Score": 35520
                 }
               ]
             },
@@ -10570,6 +10576,151 @@
               ]
             },
             {
+              "OperatorName": "YL3NB",
+              "Scores": [
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 1254,
+                  "Link": "432.2026.9.YL3NB"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 539,
+                  "Link": "432.2026.11.YL3NB"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 1793
+                },
+                {
+                  "Score": 1793
+                }
+              ]
+            },
+            {
+              "OperatorName": "YL3AUL",
+              "Scores": [
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 1750,
+                  "Link": "432.2026.11.YL3AUL"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 1750
+                },
+                {
+                  "Score": 1750
+                }
+              ]
+            },
+            {
+              "OperatorName": "YL3TH",
+              "Scores": [
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 1631,
+                  "Link": "432.2026.11.YL3TH"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 1631
+                },
+                {
+                  "Score": 1631
+                }
+              ]
+            },
+            {
               "OperatorName": "YL3GEA",
               "Scores": [
                 {
@@ -10615,54 +10766,6 @@
                 },
                 {
                   "Score": 1258
-                }
-              ]
-            },
-            {
-              "OperatorName": "YL3NB",
-              "Scores": [
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 1254,
-                  "Link": "432.2026.9.YL3NB"
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 0
-                },
-                {
-                  "Score": 1254
-                },
-                {
-                  "Score": 1254
                 }
               ]
             },
@@ -10761,6 +10864,54 @@
                   "Score": 529
                 }
               ]
+            },
+            {
+              "OperatorName": "YL3AMG",
+              "Scores": [
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 524,
+                  "Link": "432.2026.11.YL3AMG"
+                },
+                {
+                  "Score": 0
+                },
+                {
+                  "Score": 524
+                },
+                {
+                  "Score": 524
+                }
+              ]
             }
           ],
           "IntData": [
@@ -10805,16 +10956,17 @@
                   "Link": "432.2026.10.LY2R"
                 },
                 {
-                  "Score": 0
+                  "Score": 19015,
+                  "Link": "432.2026.11.LY2R"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 154997
+                  "Score": 174012
                 },
                 {
-                  "Score": 154997
+                  "Score": 174012
                 }
               ]
             },
@@ -10857,16 +11009,17 @@
                   "Link": "432.2026.10.LY2VO"
                 },
                 {
-                  "Score": 0
+                  "Score": 22904,
+                  "Link": "432.2026.11.LY2VO"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 117544
+                  "Score": 140448
                 },
                 {
-                  "Score": 117544
+                  "Score": 140448
                 }
               ]
             },
@@ -10906,16 +11059,17 @@
                   "Link": "432.2026.10.LY3JE"
                 },
                 {
-                  "Score": 0
+                  "Score": 7753,
+                  "Link": "432.2026.11.LY3JE"
                 },
                 {
                   "Score": 0
                 },
                 {
-                  "Score": 10442
+                  "Score": 18195
                 },
                 {
-                  "Score": 10442
+                  "Score": 18195
                 }
               ]
             }
